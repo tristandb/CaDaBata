@@ -1,15 +1,8 @@
-Eca - Event Condition Action
-=================================
+--Voorafgaand--
+Deze readme gaat er vanuit dat je in ieder geval python 3.2 hebt geinstalleerd
+en weet hoe je (op Windows) command prompt (cmd.exe) moet openen of navigeren naar een directory.
 
-Eca is an educational tool aimed at allowing students to quickly prototype
-rules for handling events. The basis of Neca is a rules system that reacts to
-externally generated events.
-
-The architecture favours simplicity over robustness. Multithreading is used in
-favour of more suitable parallelism options such as greenlets to keep
-dependencies to a minimum for ease of deployment.
-
-This program is not intended for production use. It may contain security issues
-not tolerable outside of a controlled environment.
-
-Eca requires Python 3.2 or higher.
+--Installeer instructies
+Navigeer met command prompt naar '\cadabata\' en run dit command: 'python neca.py -s cadabata.py'
+Navigeer nu naar 'http://localhost:8080/' in je webbrowser om het Twitter-dashboard te openen.
+Het programma werkt niet in Waterfox (64-bits Firefox)
