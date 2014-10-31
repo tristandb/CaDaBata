@@ -1,0 +1,143 @@
+/* Tags */
+body {
+	font-family: 'Roboto', sans-serif !important;
+	margin-left: 10px;
+	margin-right: 10px;
+	background: #1B1517 url("../media/background.jpg") no-repeat center top;
+	background-color: #1B1517 !important;
+}
+
+/* Classes */
+.logo {
+	height: 25px;
+	margin-top: -20px;
+	margin-bottom: -15px;
+}
+
+.navbar-text {
+	padding-top: 3px;
+	font-style: italic;
+}
+
+.name{
+	font-size: 14px;
+	font-weight: bold;
+	color: #292F33;
+}
+.username{
+	color: #8899A6;
+	font-size: 13px;
+	float: right;
+}
+.time{
+	color: #8899A6;
+	font-size: 13px;
+	white-space: nowrap;
+}
+.tweet-text{
+	color: #292F33;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 22px;
+	white-space: pre-wrap;
+}
+a.link:hover{
+	text-decoration: none;
+}
+.glyphicon.button{
+	color: #ccd6dd;
+}
+.clicked{
+	color: #6CC417 !important; 
+}
+
+.display-none{
+	display: none;
+}
+.functiebalk{
+	color: #CCD6DD;
+	float: right !important;
+}
+span.glyphicon{
+	float: right;
+	color: #777777;
+	margin-left: 6px;
+	font-size: 20px;
+	cursor: pointer;
+}
+span.glyphicon:hover{
+	color: #428BCA;
+}
+
+.avatar{
+	margin-left: -10px;
+	margin-top: 5px;
+}
+.semi-transparent{	
+	background: rgba(255, 255, 255, 0.3);
+}
+.semi-transparent .manual{
+	background: rgba(255, 255, 255, 0.6) !important;
+}
+
+.tweetsrow{
+	height: 800px;
+}
+#negatief_saved div #savebutton, #alert_saved div #savebutton, #positive_saved div #savebutton{
+	display: none;
+}
+.manual{
+	margin-left: 15px;
+	margin-right: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-size: 22px;
+}
+.twitterimage{
+	width: 49%;
+}
+.jumbotron.home-jumbotron{
+	height: 250px;
+}
+.jumbotron.home-jumbotron.bigger{
+	height: 600px !important;
+	
+}
+/* Remove the retweet button */
+#tweets_negative #retweetbutton, #negatief_saved #retweetbutton{
+	display: none;
+}
+
+/* Adjustments to Bootstrap. It won't support some functions :( */
+.nav.nav-tabs li{
+	width: 50%;
+}
+#tabs ul{
+	border-bottom-style: none !important;
+}
+#tabs ul li:not(.active){
+	background: rgba(238, 238, 238, 0.6) !important;
+}
+/* ID's */
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1100px;
+	width: 100%;
+}
+#tabs{
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: -25px;
+	max-height: 800px;
+}
+
+#tweets_negative, #tweets_positive, #tweets_alert, #alert_saved, #positive_saved, #negatief_saved{
+	background: rgba(238, 238, 238, 0.6) !important;
+	height: 720px;
+	overflow-y: auto;
+	overflow-x: hidden
+}
+#clearlocalstorage{
+	margin-bottom: 25px;
+}

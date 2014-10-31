@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/png" href="/media/favicon.png"/>
+		
+		<!-- CSS import -->
+		<link rel="stylesheet" href="/style/layout.css"/>
+		
+		<!-- jQuery (1.10.2) and jQuery UI (1.11.2) import -->
+		<script language="javascript" type="text/javascript" src="/lib/jquery.min.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery-ui.min.js"></script>
+		 
+		<!-- Flot import -->		
+		<script language="javascript" type="text/javascript" src="/lib/core.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/charts.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/tweets.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery.flot.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery.flot.resize.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery.flot.time.js"></script>
+
+		<!-- Title -->
+		<title> CaDaBata </title>
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+		
+		<!-- Latest compiled and minified JavaScript -->
+		<script language="javascript" type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		
+		<!-- our own scripts -->
+		<script language="javascript" type="text/javascript" src="/lib/cadabata.js"></script>
+	</head>
+	<body>
+		<!-- Navigation bar -->
+		<nav class="navbar navbar-inverse" role="navigation" >
+			<!-- #wrapper horizontally centers the div with a certain max-width.-->
+			<div id="wrapper">			
+				<!-- Brand and toggle get grouped for better mobile display (Bootstrap comment) -->
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/"><img src="media/CadaBata_white.png" class="logo" ></a>
+					<p class="navbar-text">Calamiteitendashboard voor de organisatie van de Batavierenrace</p>				   
+				</div>				
+				
+				<!-- Menu buttons will disappear when browser width < 768px. This will save some space -->
+				<div class="collapse navbar-collapse">
+					
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active"><a href="/">Home</a></li>
+						<li class=""><a target="_blank" href="manual.html">Help</a></li>
+					</ul>
+				</div>
+			</div>
+		
+		</nav>
+		<!-- Content -->
+		<!-- #wrapper horizontally centers the div with a certain max-width.-->
+		<div id="wrapper" class="semi-transparent">
+			<div class="jumbotron home-jumbotron">
+				<div id="flot0" class="col-xs-9" style="height:100%;"></div>
+				<div id="choices" class="col-xs-3" style="height:100%">Selectiecriteria<div></div></div>			
+				<div style="display:block; float:right;" id="changesize"><span title="Maak de grafiek groter" class="glyphicon glyphicon-fullscreen"></span></div>
+			</div>
+			
+			<div class="row tweetsrow">
+				<!-- Negative tab -->
+				<div class="col-sm-6 col-md-4 list">					
+					<div id="tabs">
+						<h2> Negatief </h2>
+						<ul class="nav nav-tabs" role="tablist">
+						  <li class="active neg-tweets" title="Laat de meest recente negatieve tweets zien"><a href="#tweets">Negatief</a></li>
+						  <li class="neg-saved" title="Laat alle opgeslagen negatieve tweets zien"><a href="#negatief-saved">Opgeslagen</a></li>
+						</ul>
+						<div id="tweets_negative">
+							<!-- Display negative tweets -->
+						</div>
+						<div id="negatief_saved" class="display-none">
+							<!-- Display saved negative tweets -->
+						</div>
+					
+					
+					</div>
+				</div>
+				<!-- Alert tab -->
+				<div class="col-sm-6 col-md-4 list">				
+					<div id="tabs">
+						<h2> Alert </h2>
+						<ul class="nav nav-tabs" role="tablist">
+						  <li class="active al-tweets" title="Laat de meest recente alarmerende tweets zien"><a href="#tweets">Alerts</a></li>
+						  <li class="al-saved" title="Laat alle opgeslagen alarmerende tweets zien"><a href="#alert-saved">Opgeslagen</a></li>
+						</ul>
+						<div id="tweets_alert">
+							<!-- Display alert tweets -->
+						</div>
+						<div id="alert_saved" class="display-none">
+							<!-- Display saved alerts -->
+						</div>
+					
+					
+					</div>
+				</div>
+				<!-- Postive tab -->
+				<div class="col-sm-6 col-md-4 list">				
+					<div id="tabs">
+						<h2> Positief </h2>
+						<ul class="nav nav-tabs" role="tablist">
+						  <li class="active al-tweets" title="Laat de meest recente positieve tweets zien."><a href="#tweets">Positief</a></li>
+						  <li class="al-saved" title="Laat de opgeslagen positieve tweets zien."><a href="#alert-saved">Opgeslagen</a></li>
+						</ul>
+						<div id="tweets_positive">
+							<!-- Display positive tweets -->
+						</div>
+						<div id="positive_saved" class="display-none">
+							<!-- Display saved positive tweets -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Who doesn't like some javascript? The following javascript manages the data put into the divs and Flot -->
+		<script type="text/javascript">
+        block('#tweets_negative').tweets({ memory: 300 });
+        block('#tweets_positive').tweets({ memory: 300 });
+        block('#tweets_alert')   .tweets({ memory: 300 });
+        events.connect('tweet_negative', '#tweets_negative');
+        events.connect('tweet_positive', '#tweets_positive');
+        events.connect('tweet_alert',    '#tweets_alert');
+        
+        events.connect('tweet_flot', '#flot0');
+        block('#flot0').rolling_chart({
+            memory: 100000, // We want to see every data point.
+            $choices: $('#choices'),
+            series: {
+                'pos_neg_alr':{label: 'positief - negatief - alert', color:'black', data: []},
+                'pos_neg': {label: 'positief - negatief', color:'purple', data: []},
+                'alert': {label: 'alert', color:'red', data: []},
+                'negative': {label: 'negatief', color:'orange', data: []},
+                'positive': {label: 'positief', color:'green', data: []}
+            },
+            options: {
+                xaxis: {
+                    mode: 'time'
+                },
+                yaxis: {
+                    minTickSize: 1,
+                    tickDecimals: 0
+                },
+                legend: {
+                    position: 'nw',
+                    sorted: 'reverse'
+                }
+            },
+            debug: false,
+            ignoreIrrelevantTweets: false
+        });
+		</script>
+	</body>
+</html>

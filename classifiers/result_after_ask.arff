@@ -1,0 +1,2902 @@
+@relation 'ARFF for bata_2014.txt-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"_set_1_of_1'
+
+@attribute @@class@@ {T,N,F,A}
+@attribute # numeric
+@attribute #Arnhemse numeric
+@attribute #BATA13 numeric
+@attribute #Bata numeric
+@attribute #Bata13 numeric
+@attribute #Bata2013 numeric
+@attribute #Batavierenrace numeric
+@attribute #DRUIndustriepark numeric
+@attribute #EHBO numeric
+@attribute #Enschede numeric
+@attribute #HANnl numeric
+@attribute #KWF numeric
+@attribute #Nijmegen numeric
+@attribute #Overijssel numeric
+@attribute #RMCTwente numeric
+@attribute #Roetersrun numeric
+@attribute #RunKeeper numeric
+@attribute #TVEFM numeric
+@attribute #Twente numeric
+@attribute #UTwente numeric
+@attribute #Ulft numeric
+@attribute #UniTeamAdam numeric
+@attribute #Vallei numeric
+@attribute #Varsseveld numeric
+@attribute #Vrijhof numeric
+@attribute #WWEFM numeric
+@attribute #amateurvoetbal numeric
+@attribute #arnhem numeric
+@attribute #atletiek numeric
+@attribute #avphoenix numeric
+@attribute #bata numeric
+@attribute #bata13 numeric
+@attribute #bata2013 numeric
+@attribute #bata4life numeric
+@attribute #batabusjestracker numeric
+@attribute #bataradio numeric
+@attribute #batavierenfeest numeric
+@attribute #batavierenrace numeric
+@attribute #bata… numeric
+@attribute #create2013 numeric
+@attribute #deventer numeric
+@attribute #dtv numeric
+@attribute #enschede numeric
+@attribute #hanze numeric
+@attribute #hardlopen numeric
+@attribute #hengelo numeric
+@attribute #kwf numeric
+@attribute #nieuws numeric
+@attribute #nijmegen numeric
+@attribute #rabobanktilburg numeric
+@attribute #rtvoost numeric
+@attribute #salland numeric
+@attribute #schaamtelozezelfpromotie numeric
+@attribute #sport numeric
+@attribute #stadvannu numeric
+@attribute #student numeric
+@attribute #studenten numeric
+@attribute #tartantrappers numeric
+@attribute #taxi numeric
+@attribute #topsportklimaat numeric
+@attribute #trots numeric
+@attribute #tvefm numeric
+@attribute #twente numeric
+@attribute #utwente numeric
+@attribute #vestingbar numeric
+@attribute #zinin numeric
+@attribute #zwolle numeric
+@attribute &amp numeric
+@attribute &gt numeric
+@attribute + numeric
+@attribute - numeric
+@attribute -D numeric
+@attribute / numeric
+@attribute //t numeric
+@attribute //t… numeric
+@attribute //… numeric
+@attribute 0 numeric
+@attribute 00 numeric
+@attribute 000 numeric
+@attribute 02 numeric
+@attribute 053 numeric
+@attribute 1 numeric
+@attribute 10 numeric
+@attribute 10k numeric
+@attribute 10km numeric
+@attribute 11 numeric
+@attribute 112 numeric
+@attribute 12 numeric
+@attribute 13 numeric
+@attribute 14 numeric
+@attribute 15 numeric
+@attribute 17 numeric
+@attribute 175 numeric
+@attribute 18 numeric
+@attribute 187e numeric
+@attribute 19 numeric
+@attribute 1e numeric
+@attribute 1km numeric
+@attribute 2 numeric
+@attribute 20 numeric
+@attribute 2013 numeric
+@attribute 23 numeric
+@attribute 25 numeric
+@attribute 26/27/28 numeric
+@attribute 27 numeric
+@attribute 28 numeric
+@attribute 2e numeric
+@attribute 2nd numeric
+@attribute 3 numeric
+@attribute 30 numeric
+@attribute 350 numeric
+@attribute 3e numeric
+@attribute 4 numeric
+@attribute 40 numeric
+@attribute 41e numeric
+@attribute 41ste numeric
+@attribute 45 numeric
+@attribute 473 numeric
+@attribute 5 numeric
+@attribute 57 numeric
+@attribute 6 numeric
+@attribute 6e numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 8000 numeric
+@attribute 8500 numeric
+@attribute 8e numeric
+@attribute 9 numeric
+@attribute = numeric
+@attribute @ numeric
+@attribute @ASVTaste numeric
+@attribute @Aeolusrun numeric
+@attribute @AnkeWiegmans numeric
+@attribute @Appeltaart200 numeric
+@attribute @BataRadio numeric
+@attribute @Batavierenrace numeric
+@attribute @Breenmagazine numeric
+@attribute @ConcepTTwente numeric
+@attribute @DEMCON numeric
+@attribute @DRU_IP numeric
+@attribute @DSRVLAGA numeric
+@attribute @EBFGroningen numeric
+@attribute @FemkeAkkerman numeric
+@attribute @Gem_OIJ numeric
+@attribute @HalloHierManon numeric
+@attribute @HanTenBroeke numeric
+@attribute @HinkeBarry numeric
+@attribute @Jvreeman numeric
+@attribute @MVenhovens numeric
+@attribute @MaaikePlatvoet numeric
+@attribute @MauriceEssers numeric
+@attribute @MikeVerkouter numeric
+@attribute @NSAFZeuS numeric
+@attribute @Nultweevier numeric
+@attribute @Oranjewoud numeric
+@attribute @PGWelman numeric
+@attribute @RUNijmegen numeric
+@attribute @RadioZSP numeric
+@attribute @RunnersworldGr numeric
+@attribute @SNOTRunningteam numeric
+@attribute @SSCEindhoven numeric
+@attribute @SV_Synergy numeric
+@attribute @ScienceCafe053 numeric
+@attribute @Sportraad numeric
+@attribute @StefOosterveld numeric
+@attribute @TUDelft_SC numeric
+@attribute @Tbuitink numeric
+@attribute @UTNieuws numeric
+@attribute @UTwente numeric
+@attribute @UniTeamAdam numeric
+@attribute @VSArnhem numeric
+@attribute @alumniUT numeric
+@attribute @asvzhtc numeric
+@attribute @bataradio numeric
+@attribute @batavier numeric
+@attribute @batavierenrace numeric
+@attribute @bata… numeric
+@attribute @berthellegers numeric
+@attribute @beugeltjezwolle numeric
+@attribute @carlocuijpers numeric
+@attribute @dgnijmegen numeric
+@attribute @enschede numeric
+@attribute @ffbusjehuren numeric
+@attribute @fgj_oosterveld numeric
+@attribute @gijsvofoto numeric
+@attribute @hanze numeric
+@attribute @kwf_nl numeric
+@attribute @nieuws_enschede numeric
+@attribute @parkdekotten numeric
+@attribute @radiozsp numeric
+@attribute @renepolman numeric
+@attribute @rilonl numeric
+@attribute @rtvoost numeric
+@attribute @sandrapool1 numeric
+@attribute @skyflynl numeric
+@attribute @studentsportNL numeric
+@attribute @svidLucid numeric
+@attribute @the25Gangsters numeric
+@attribute @tubantia numeric
+@attribute @tvefm numeric
+@attribute @utnieuws numeric
+@attribute @utsaxionteam numeric
+@attribute @vvDrienerlo numeric
+@attribute @… numeric
+@attribute Aangekomen numeric
+@attribute Aeolus numeric
+@attribute Aftellen numeric
+@attribute Aha numeric
+@attribute Al numeric
+@attribute Alfred numeric
+@attribute Alle numeric
+@attribute Alleen numeric
+@attribute Aloha numeric
+@attribute Als numeric
+@attribute Amsterdam numeric
+@attribute Antilopen numeric
+@attribute Arne numeric
+@attribute At numeric
+@attribute Baan numeric
+@attribute Barchem numeric
+@attribute Bata numeric
+@attribute Bata4life numeric
+@attribute BataRadio numeric
+@attribute Batatraining numeric
+@attribute Batav numeric
+@attribute Batavierenrace numeric
+@attribute Ben numeric
+@attribute Benelux numeric
+@attribute Betonnen numeric
+@attribute Bij numeric
+@attribute Bikkels numeric
+@attribute Buitengewoon numeric
+@attribute Campus numeric
+@attribute Check numeric
+@attribute Contracten numeric
+@attribute D numeric
+@attribute DRU numeric
+@attribute DRU-complex numeric
+@attribute Daarom numeric
+@attribute Dat numeric
+@attribute De numeric
+@attribute Devils numeric
+@attribute Dit numeric
+@attribute Doe numeric
+@attribute Donders numeric
+@attribute Doneer numeric
+@attribute Download numeric
+@attribute Dus numeric
+@attribute EMMELOORD numeric
+@attribute ENSCHEDE numeric
+@attribute ENSCHEDE- numeric
+@attribute Een numeric
+@attribute Eindhoven numeric
+@attribute En numeric
+@attribute Enschede numeric
+@attribute Er numeric
+@attribute Erik numeric
+@attribute Eénenveertigste numeric
+@attribute FM numeric
+@attribute Falco numeric
+@attribute Fantastic numeric
+@attribute Filmpje numeric
+@attribute Fiselier numeric
+@attribute Foto numeric
+@attribute Fotopost numeric
+@attribute Ga numeric
+@attribute Gefeliciteerd numeric
+@attribute Gemengde numeric
+@attribute Geweldige numeric
+@attribute Gezellig numeric
+@attribute Ging numeric
+@attribute Gister numeric
+@attribute Gisteravond numeric
+@attribute Go numeric
+@attribute Go-go-go numeric
+@attribute Goed numeric
+@attribute Groningen numeric
+@attribute Grootste numeric
+@attribute Hanze/RUG/ACLO-team numeric
+@attribute He numeric
+@attribute Heb numeric
+@attribute Heel numeric
+@attribute Helaas numeric
+@attribute Herstart numeric
+@attribute Het numeric
+@attribute Hopelijk numeric
+@attribute Huis numeric
+@attribute I numeric
+@attribute Iedereen numeric
+@attribute Ik numeric
+@attribute In numeric
+@attribute Industriepark numeric
+@attribute Is numeric
+@attribute Je numeric
+@attribute Jullie numeric
+@attribute Just numeric
+@attribute KWF numeric
+@attribute Kankerbestrijding numeric
+@attribute Kijk numeric
+@attribute Klaar numeric
+@attribute Kom numeric
+@attribute Komend numeric
+@attribute Kunnen numeric
+@attribute Laat numeric
+@attribute Laatste numeric
+@attribute Lang numeric
+@attribute Leergeld numeric
+@attribute Lekker numeric
+@attribute Lekkere numeric
+@attribute Leuk numeric
+@attribute Lochemse numeric
+@attribute Loop numeric
+@attribute Lopers numeric
+@attribute Luister numeric
+@attribute MESA+ numeric
+@attribute MIRA numeric
+@attribute Maar numeric
+@attribute Mag numeric
+@attribute Mark numeric
+@attribute Markt numeric
+@attribute Meld numeric
+@attribute Met numeric
+@attribute Middagploeg numeric
+@attribute Mijn numeric
+@attribute Misschien numeric
+@attribute Moet numeric
+@attribute Mooi numeric
+@attribute Morgen numeric
+@attribute Morgennacht numeric
+@attribute Morgenvroeg numeric
+@attribute N numeric
+@attribute NIJMEGEN numeric
+@attribute NOP numeric
+@attribute NSK numeric
+@attribute Na numeric
+@attribute Net numeric
+@attribute Nieuw numeric
+@attribute Nieuws numeric
+@attribute Nieuwsbank numeric
+@attribute Nijmeegse numeric
+@attribute Nijmegen numeric
+@attribute Nog numeric
+@attribute Nu numeric
+@attribute O numeric
+@attribute OIJ numeric
+@attribute OVERIJSSEL numeric
+@attribute Off numeric
+@attribute Om numeric
+@attribute Onderweg numeric
+@attribute Onderzoek numeric
+@attribute Ontbijt numeric
+@attribute Onze numeric
+@attribute Ook numeric
+@attribute Oost numeric
+@attribute Op numeric
+@attribute Oranjewoud numeric
+@attribute Organiseer numeric
+@attribute Oude numeric
+@attribute Over numeric
+@attribute Participating numeric
+@attribute Persbericht numeric
+@attribute PlsRT numeric
+@attribute Politie numeric
+@attribute Prachtige numeric
+@attribute Prima numeric
+@attribute RT numeric
+@attribute RTV numeric
+@attribute RU/HAN numeric
+@attribute RU/HAN-team numeric
+@attribute RUG/Hanze numeric
+@attribute Radboud numeric
+@attribute Regio numeric
+@attribute Reportage numeric
+@attribute Runnersworld numeric
+@attribute S numeric
+@attribute Sponsor numeric
+@attribute Sport numeric
+@attribute Sportcentrum numeric
+@attribute Sta numeric
+@attribute Steun numeric
+@attribute Stobbelaar numeric
+@attribute Stop numeric
+@attribute Straks numeric
+@attribute Studenten numeric
+@attribute Succes numeric
+@attribute Support numeric
+@attribute T numeric
+@attribute TU-team numeric
+@attribute TU/e-Fontys numeric
+@attribute TV numeric
+@attribute Team numeric
+@attribute Team-Eindhoven numeric
+@attribute Tebodin numeric
+@attribute Terug numeric
+@attribute Thanks numeric
+@attribute The numeric
+@attribute Tientallen numeric
+@attribute Tjonge numeric
+@attribute Toch numeric
+@attribute Ton numeric
+@attribute Top numeric
+@attribute Topweekend numeric
+@attribute Tot numeric
+@attribute Tri numeric
+@attribute Trots numeric
+@attribute Twente numeric
+@attribute ULFT numeric
+@attribute US numeric
+@attribute UT numeric
+@attribute UT-Nieuws numeric
+@attribute UT-team numeric
+@attribute UT/Saxion numeric
+@attribute UT/Saxion-team numeric
+@attribute Ulft numeric
+@attribute Universiteit numeric
+@attribute Universiteitsteam numeric
+@attribute UvT numeric
+@attribute VESTING numeric
+@attribute Van numeric
+@attribute Vanavond numeric
+@attribute Vandaag numeric
+@attribute Vanmiddag numeric
+@attribute Vanmorgen numeric
+@attribute Vannacht numeric
+@attribute Veel numeric
+@attribute Verdorie numeric
+@attribute Vol numeric
+@attribute Volg numeric
+@attribute Volgend numeric
+@attribute Volgende numeric
+@attribute Voor numeric
+@attribute Voorsprong numeric
+@attribute Vrijdag numeric
+@attribute WB-alumnus numeric
+@attribute WP26 numeric
+@attribute Wageningen numeric
+@attribute Wageningse numeric
+@attribute Wakker numeric
+@attribute Was numeric
+@attribute Wat numeric
+@attribute Water numeric
+@attribute We numeric
+@attribute Weekkrant numeric
+@attribute Weer numeric
+@attribute Welke numeric
+@attribute Welman numeric
+@attribute Wie numeric
+@attribute Wij numeric
+@attribute Wil numeric
+@attribute Worden numeric
+@attribute Wordt numeric
+@attribute Wow numeric
+@attribute Zaterdag numeric
+@attribute Zet numeric
+@attribute Zie numeric
+@attribute Zijn numeric
+@attribute Zin numeric
+@attribute Zo numeric
+@attribute Zou numeric
+@attribute a numeric
+@attribute aan numeric
+@attribute aangemeld numeric
+@attribute aanmoedigen numeric
+@attribute aantal numeric
+@attribute about numeric
+@attribute achievement numeric
+@attribute achter numeric
+@attribute actie numeric
+@attribute ada numeric
+@attribute af numeric
+@attribute afgelopen numeric
+@attribute afstand numeric
+@attribute al numeric
+@attribute aldus numeric
+@attribute algemeen numeric
+@attribute all numeric
+@attribute alle numeric
+@attribute allemaal numeric
+@attribute alles numeric
+@attribute als numeric
+@attribute alweer numeric
+@attribute and numeric
+@attribute andere numeric
+@attribute ang numeric
+@attribute app numeric
+@attribute april numeric
+@attribute are numeric
+@attribute arm numeric
+@attribute artikel numeric
+@attribute at numeric
+@attribute a… numeric
+@attribute back numeric
+@attribute bata numeric
+@attribute bata4life numeric
+@attribute batafeest numeric
+@attribute batavierenrace numeric
+@attribute bbq numeric
+@attribute bed numeric
+@attribute bedankt numeric
+@attribute begeleiding numeric
+@attribute begin numeric
+@attribute beginnen numeric
+@attribute begint numeric
+@attribute begonnen numeric
+@attribute behaald numeric
+@attribute ben numeric
+@attribute benen numeric
+@attribute benieuwd numeric
+@attribute bereidt numeric
+@attribute berg numeric
+@attribute beschikbaar numeric
+@attribute best numeric
+@attribute beter numeric
+@attribute betere numeric
+@attribute bezig numeric
+@attribute bier numeric
+@attribute biertje numeric
+@attribute biggest numeric
+@attribute bij numeric
+@attribute bijeenkomst numeric
+@attribute bijkomen numeric
+@attribute bijna numeric
+@attribute bijzonder numeric
+@attribute binnen numeric
+@attribute bis numeric
+@attribute blij numeric
+@attribute blijft numeric
+@attribute boven numeric
+@attribute brengt numeric
+@attribute bus numeric
+@attribute busje numeric
+@attribute campus numeric
+@attribute cancer numeric
+@attribute centrum numeric
+@attribute check numeric
+@attribute co numeric
+@attribute co/1SKa76Im92 numeric
+@attribute co/4O… numeric
+@attribute co/4r3MlGNYJ2 numeric
+@attribute co/5uGNMsaxvS numeric
+@attribute co/794vB5Nk95 numeric
+@attribute co/8OFYmOr2xg numeric
+@attribute co/90Z9H3LDJ4 numeric
+@attribute co/DSwCDfLbsu numeric
+@attribute co/GXu7Pbrds7 numeric
+@attribute co/H8jXXciKdZ numeric
+@attribute co/HCZExwEMtp numeric
+@attribute co/NdvkbjBP5q numeric
+@attribute co/OhrnQvnvM… numeric
+@attribute co/PPtPrw3u5C numeric
+@attribute co/R5R2KmUBLq numeric
+@attribute co/RQmnTAfGhu numeric
+@attribute co/S30wtelDGX numeric
+@attribute co/SYYnzM9fK8 numeric
+@attribute co/TTf32FZLr2 numeric
+@attribute co/Tn18jeBpr8 numeric
+@attribute co/Uf03BDIAIB numeric
+@attribute co/VN1o8wMr2E numeric
+@attribute co/YBocwNKbvO numeric
+@attribute co/YLLxtrgKwP numeric
+@attribute co/YmJdenv8IV numeric
+@attribute co/Zg numeric
+@attribute co/ZlRpjhGk1h numeric
+@attribute co/a4L5n0gde8 numeric
+@attribute co/bSSM9AzL1f numeric
+@attribute co/byodsIybR0 numeric
+@attribute co/cQFKEE4Z65 numeric
+@attribute co/kyOeb6F1yU numeric
+@attribute co/lkqg07sgfy numeric
+@attribute co/lrQgQ5u8MT numeric
+@attribute co/m3LxL0dIb3 numeric
+@attribute co/mSOS8tqmLF numeric
+@attribute co/qBdwUWQPbt numeric
+@attribute co/sd9ih2oRC6 numeric
+@attribute co/ynOxSb8fhE numeric
+@attribute co/yqB1N6XPes numeric
+@attribute commandocentrale numeric
+@attribute compleet numeric
+@attribute completed numeric
+@attribute co… numeric
+@attribute d numeric
+@attribute daar numeric
+@attribute daarna numeric
+@attribute dag numeric
+@attribute dagen numeric
+@attribute dan numeric
+@attribute dari numeric
+@attribute dat numeric
+@attribute day numeric
+@attribute de numeric
+@attribute deden numeric
+@attribute deel numeric
+@attribute deelgenomen numeric
+@attribute deelnemende numeric
+@attribute deelnemers numeric
+@attribute derde numeric
+@attribute deze numeric
+@attribute di numeric
+@attribute die numeric
+@attribute digitaal numeric
+@attribute direct numeric
+@attribute dit numeric
+@attribute doe numeric
+@attribute doel numeric
+@attribute doen numeric
+@attribute doet numeric
+@attribute donderdag numeric
+@attribute door numeric
+@attribute dr numeric
+@attribute druk numeric
+@attribute dus numeric
+@attribute dé numeric
+@attribute e numeric
+@attribute echt numeric
+@attribute echte numeric
+@attribute economische numeric
+@attribute editie numeric
+@attribute een numeric
+@attribute eens numeric
+@attribute eerst numeric
+@attribute eerste numeric
+@attribute eindelijk numeric
+@attribute eindfeest numeric
+@attribute en numeric
+@attribute enschede numeric
+@attribute enthousiaste numeric
+@attribute er numeric
+@attribute erbij numeric
+@attribute erg numeric
+@attribute ers numeric
+@attribute estafette numeric
+@attribute estafetteloop numeric
+@attribute etape numeric
+@attribute etappe numeric
+@attribute etappes numeric
+@attribute eten numeric
+@attribute euro numeric
+@attribute even numeric
+@attribute evenement numeric
+@attribute event numeric
+@attribute extra numeric
+@attribute fantastisch numeric
+@attribute fantastische numeric
+@attribute feest numeric
+@attribute feestje numeric
+@attribute fee… numeric
+@attribute few numeric
+@attribute ff numeric
+@attribute finish numeric
+@attribute finished numeric
+@attribute flinke numeric
+@attribute for numeric
+@attribute foto numeric
+@attribute g numeric
+@attribute ga numeric
+@attribute gaaf numeric
+@attribute gaan numeric
+@attribute gaat numeric
+@attribute gaatje numeric
+@attribute gang numeric
+@attribute gebra numeric
+@attribute gedaan numeric
+@attribute gedaan’ numeric
+@attribute geen numeric
+@attribute gefinisht numeric
+@attribute gegaan numeric
+@attribute gehad numeric
+@attribute gehesen numeric
+@attribute geld numeric
+@attribute geleden numeric
+@attribute gelopen numeric
+@attribute gelukkig numeric
+@attribute gemaakt numeric
+@attribute gemiddelde numeric
+@attribute geniet numeric
+@attribute georganiseerd numeric
+@attribute geregeld numeric
+@attribute gerend numeric
+@attribute geslaagde numeric
+@attribute gesprek numeric
+@attribute getekend numeric
+@attribute geven numeric
+@attribute gevoelens numeric
+@attribute gevolgd numeric
+@attribute geweest numeric
+@attribute geweldig numeric
+@attribute geweldige numeric
+@attribute gewenst numeric
+@attribute gewerkt numeric
+@attribute gewonnen numeric
+@attribute gewoon numeric
+@attribute geworden numeric
+@attribute gezamenlijke numeric
+@attribute gezellig numeric
+@attribute gezocht numeric
+@attribute ging numeric
+@attribute go numeric
+@attribute goed numeric
+@attribute goede numeric
+@attribute graden numeric
+@attribute great numeric
+@attribute groep numeric
+@attribute grootste numeric
+@attribute haalt numeric
+@attribute half numeric
+@attribute hard numeric
+@attribute hardgelopen numeric
+@attribute hardlopen numeric
+@attribute hardloper numeric
+@attribute hardlopers numeric
+@attribute hari numeric
+@attribute has numeric
+@attribute heb numeric
+@attribute hebben numeric
+@attribute heeft numeric
+@attribute heel numeric
+@attribute heerlijk numeric
+@attribute heerlijke numeric
+@attribute helaas numeric
+@attribute hele numeric
+@attribute helemaal numeric
+@attribute hem numeric
+@attribute hemel numeric
+@attribute hen numeric
+@attribute herinneringen numeric
+@attribute herstart numeric
+@attribute het numeric
+@attribute hier numeric
+@attribute hij numeric
+@attribute hoe numeric
+@attribute hoogte numeric
+@attribute hoogtepunten numeric
+@attribute hoorbaar numeric
+@attribute horen numeric
+@attribute houden numeric
+@attribute hours numeric
+@attribute http numeric
+@attribute https numeric
+@attribute htt… numeric
+@attribute huis numeric
+@attribute hulde numeric
+@attribute hun numeric
+@attribute iedereen numeric
+@attribute iets numeric
+@attribute ik numeric
+@attribute impact numeric
+@attribute in numeric
+@attribute indrukwekkende numeric
+@attribute info@trimovere numeric
+@attribute inzet numeric
+@attribute is numeric
+@attribute it numeric
+@attribute ivm numeric
+@attribute jaar numeric
+@attribute jaarlijks numeric
+@attribute jaarlijkse numeric
+@attribute jacht numeric
+@attribute je numeric
+@attribute jij numeric
+@attribute jou numeric
+@attribute jouw numeric
+@attribute jullie numeric
+@attribute kampioen numeric
+@attribute kan numeric
+@attribute kanker numeric
+@attribute kankeronderzoek numeric
+@attribute kapot numeric
+@attribute ke numeric
+@attribute keer numeric
+@attribute keihard numeric
+@attribute kijken numeric
+@attribute kijkplezier numeric
+@attribute kilometer numeric
+@attribute klaar numeric
+@attribute klasse numeric
+@attribute klassement numeric
+@attribute kleine numeric
+@attribute klinkt numeric
+@attribute km numeric
+@attribute km/h numeric
+@attribute km/u numeric
+@attribute komen numeric
+@attribute komend numeric
+@attribute komende numeric
+@attribute komt numeric
+@attribute kop numeric
+@attribute kort numeric
+@attribute koud numeric
+@attribute krijgt numeric
+@attribute kunnen numeric
+@attribute kunt numeric
+@attribute kwijt numeric
+@attribute laat numeric
+@attribute laatste numeric
+@attribute lang numeric
+@attribute lange numeric
+@attribute langzaam numeric
+@attribute laten numeric
+@attribute lees- numeric
+@attribute lekker numeric
+@attribute leuk numeric
+@attribute leuke numeric
+@attribute leven numeric
+@attribute liep numeric
+@attribute liggen numeric
+@attribute ligt numeric
+@attribute lijkt numeric
+@attribute live numeric
+@attribute ll numeric
+@attribute loop numeric
+@attribute loopt numeric
+@attribute lopen numeric
+@attribute loper numeric
+@attribute lopers numeric
+@attribute lopersklassement numeric
+@attribute los numeric
+@attribute luister numeric
+@attribute l… numeric
+@attribute m numeric
+@attribute maal numeric
+@attribute maar numeric
+@attribute mag numeric
+@attribute mail numeric
+@attribute maken numeric
+@attribute massale numeric
+@attribute me numeric
+@attribute media numeric
+@attribute medische numeric
+@attribute mee numeric
+@attribute meedoen numeric
+@attribute meegedaan numeric
+@attribute meeloopt numeric
+@attribute meer numeric
+@attribute meerdere numeric
+@attribute meeste numeric
+@attribute mei numeric
+@attribute mensen numeric
+@attribute met numeric
+@attribute meter numeric
+@attribute middag numeric
+@attribute middagploeg numeric
+@attribute middernacht numeric
+@attribute mij numeric
+@attribute mijn numeric
+@attribute mijn/ numeric
+@attribute min numeric
+@attribute minuten numeric
+@attribute misschien numeric
+@attribute missen numeric
+@attribute mn numeric
+@attribute moet numeric
+@attribute mogelijk numeric
+@attribute mogen numeric
+@attribute moment numeric
+@attribute money numeric
+@attribute mooi numeric
+@attribute mooie numeric
+@attribute morgen numeric
+@attribute movere numeric
+@attribute mo… numeric
+@attribute muziek numeric
+@attribute my numeric
+@attribute n numeric
+@attribute na numeric
+@attribute naar numeric
+@attribute naast numeric
+@attribute nacht numeric
+@attribute nachtploeg numeric
+@attribute nagenieten numeric
+@attribute namens numeric
+@attribute natuurlijk numeric
+@attribute negen numeric
+@attribute nemen numeric
+@attribute net numeric
+@attribute next numeric
+@attribute ng numeric
+@attribute nice numeric
+@attribute niet numeric
+@attribute nieuwe numeric
+@attribute nieuws numeric
+@attribute nijmegen numeric
+@attribute nl numeric
+@attribute nog numeric
+@attribute nr numeric
+@attribute nu numeric
+@attribute nya numeric
+@attribute o numeric
+@attribute ochtend numeric
+@attribute ochtendploeg numeric
+@attribute ochtendshift numeric
+@attribute of numeric
+@attribute officiële numeric
+@attribute om numeric
+@attribute on numeric
+@attribute onder numeric
+@attribute onderweg numeric
+@attribute ongeregeld numeric
+@attribute online numeric
+@attribute ons numeric
+@attribute ontknoping numeric
+@attribute ontspannen numeric
+@attribute ontvangen numeric
+@attribute ontwikkelingen numeric
+@attribute onze numeric
+@attribute ooit numeric
+@attribute ook numeric
+@attribute op numeric
+@attribute opgehaald numeric
+@attribute opstelling numeric
+@attribute organisatie numeric
+@attribute organisatorisch numeric
+@attribute oude numeric
+@attribute our numeric
+@attribute out numeric
+@attribute over numeric
+@attribute overall numeric
+@attribute p numeric
+@attribute paar numeric
+@attribute pakken numeric
+@attribute party numeric
+@attribute pelari numeric
+@attribute per numeric
+@attribute plaats numeric
+@attribute plaatsgevonden numeric
+@attribute plek numeric
+@attribute plezier numeric
+@attribute ploeg numeric
+@attribute ploegleider numeric
+@attribute point numeric
+@attribute prachtige numeric
+@attribute prijsuitreiking numeric
+@attribute prizes numeric
+@attribute proberen numeric
+@attribute promot numeric
+@attribute promoten numeric
+@attribute promotie numeric
+@attribute punt numeric
+@attribute punten numeric
+@attribute pure numeric
+@attribute race numeric
+@attribute raise numeric
+@attribute ready numeric
+@attribute regen numeric
+@attribute registreer numeric
+@attribute relay numeric
+@attribute rennen numeric
+@attribute renners numeric
+@attribute research numeric
+@attribute revanche numeric
+@attribute richting numeric
+@attribute rijden numeric
+@attribute rond numeric
+@attribute rondje numeric
+@attribute route numeric
+@attribute rug numeric
+@attribute ruim numeric
+@attribute ruime numeric
+@attribute run numeric
+@attribute running numeric
+@attribute s numeric
+@attribute sabaar numeric
+@attribute samen numeric
+@attribute samenwerking numeric
+@attribute schrijven numeric
+@attribute selectie numeric
+@attribute sfeerimpresssie numeric
+@attribute sintelbaan numeric
+@attribute slaap numeric
+@attribute slaat numeric
+@attribute slapen numeric
+@attribute slotetappe numeric
+@attribute snel numeric
+@attribute snelheid numeric
+@attribute snelle numeric
+@attribute sneller numeric
+@attribute snelste numeric
+@attribute social numeric
+@attribute solide numeric
+@attribute some numeric
+@attribute spierpijn numeric
+@attribute sponsoren numeric
+@attribute sportief numeric
+@attribute staan numeric
+@attribute staat numeric
+@attribute start numeric
+@attribute startgroep numeric
+@attribute startschot numeric
+@attribute steeds numeric
+@attribute sterk numeric
+@attribute straks numeric
+@attribute strijd numeric
+@attribute student numeric
+@attribute studenten numeric
+@attribute studentenfeest numeric
+@attribute studentensportevenement numeric
+@attribute studententeams numeric
+@attribute stuk numeric
+@attribute stukje numeric
+@attribute succes numeric
+@attribute super numeric
+@attribute t numeric
+@attribute te numeric
+@attribute team numeric
+@attribute teams numeric
+@attribute tegen numeric
+@attribute ter numeric
+@attribute terug numeric
+@attribute thanks numeric
+@attribute the numeric
+@attribute tijd numeric
+@attribute tijdens numeric
+@attribute tim numeric
+@attribute to numeric
+@attribute toch numeric
+@attribute toi numeric
+@attribute top numeric
+@attribute tot numeric
+@attribute totaal numeric
+@attribute trainen numeric
+@attribute training numeric
+@attribute trein numeric
+@attribute triest numeric
+@attribute trots numeric
+@attribute tussen numeric
+@attribute twee numeric
+@attribute tweede numeric
+@attribute tweet numeric
+@attribute tweets numeric
+@attribute twitter numeric
+@attribute uit numeric
+@attribute uitslag numeric
+@attribute uitslagen numeric
+@attribute uit… numeric
+@attribute universiteitcompetitie numeric
+@attribute universiteits numeric
+@attribute universiteitscompetitie numeric
+@attribute up numeric
+@attribute update numeric
+@attribute updates numeric
+@attribute uur numeric
+@attribute uurtjes numeric
+@attribute v numeric
+@attribute van numeric
+@attribute vanacht numeric
+@attribute vanaf numeric
+@attribute vanavond numeric
+@attribute vandaag numeric
+@attribute vanmiddag numeric
+@attribute vannacht numeric
+@attribute vanuit numeric
+@attribute vanwege numeric
+@attribute vast numeric
+@attribute vd numeric
+@attribute veel numeric
+@attribute ver numeric
+@attribute verder numeric
+@attribute verjaardag numeric
+@attribute verslag numeric
+@attribute versterken numeric
+@attribute vertegenwoordigd numeric
+@attribute vertrekken numeric
+@attribute verwacht numeric
+@attribute verzorgen numeric
+@attribute via numeric
+@attribute vijf numeric
+@attribute vijfde numeric
+@attribute vind numeric
+@attribute vinden numeric
+@attribute vindt numeric
+@attribute vlag numeric
+@attribute vloer numeric
+@attribute voert numeric
+@attribute vol numeric
+@attribute volg numeric
+@attribute volgen numeric
+@attribute volgend numeric
+@attribute volgende numeric
+@attribute voor numeric
+@attribute voorbereiding numeric
+@attribute voorbereidingen numeric
+@attribute voorlopige numeric
+@attribute vorig numeric
+@attribute vrij numeric
+@attribute vrijdag numeric
+@attribute vrijdagnacht numeric
+@attribute vroeg numeric
+@attribute vroeger numeric
+@attribute waar numeric
+@attribute waard numeric
+@attribute waarschijnlijk numeric
+@attribute wakker numeric
+@attribute want numeric
+@attribute warming numeric
+@attribute was numeric
+@attribute wat numeric
+@attribute we numeric
+@attribute wedstrijd numeric
+@attribute week numeric
+@attribute weekend numeric
+@attribute weekendje numeric
+@attribute weer numeric
+@attribute weg numeric
+@attribute wekker numeric
+@attribute wel numeric
+@attribute wenst numeric
+@attribute werd numeric
+@attribute wereld numeric
+@attribute werk numeric
+@attribute werken numeric
+@attribute weten numeric
+@attribute wethouder numeric
+@attribute wie numeric
+@attribute wij numeric
+@attribute wil numeric
+@attribute willen numeric
+@attribute win numeric
+@attribute winnen numeric
+@attribute winst numeric
+@attribute wint numeric
+@attribute wisselpunt numeric
+@attribute wisselpun… numeric
+@attribute with numeric
+@attribute worden numeric
+@attribute wordt numeric
+@attribute yg numeric
+@attribute z numeric
+@attribute zal numeric
+@attribute zamelen numeric
+@attribute zaterdag numeric
+@attribute zaterdagmorgen numeric
+@attribute ze numeric
+@attribute zeer numeric
+@attribute zeker numeric
+@attribute zelf numeric
+@attribute zelfs numeric
+@attribute zesde numeric
+@attribute zet numeric
+@attribute zich numeric
+@attribute zie numeric
+@attribute zien numeric
+@attribute zij numeric
+@attribute zijn numeric
+@attribute zijn’ numeric
+@attribute zin numeric
+@attribute zit numeric
+@attribute zitten numeric
+@attribute zo numeric
+@attribute zoek numeric
+@attribute zoeken numeric
+@attribute zon numeric
+@attribute zonder numeric
+@attribute zooitje numeric
+@attribute zoon numeric
+@attribute zou numeric
+@attribute zoveel numeric
+@attribute zover numeric
+@attribute z’n numeric
+@attribute | numeric
+@attribute © numeric
+@attribute « numeric
+@attribute één numeric
+@attribute … numeric
+@attribute ‘Evenement numeric
+@attribute ‘Iedereen numeric
+@attribute – numeric
+@attribute #HetRutbeek numeric
+@attribute #NieuwsOverijssel numeric
+@attribute #gelderland numeric
+@attribute #gelderlandnieuws numeric
+@attribute #gezelschap numeric
+@attribute #koninklijk numeric
+@attribute #kwf_nl numeric
+@attribute #moe numeric
+@attribute #onderwijs numeric
+@attribute #progressie numeric
+@attribute #susa numeric
+@attribute #twentejournaal numeric
+@attribute /… numeric
+@attribute 100e numeric
+@attribute 10Â°C numeric
+@attribute 2014 numeric
+@attribute 30uur numeric
+@attribute 359 numeric
+@attribute 42e numeric
+@attribute 8975 numeric
+@attribute @HansBraker numeric
+@attribute @NormaGroep numeric
+@attribute @PetraSmolders numeric
+@attribute @Piebe numeric
+@attribute @ROFNijmegen numeric
+@attribute @dgachterhoek numeric
+@attribute @jeroenmouw numeric
+@attribute @oadreizen numeric
+@attribute @sogink numeric
+@attribute @spikeshop numeric
+@attribute @spike… numeric
+@attribute @studentmobiel numeric
+@attribute Altijd numeric
+@attribute Argonauten numeric
+@attribute Arnhemse numeric
+@attribute Bata4Life numeric
+@attribute DRINGEND numeric
+@attribute Dankzij numeric
+@attribute Donitas numeric
+@attribute Donitaters numeric
+@attribute Dress numeric
+@attribute Even numeric
+@attribute GEZOCHT numeric
+@attribute Immense numeric
+@attribute Komende numeric
+@attribute Lieve numeric
+@attribute Meer numeric
+@attribute Nieuw-Zeeland numeric
+@attribute Noorderplantsoen numeric
+@attribute Norma numeric
+@attribute Runningteam numeric
+@attribute SUSA numeric
+@attribute Sinds numeric
+@attribute Sporten numeric
+@attribute Temp numeric
+@attribute Verlenging numeric
+@attribute Vindhek numeric
+@attribute Vorig numeric
+@attribute actieve numeric
+@attribute appropriately numeric
+@attribute bate numeric
+@attribute be numeric
+@attribute binnenhalen numeric
+@attribute co/0E5x9dCBgF numeric
+@attribute co/5QBcAdPnhD numeric
+@attribute co/Cbos1t2tQN numeric
+@attribute co/FTvdKEVy0C numeric
+@attribute co/GzzXauQD7g numeric
+@attribute co/OGDitgvcbg numeric
+@attribute co/PhlHezigLB numeric
+@attribute co/PhzV43nmf7 numeric
+@attribute co/QtvIrtdN5G numeric
+@attribute co/UgqQa7zQ6v numeric
+@attribute co/YQIvRnddX4 numeric
+@attribute co/aaVO3vJCSG numeric
+@attribute co/ex83aixLwX numeric
+@attribute co/ngKmNTIoWz numeric
+@attribute co/o2VlBCg8sN numeric
+@attribute co/pi2qnC1uFg numeric
+@attribute co/voJiMKrqyM numeric
+@attribute co/wNEv5WRrNM numeric
+@attribute coÃ¶rdineren numeric
+@attribute dame numeric
+@attribute dark numeric
+@attribute doorhalen numeric
+@attribute droog numeric
+@attribute dubbelrol numeric
+@attribute e… numeric
+@attribute feesten numeric
+@attribute gejuich numeric
+@attribute grote numeric
+@attribute haalde numeric
+@attribute idee numeric
+@attribute indeling numeric
+@attribute infor numeric
+@attribute ja numeric
+@attribute jammer numeric
+@attribute mannen numeric
+@attribute mikken numeric
+@attribute moedigen numeric
+@attribute opdracht numeric
+@attribute plaatsvinden numeric
+@attribute ploegen numeric
+@attribute practice numeric
+@attribute puzzelen numeric
+@attribute racen numeric
+@attribute schoenen numeric
+@attribute slecht numeric
+@attribute sponsort numeric
+@attribute stand numeric
+@attribute standaardrondje numeric
+@attribute stimulans numeric
+@attribute stormloop numeric
+@attribute studententijd numeric
+@attribute ten numeric
+@attribute toeschouwers numeric
+@attribute ton numeric
+@attribute tonight numeric
+@attribute topfit numeric
+@attribute tussentijdse numeric
+@attribute uitgeslapen numeric
+@attribute vanochtend numeric
+@attribute veilig numeric
+@attribute vergaat numeric
+@attribute voel numeric
+@attribute wagenpark numeric
+@attribute weet numeric
+@attribute wensen numeric
+@attribute will numeric
+@attribute zaken numeric
+@attribute Ã©Ã©n numeric
+@attribute €10 numeric
+@attribute #hoptjop numeric
+@attribute #top numeric
+@attribute #wauw numeric
+@attribute @BGrondelle numeric
+@attribute @GSTV_Tritanium numeric
+@attribute @Studentmobiel numeric
+@attribute Android-telefoon numeric
+@attribute Can numeric
+@attribute Die numeric
+@attribute Druk numeric
+@attribute Oh numeric
+@attribute Practice numeric
+@attribute Saturday numeric
+@attribute Slecht numeric
+@attribute Sunday numeric
+@attribute Telefoon numeric
+@attribute Tom numeric
+@attribute USB-kabel numeric
+@attribute aangesloten numeric
+@attribute afternoon numeric
+@attribute alsof numeric
+@attribute an numeric
+@attribute bag numeric
+@attribute bent numeric
+@attribute co/CjtEw7C1jW numeric
+@attribute co/vV2e1GmMQq numeric
+@attribute dear numeric
+@attribute degelijk numeric
+@attribute dingen numeric
+@attribute drama numeric
+@attribute duidelijk numeric
+@attribute error numeric
+@attribute gaande numeric
+@attribute gepland numeric
+@attribute geval numeric
+@attribute groot numeric
+@attribute gym numeric
+@attribute hangen numeric
+@attribute herrie numeric
+@attribute industrieterrein numeric
+@attribute kaart numeric
+@attribute knetterdruk numeric
+@attribute koop numeric
+@attribute kwartier numeric
+@attribute later numeric
+@attribute leeg numeric
+@attribute lijken numeric
+@attribute lui numeric
+@attribute makkelijk numeric
+@attribute meters numeric
+@attribute mobiel numeric
+@attribute moord numeric
+@attribute newsletter numeric
+@attribute niks numeric
+@attribute normally numeric
+@attribute not numeric
+@attribute ongetrainde numeric
+@attribute people numeric
+@attribute pillow numeric
+@attribute sleep numeric
+@attribute sleeping numeric
+@attribute snoring numeric
+@attribute soort numeric
+@attribute stopcontact numeric
+@attribute telefoon numeric
+@attribute tis numeric
+@attribute trekken numeric
+@attribute vaardigen numeric
+@attribute verlaten numeric
+@attribute waarvan numeric
+@attribute winkel numeric
+@attribute without numeric
+@attribute zichtbaar numeric
+@attribute zodat numeric
+@attribute #oad numeric
+@attribute Aan numeric
+@attribute Bata-radio numeric
+@attribute Beetje numeric
+@attribute EHBO-medewerkers numeric
+@attribute Gebeurd numeric
+@attribute Koelen numeric
+@attribute Pijnlijke numeric
+@attribute Schijt numeric
+@attribute Test numeric
+@attribute Verstuikt numeric
+@attribute WTF numeric
+@attribute Waar numeric
+@attribute Zoek numeric
+@attribute co/GblZ31gwhT numeric
+@attribute code numeric
+@attribute enkel numeric
+@attribute gaf numeric
+@attribute gereed numeric
+@attribute kdfsdkdsk numeric
+@attribute notificatie numeric
+@attribute omdat numeric
+@attribute ondersteuning numeric
+@attribute papier numeric
+@attribute post numeric
+@attribute rood numeric
+@attribute stil numeric
+@attribute systeem numeric
+@attribute twitteraccount numeric
+@attribute uitgesteld numeric
+@attribute wc numeric
+@attribute wedstrijdverslag numeric
+@attribute weinig numeric
+@attribute werkt numeric
+@attribute wp9 numeric
+@attribute 'class_predicted_by: CostSensitiveClassifier' {T,N,F,A}
+
+@data
+{0 F,226 1,652 1,747 1,751 1,894 1,913 1,1009 1,1308 1,1309 1,1310 1,1312 1,1317 1,1319 1,1324 1,1329 1,1350 1,1352 1,1353 1,1407 N}
+{0 N,91 1,96 1,136 1,396 1,490 1,652 1,747 1,1009 1,1180 1,1206 1,1214 1,1220 1,1222 1,1225 1,1227 1,1249 1,1269 1,1283 1,1294 1,1407 N}
+{0 N,74 1,226 1,255 1,737 1,747 1,1181 1,1231 1,1235 1,1407 N}
+{0 N,74 1,226 1,317 1,353 1,461 1,590 1,602 1,737 1,754 1,830 1,838 1,1051 1,1101 1,1114 1,1204 1,1205 1,1211 1,1243 1,1278 1,1407 N}
+{0 N,63 1,74 1,226 1,624 1,737 1,963 1,1177 1,1217 1,1221 1,1238 1,1407 N}
+{7 1,74 1,220 1,507 1,590 1,737 1,747 1,863 1,865 1,907 1,1043 1,1064 1,1126 1}
+{7 1,74 1,241 1,590 1,737 1,751 1,879 1,885 1,898 1,907 1,1043 1,1068 1}
+{236 1,444 1,496 1,590 1,800 1,1047 1,1078 1}
+{66 1,129 1,136 1,590 1,870 1,1078 1,1407 N}
+{0 A,7 1,9 1,74 1,737 1,812 1,1011 1,1378 1,1379 1,1382 1,1385 1,1386 1,1388 1,1407 N}
+{0 A,136 1,519 1,727 1,751 1,907 1,1395 1,1402 1,1406 1,1407 N}
+{0 A,31 1,136 1,590 1,627 1,747 1,907 1,940 1,1043 1,1147 1,1375 1,1377 1,1398 1,1400 1,1404 1,1407 A}
+{0 A,38 1,220 1,284 1,590 1,751 1,828 1,878 1,883 1,1390 1,1393 1,1394 1,1401 1,1407 A}
+{0 N,38 1,109 1,290 1,473 1,506 1,624 1,745 1,826 1,907 1,1040 1,1045 1,1284 1,1287 1,1290 1,1407 N}
+{0 N,38 1,220 1,590 1,747 1,838 1,902 1,1124 1,1150 1,1255 1,1407 N}
+{0 A,38 1,220 1,241 1,477 1,726 1,742 1,744 1,747 1,790 1,878 1,907 1,1010 1,1124 1,1146 1,1376 1,1393 1,1396 1,1401 1,1407 A}
+{0 F,38 1,100 1,220 1,284 1,586 1,846 1,915 1,1331 1,1341 1,1342 1,1407 F}
+{0 A,136 1,527 1,588 1,590 1,907 1,1374 1,1384 1,1403 1,1407 N}
+{0 A,226 1,1372 1,1380 1,1407 N}
+{0 N,136 1,285 1,504 1,590 1,634 1,727 1,751 1,824 1,1043 1,1078 1,1256 1,1259 1,1270 1,1407 N}
+{0 N,34 1,38 1,74 1,310 1,366 1,737 1,1043 1,1172 1,1192 1,1197 1,1226 1,1232 1,1258 1,1280 1,1407 N}
+{0 F,136 1,461 1,599 1,618 1,745 1,751 1,878 1,907 1,1088 1,1192 1,1258 1,1292 1,1303 1,1311 1,1313 1,1315 1,1316 1,1335 1,1367 1,1407 F}
+{0 F,136 1,293 1,519 1,588 1,618 1,619 1,627 1,658 1,727 1,751 1,878 1,883 1,893 1,1104 1,1326 1,1328 1,1332 1,1360 1,1361 1,1370 1,1407 F}
+{0 F,136 1,586 1,590 1,618 1,624 1,691 1,727 1,751 1,798 1,883 1,893 1,1002 1,1014 1,1318 1,1343 1,1344 1,1346 1,1361 1,1362 1,1364 1,1407 F}
+{0 N,74 1,136 1,412 1,448 1,590 1,602 1,716 1,737 1,754 1,999 1,1054 1,1215 1,1216 1,1234 1,1237 1,1274 1,1293 1,1407 N}
+{0 N,74 1,136 1,366 1,412 1,448 1,590 1,602 1,716 1,737 1,754 1,999 1,1054 1,1162 1,1187 1,1215 1,1216 1,1237 1,1274 1,1293 1,1407 N}
+{0 N,74 1,136 1,366 1,412 1,448 1,590 1,602 1,716 1,737 1,754 1,999 1,1054 1,1162 1,1187 1,1215 1,1216 1,1237 1,1274 1,1293 1,1407 N}
+{0 N,136 1,291 1,461 1,622 1,790 1,812 1,844 1,997 1,1020 1,1043 1,1078 1,1101 1,1175 1,1195 1,1203 1,1272 1,1276 1,1296 1,1407 N}
+{0 N,136 1,291 1,366 1,461 1,622 1,790 1,812 1,844 1,997 1,1020 1,1043 1,1078 1,1101 1,1186 1,1196 1,1203 1,1272 1,1276 1,1296 1,1407 N}
+{0 N,74 1,79 1,136 1,243 1,297 1,298 1,618 1,737 1,754 1,838 1,907 1,1078 1,1131 1,1201 1,1223 1,1239 1,1257 1,1264 1,1282 1,1297 1,1407 N}
+{0 N,74 1,83 1,226 1,241 1,590 1,617 1,737 1,836 1,907 1,1043 1,1127 1,1174 1,1181 1,1184 1,1212 1,1246 1,1260 1,1267 1,1407 N}
+{0 A,136 1,241 1,485 1,590 1,618 1,727 1,838 1,883 1,891 1,933 1,1021 1,1030 1,1373 1,1381 1,1383 1,1387 1,1389 1,1391 1,1392 1,1397 1,1399 1,1405 1,1407 N}
+{0 N,74 1,442 1,447 1,496 1,590 1,602 1,605 1,618 1,737 1,829 1,838 1,883 1,1078 1,1099 1,1114 1,1149 1,1202 1,1208 1,1242 1,1248 1}
+{0 F,214 1,226 1,470 1,611 1,618 1,619 1,658 1,727 1,747 1,758 1,878 1,906 1,984 1,1002 1,1003 1,1123 1,1124 1,1306 1,1321 1,1325 1,1327 1,1333 1,1351 1,1365 1,1407 N}
+{0 N,31 1,38 1,136 1,226 1,241 1,366 1,473 1,590 1,599 1,627 1,727 1,737 1,774 1,1043 1,1078 1,1142 1,1176 1,1178 1,1247 1,1263 1,1291 1,1407 A}
+{0 N,7 1,447 1,480 1,519 1,590 1,638 1,655 1,727 1,745 1,751 1,771 1,801 1,867 1,985 1,1104 1,1198 1,1210 1,1251 1,1292 1}
+{0 F,38 1,42 1,136 1,293 1,590 1,602 1,664 1,754 1,883 1,1002 1,1064 1,1075 1,1304 1,1346 1,1348 1,1407 F}
+{0 N,28 1,74 1,226 1,519 1,624 1,737 1,1168 1,1169 1,1184 1,1219 1,1241 1,1254 1,1407 N}
+{0 N,71 1,74 1,193 1,226 1,255 1,366 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 N,19 1,74 1,226 1,255 1,737 1,985 1,1043 1,1167 1,1240 1,1407 N}
+{0 F,6 1,221 1,290 1,605 1,618 1,648 1,1038 1,1078 1,1154 1,1302 1,1349 1,1407 F}
+{0 N,38 1,431 1,477 1,624 1,814 1,926 1,999 1,1054 1,1407 N}
+{0 F,74 1,136 1,460 1,482 1,737 1,747 1,1001 1,1122 1,1305 1,1320 1,1322 1,1334 1,1355 1,1356 1,1357 1,1358 1,1359 1,1369 1,1407 N}
+{0 F,74 1,136 1,366 1,460 1,482 1,737 1,747 1,1001 1,1122 1,1301 1,1305 1,1320 1,1322 1,1334 1,1355 1,1356 1,1357 1,1358 1,1359 1,1369 1,1407 N}
+{38 1,65 1,440 1,618 1,801 1,838 1,1407 N}
+{0 N,71 1,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1230 1,1407 N}
+{0 F,38 1,85 1,252 1,470 1,506 1,590 1,599 1,682 1,745 1,792 1,811 1,813 1,844 1,893 1,1002 1,1011 1,1078 1,1299 1,1300 1,1347 1,1354 1,1362 1,1407 F}
+{0 F,38 1,252 1,470 1,506 1,590 1,599 1,682 1,729 1,745 1,764 1,767 1,792 1,811 1,813 1,844 1,893 1,1011 1,1138 1,1299 1,1300 1,1362 1,1371 1,1407 F}
+{0 N,7 1,109 1,409 1,436 1,438 1,461 1,535 1,747 1,786 1,863 1,878 1,972 1,1016 1,1043 1,1207 1,1275 1,1295 1,1407 N}
+{0 N,7 1,174 1,421 1,500 1,624 1,657 1,727 1,933 1,1096 1,1170 1,1171 1,1189 1,1228 1,1252 1,1288 1,1407 N}
+{0 F,7 1,74 1,727 1,737 1,907 1,1323 1,1337 1,1339 1,1363 1,1407 N}
+{0 N,5 1,10 1,226 1,291 1,420 1,517 1,530 1,590 1,618 1,812 1,821 1,829 1,838 1,864 1,865 1,867 1,893 1,1002 1,1173 1,1194 1,1250 1,1407 N}
+{0 N,34 1,38 1,43 1,47 1,49 1,76 1,111 1,254 1,366 1,590 1,658 1,737 1,747 1,765 1,838 1,985 1,991 1,1004 1,1005 1,1043 1,1190 1,1407 N}
+{0 F,38 1,513 1,618 1,891 1,1314 1,1338 1,1340 1,1345 1,1407 N}
+{0 N,36 1,38 1,43 1,62 1,74 1,200 1,226 1,258 1,366 1,573 1,737 1,985 1,1043 1,1407 N}
+{0 N,74 1,226 1,234 1,449 1,590 1,727 1,728 1,730 1,737 1,759 1,992 1,1011 1,1032 1,1110 1,1200 1,1236 1,1285 1,1289 1,1407 N}
+{0 F,496 1,590 1,599 1,619 1,624 1,728 1,747 1,751 1,878 1,883 1,1298 1,1307 1,1330 1,1368 1,1407 F}
+{0 A,31 1,136 1,590 1,627 1,747 1,907 1,940 1,1043 1,1147 1,1375 1,1377 1,1398 1,1400 1,1404 1,1407 A}
+{0 N,136 1,286 1,461 1,477 1,595 1,762 1,893 1,999 1,1002 1,1054 1,1105 1,1166 1,1265 1,1281 1,1407 N}
+{0 N,7 1,74 1,109 1,737 1,747 1,951 1,1078 1,1182 1,1193 1,1218 1,1229 1,1266 1,1407 N}
+{0 N,38 1,74 1,170 1,323 1,624 1,717 1,737 1,774 1,893 1,1002 1,1233 1,1271 1,1286 1,1407 N}
+{0 F,38 1,440 1,458 1,618 1,745 1,764 1,878 1,970 1,1336 1,1407 N}
+{0 N,38 1,240 1,366 1,455 1,458 1,461 1,528 1,529 1,588 1,590 1,602 1,656 1,720 1,725 1,751 1,844 1,857 1,863 1,1099 1,1188 1,1253 1,1279 1,1407 N}
+{0 F,438 1,496 1,608 1}
+{0 N,136 1,399 1,588 1,599 1,716 1,745 1,751 1,821 1,849 1,851 1,878 1,906 1,907 1,1104 1,1138 1,1213 1,1261 1,1262 1,1273 1,1407 F}
+{0 N,21 1,71 1,226 1,237 1,238 1,285 1,366 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1178 1,1191 1,1407 N}
+{0 F,38 1,100 1,220 1,284 1,586 1,846 1,915 1,1331 1,1341 1,1342 1,1407 F}
+{0 N,74 1,88 1,226 1,424 1,508 1,590 1,657 1,727 1,737 1,891 1,893 1,925 1,987 1,1040 1,1043 1,1094 1,1179 1,1199 1,1244 1,1407 N}
+{0 N,74 1,226 1,237 1,519 1,596 1,737 1,820 1,1245 1,1407 N}
+{0 F,38 1,145 1,268 1,318 1,326 1,421 1,611 1,645 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1366 1,1407 F}
+{0 F,38 1,145 1,156 1,268 1,318 1,326 1,366 1,421 1,611 1,646 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1407 F}
+{0 F,38 1,145 1,156 1,268 1,318 1,326 1,366 1,421 1,611 1,646 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1407 F}
+{0 N,38 1,54 1,56 1,103 1,595 1,814 1,878 1,883 1,906 1,922 1,927 1,1078 1,1183 1,1185 1,1209 1,1224 1,1268 1,1277 1,1407 N}
+{0 ?,10 1,21 1,74 1,226 1,486 1,590 1,608 1,632 1,703 1,727 1,737 1,755 1,778 1,987 1,1042 1,1078 1,1407 N}
+{0 ?,101 1,136 1,153 1,321 1,334 1,357 1,366 1,461 1,520 1,586 1,590 1,607 1,618 1,747 1,758 1,759 1,784 1,1043 1,1078 1,1407 F}
+{0 ?,21 1,74 1,188 1,226 1,366 1,486 1,590 1,608 1,632 1,703 1,727 1,737 1,755 1,778 1,987 1,1042 1,1078 1,1407 N}
+{0 ?,101 1,153 1,196 1,321 1,334 1,357 1,366 1,461 1,520 1,586 1,590 1,607 1,618 1,747 1,758 1,759 1,784 1,1043 1,1078 1,1407 F}
+{0 ?,101 1,153 1,196 1,321 1,334 1,357 1,366 1,461 1,520 1,586 1,590 1,607 1,618 1,747 1,758 1,759 1,784 1,1043 1,1078 1,1407 F}
+{0 ?,7 1,496 1,960 1,1009 1,1013 1,1353 1}
+{0 ?,7 1,290 1,431 1,506 1,508 1,620 1,727 1,730 1,843 1,844 1,1407 N}
+{0 ?,74 1,737 1,1407 N}
+{0 ?,484 1,493 1,1407 N}
+{0 ?,493 1,1261 1,1407 N}
+{0 ?,74 1,221 1,737 1,1158 1,1407 N}
+{0 ?,74 1,484 1,493 1,737 1,1407 N}
+{0 ?,366 1,876 1,1407 N}
+{0 ?,484 1,493 1,613 1,1407 N}
+{0 ?,366 1,484 1,493 1,864 1,1407 N}
+{0 ?,493 1,598 1,864 1,876 1,886 1,1407 N}
+{0 ?,99 1,227 1,493 1,1407 N}
+{0 ?,288 1,1407 N}
+{0 ?,7 1,13 1,68 1,74 1,377 1,1010 1,1160 1,1407 N}
+{0 ?,10 1,74 1,226 1,241 1,590 1,703 1,737 1,758 1,791 1,907 1,1023 1,1043 1,1079 1,1088 1,1143 1,1163 1,1407 N}
+{0 ?,4 1,306 1,1407 N}
+{0 ?,74 1,226 1,241 1,590 1,632 1,703 1,737 1,758 1,791 1,907 1,1001 1,1023 1,1043 1,1079 1,1088 1,1143 1,1163 1,1407 N}
+{0 ?,31 1,711 1,961 1,1407 A}
+{0 ?,31 1,236 1,711 1,961 1,1407 A}
+{0 ?,39 1,74 1,737 1,1407 N}
+{0 ?,74 1,188 1,226 1,241 1,366 1,590 1,703 1,737 1,758 1,791 1,907 1,1023 1,1043 1,1079 1,1088 1,1143 1,1163 1,1407 N}
+{0 ?,68 1,317 1,496 1,599 1,638 1,708 1,782 1,821 1,1092 1,1104 1,1147 1,1407 F}
+{0 ?,7 1,330 1,502 1,590 1,819 1,821 1,838 1,863 1,1019 1,1078 1}
+{0 ?,44 1,74 1,136 1,227 1,279 1,313 1,570 1,590 1,618 1,695 1,709 1,727 1,737 1,759 1,974 1,1078 1,1407 N}
+{0 ?,44 1,74 1,136 1,186 1,227 1,279 1,313 1,366 1,570 1,590 1,618 1,695 1,709 1,727 1,737 1,759 1,974 1,1078 1,1407 N}
+{0 ?,74 1,136 1,227 1,279 1,313 1,366 1,590 1,618 1,695 1,709 1,727 1,737 1,759 1,974 1,1078 1,1407 N}
+{0 ?,44 1,74 1,136 1,186 1,227 1,279 1,313 1,366 1,570 1,590 1,618 1,695 1,709 1,727 1,737 1,759 1,974 1,1078 1,1407 N}
+{0 ?,44 1,74 1,136 1,186 1,227 1,279 1,313 1,366 1,570 1,590 1,618 1,695 1,709 1,727 1,737 1,759 1,974 1,1078 1,1407 N}
+{0 ?,74 1,226 1,244 1,449 1,586 1,590 1,618 1,737 1,758 1,759 1,769 1,798 1,829 1,838 1,906 1,1043 1,1140 1,1407 F}
+{0 ?,129 1,136 1,197 1,590 1,870 1,1078 1,1407 N}
+{0 ?,308 1,496 1,671 1,706 1,727 1,747 1,785 1,998 1,1014 1,1101 1,1104 1}
+{0 ?,136 1,244 1,590 1,716 1,759 1,829 1,838 1,1407 N}
+{0 ?,74 1,105 1,486 1,737 1,1407 N}
+{0 ?,10 1,74 1,226 1,241 1,461 1,737 1,829 1,993 1,1078 1,1405 1,1407 N}
+{0 ?,104 1,226 1,232 1,307 1,333 1,391 1,486 1,590 1,658 1,724 1,762 1,812 1,906 1,1078 1,1407 N}
+{0 ?,104 1,226 1,232 1,307 1,333 1,366 1,391 1,486 1,590 1,658 1,724 1,762 1,812 1,906 1,1078 1,1407 N}
+{0 ?,74 1,104 1,226 1,232 1,307 1,333 1,391 1,486 1,590 1,658 1,737 1,812 1,1078 1,1407 N}
+{0 ?,136 1,266 1,276 1,461 1,515 1,590 1,602 1,603 1,638 1,708 1,754 1,829 1,906 1,1407 N}
+{0 ?,176 1,180 1,461 1,588 1,590 1,605 1,658 1,829 1,958 1,1407 N}
+{0 ?,42 1,136 1,590 1,605 1,829 1,837 1,838 1,893 1,1002 1,1212 1,1407 N}
+{0 ?,38 1,74 1,121 1,301 1,621 1,708 1,737 1,769 1,803 1,821 1,826 1,907 1,1043 1,1407 N}
+{0 ?,240 1,355 1,496 1,590 1,618 1,687 1,865 1,1077 1,1094 1}
+{0 ?,285 1,496 1,658 1,727 1,747 1,758 1,883 1,1094 1,1101 1,1292 1}
+{0 ?,448 1,496 1,814 1,1078 1,1149 1}
+{0 ?,71 1,74 1,78 1,89 1,92 1,226 1,737 1,1407 N}
+{0 ?,74 1,226 1,234 1,243 1,461 1,590 1,606 1,624 1,655 1,737 1,754 1,829 1,833 1,1078 1,1407 N}
+{0 ?,226 1,256 1,449 1,586 1,590 1,758 1,829 1,865 1,882 1,883 1,1078 1,1083 1,1142 1,1407 F}
+{0 ?,136 1,519 1,714 1,762 1,1088 1,1407 N}
+{0 ?,55 1,73 1,74 1,136 1,241 1,737 1,738 1,751 1,760 1,774 1,865 1,893 1,907 1,983 1,1002 1,1123 1,1148 1,1407 N}
+{0 ?,55 1,74 1,136 1,182 1,241 1,366 1,738 1,751 1,760 1,774 1,865 1,893 1,907 1,983 1,1002 1,1123 1,1148 1,1407 N}
+{0 ?,214 1,226 1,248 1,290 1,461 1,506 1,590 1,615 1,618 1,627 1,830 1,1407 N}
+{0 ?,308 1,496 1,590 1,618 1,915 1,1078 1}
+{0 ?,38 1,105 1,167 1,486 1,590 1,608 1,720 1,751 1,838 1,907 1,1114 1,1407 N}
+{0 ?,74 1,105 1,226 1,355 1,455 1,464 1,486 1,590 1,618 1,627 1,635 1,737 1,762 1,823 1,851 1,883 1,923 1,1069 1,1095 1,1123 1,1142 1,1407 N}
+{0 ?,7 1,74 1,157 1,169 1,266 1,295 1,578 1,586 1,738 1,814 1,865 1,878 1,883 1,907 1,1003 1,1148 1,1407 F}
+{0 ?,7 1,74 1,136 1,266 1,295 1,366 1,578 1,586 1,738 1,814 1,865 1,878 1,883 1,907 1,1003 1,1148 1,1407 F}
+{0 ?,105 1,226 1,355 1,366 1,455 1,464 1,486 1,590 1,618 1,627 1,635 1,762 1,823 1,851 1,883 1,923 1,1069 1,1095 1,1123 1,1142 1,1407 N}
+{0 ?,244 1,281 1,404 1,496 1,586 1,590 1,606 1,708 1,747 1,749 1,759 1,823 1,829 1,838 1,859 1,865 1,882 1,1144 1,1407 F}
+{0 ?,244 1,281 1,366 1,404 1,496 1,586 1,590 1,606 1,708 1,747 1,749 1,759 1,823 1,829 1,838 1,859 1,865 1,882 1,1144 1,1407 F}
+{0 ?,244 1,281 1,366 1,404 1,496 1,586 1,590 1,606 1,708 1,747 1,749 1,759 1,823 1,829 1,838 1,859 1,865 1,882 1,1144 1,1407 F}
+{0 ?,74 1,101 1,226 1,448 1,473 1,590 1,720 1,727 1,737 1,838 1,885 1,950 1,999 1,1003 1,1054 1,1080 1,1293 1,1407 N}
+{0 ?,7 1,243 1,308 1,461 1,590 1,618 1,624 1,645 1,655 1,698 1,745 1,747 1,754 1,769 1,830 1,889 1,946 1,1090 1,1101 1}
+{0 ?,226 1,240 1,519 1,588 1,590 1,611 1,664 1,713 1,745 1,940 1,993 1,1106 1,1407 N}
+{0 ?,226 1,331 1,344 1,375 1,387 1,391 1,448 1,471 1,590 1,715 1,774 1,907 1,1078 1,1101 1,1129 1,1142 1,1407 N}
+{0 ?,74 1,176 1,226 1,590 1,618 1,737 1,759 1,999 1,1017 1,1333 1,1407 N}
+{0 ?,176 1,240 1,479 1,588 1,590 1,599 1,618 1,745 1,838 1,906 1,1094 1,1407 F}
+{0 ?,136 1,255 1,341 1,588 1,758 1,826 1,865 1,878 1,885 1,891 1,954 1,1030 1,1043 1,1054 1,1147 1,1407 N}
+{0 ?,7 1,78 1,96 1,348 1,403 1,420 1,519 1,590 1,624 1,636 1,694 1,727 1,751 1,794 1,893 1,962 1,1020 1,1046 1}
+{0 ?,7 1,12 1,74 1,235 1,246 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,119 1,121 1,394 1,496 1,590 1,599 1,698 1,708 1,747 1,779 1,785 1,906 1,1043 1,1104 1,1150 1,1407 F}
+{0 ?,7 1,78 1,96 1,348 1,366 1,420 1,519 1,590 1,624 1,694 1,727 1,751 1,794 1,893 1,962 1,1020 1}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,11 1,74 1,226 1,377 1,624 1,644 1,737 1,810 1,829 1,907 1,1407 N}
+{0 ?,1 1,74 1,226 1,341 1,366 1,377 1,624 1,644 1,737 1,810 1,829 1,907 1,1407 N}
+{0 ?,7 1,16 1,112 1,224 1,252 1,273 1,355 1,590 1,624 1,626 1,667 1,693 1,699 1,702 1,794 1,865 1}
+{0 ?,74 1,226 1,281 1,312 1,343 1,462 1,473 1,494 1,546 1,590 1,605 1,737 1,747 1,758 1,759 1,829 1,1078 1,1407 N}
+{0 ?,16 1,112 1,170 1,224 1,252 1,273 1,355 1,366 1,590 1,613 1,624 1,626 1,667 1,693 1,699 1,702 1,794 1,865 1,1407 N}
+{0 ?,74 1,226 1,281 1,380 1,461 1,468 1,494 1,546 1,586 1,590 1,593 1,737 1,742 1,747 1,758 1,759 1,912 1,1003 1,1078 1,1087 1,1407 F}
+{0 ?,16 1,112 1,170 1,224 1,252 1,273 1,355 1,366 1,590 1,613 1,624 1,626 1,667 1,693 1,699 1,702 1,794 1,865 1,1407 N}
+{0 ?,74 1,172 1,226 1,281 1,312 1,343 1,366 1,462 1,473 1,494 1,546 1,590 1,605 1,737 1,747 1,758 1,759 1,829 1,1078 1,1407 N}
+{0 ?,74 1,172 1,226 1,281 1,366 1,380 1,461 1,468 1,494 1,546 1,586 1,590 1,593 1,737 1,742 1,747 1,758 1,759 1,912 1,1003 1,1078 1,1087 1,1407 F}
+{0 ?,74 1,226 1,281 1,362 1,380 1,461 1,468 1,494 1,546 1,586 1,590 1,593 1,737 1,742 1,747 1,758 1,759 1,912 1,1003 1,1078 1,1087 1,1407 F}
+{0 ?,74 1,226 1,281 1,312 1,343 1,362 1,462 1,473 1,494 1,546 1,590 1,605 1,737 1,747 1,758 1,759 1,829 1,1078 1,1407 N}
+{0 ?,74 1,226 1,362 1,380 1,461 1,468 1,494 1,586 1,590 1,593 1,737 1,742 1,747 1,758 1,912 1,1003 1,1078 1,1087 1,1407 F}
+{0 ?,16 1,112 1,170 1,224 1,252 1,273 1,355 1,366 1,590 1,613 1,624 1,626 1,667 1,693 1,699 1,702 1,794 1,865 1,1407 N}
+{0 ?,45 1,226 1,590 1,611 1,699 1,747 1,788 1,893 1,962 1,1002 1,1020 1,1078 1,1407 N}
+{0 ?,74 1,172 1,226 1,281 1,312 1,343 1,362 1,366 1,462 1,473 1,494 1,546 1,590 1,605 1,737 1,747 1,758 1,759 1,829 1,1078 1,1407 N}
+{0 ?,71 1,74 1,222 1,226 1,339 1,590 1,737 1,747 1,765 1,882 1,991 1,1005 1,1407 N}
+{0 ?,74 1,105 1,115 1,226 1,291 1,473 1,481 1,486 1,531 1,590 1,618 1,677 1,716 1,727 1,737 1,747 1,751 1,761 1,1003 1,1123 1,1407 N}
+{0 ?,7 1,74 1,105 1,115 1,291 1,473 1,481 1,486 1,531 1,590 1,618 1,677 1,716 1,727 1,737 1,747 1,751 1,761 1,1003 1,1123 1}
+{0 ?,38 1,128 1,590 1,608 1,620 1,707 1,727 1,747 1,779 1,812 1,867 1,1077 1,1078 1,1101 1,1218 1,1407 N}
+{0 ?,71 1,74 1,222 1,226 1,590 1,737 1,747 1,882 1,991 1,1005 1,1064 1,1407 N}
+{0 ?,74 1,226 1,337 1,489 1,737 1,1407 N}
+{0 ?,74 1,101 1,187 1,226 1,241 1,297 1,298 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,226 1,236 1,241 1,669 1,737 1,747 1,852 1,933 1,1002 1,1127 1,1128 1,1155 1,1159 1,1226 1,1280 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,101 1,169 1,187 1,226 1,241 1,297 1,298 1,366 1,562 1,669 1,737 1,747 1,852 1,933 1,1002 1,1078 1,1127 1,1128 1,1155 1,1407 N}
+{0 ?,74 1,176 1,187 1,246 1,252 1,489 1,590 1,624 1,737 1,801 1,885 1,936 1,963 1,1006 1,1024 1,1043 1,1407 N}
+{0 ?,74 1,211 1,226 1,297 1,298 1,494 1,624 1,655 1,737 1,757 1,758 1,814 1,865 1,907 1,944 1,981 1,1053 1,1078 1,1407 N}
+{0 ?,74 1,211 1,226 1,297 1,298 1,494 1,546 1,624 1,655 1,737 1,757 1,758 1,814 1,865 1,907 1,944 1,981 1,1053 1,1078 1,1407 N}
+{0 ?,74 1,211 1,226 1,297 1,298 1,494 1,624 1,655 1,737 1,757 1,758 1,814 1,865 1,907 1,944 1,981 1,1053 1,1078 1,1407 N}
+{0 ?,226 1,513 1,590 1,618 1,745 1,747 1,836 1,885 1,907 1,1078 1,1145 1,1154 1,1407 N}
+{0 ?,74 1,136 1,213 1,376 1,572 1,590 1,624 1,737 1,844 1,1011 1,1064 1,1153 1,1407 N}
+{0 ?,74 1,136 1,213 1,376 1,572 1,590 1,624 1,737 1,844 1,1011 1,1064 1,1153 1,1407 N}
+{0 ?,74 1,136 1,213 1,376 1,572 1,590 1,624 1,727 1,737 1,742 1,747 1,765 1,844 1,991 1,1005 1,1011 1,1064 1,1153 1,1407 N}
+{0 ?,74 1,136 1,213 1,366 1,376 1,572 1,590 1,624 1,727 1,737 1,742 1,747 1,765 1,844 1,991 1,1005 1,1011 1,1064 1,1153 1,1407 N}
+{0 ?,226 1,590 1,639 1,878 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,315 1,316 1,380 1,382 1,460 1,519 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,12 1,74 1,136 1,235 1,246 1,366 1,379 1,545 1,624 1,681 1,737 1,765 1,907 1,1005 1,1024 1,1142 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,12 1,34 1,38 1,276 1,298 1,313 1,590 1,602 1,754 1,790 1,798 1,981 1,1043 1,1078 1,1138 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,326 1,461 1,624 1,634 1,698 1,708 1,812 1,819 1,821 1,863 1,883 1,893 1,1002 1,1095 1,1104 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,226 1,324 1,590 1,745 1,747 1,838 1,1407 N}
+{0 ?,461 1,496 1,590 1,618 1,708 1,713 1,727 1,745 1,1019 1,1043 1,1078 1}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,99 1,138 1,285 1,312 1,366 1,473 1,578 1,624 1,727 1,759 1,824 1,829 1,883 1,893 1,1002 1,1003 1,1043 1,1263 1,1407 N}
+{0 ?,7 1,16 1,22 1,211 1,355 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,7 1,16 1,22 1,164 1,170 1,211 1,355 1,366 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,7 1,16 1,22 1,164 1,170 1,211 1,355 1,366 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,7 1,16 1,22 1,164 1,170 1,211 1,355 1,366 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,85 1,99 1,115 1,226 1,343 1,635 1,715 1,796 1,868 1,885 1,1043 1,1095 1,1407 N}
+{0 ?,7 1,16 1,22 1,164 1,170 1,211 1,355 1,366 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,7 1,16 1,22 1,164 1,170 1,211 1,355 1,366 1,461 1,590 1,595 1,624 1,688 1,716 1,727 1,865 1,999 1,1054 1}
+{0 ?,286 1,414 1,496 1,590 1,664 1,726 1,745 1,751 1,812 1,822 1,865 1,940 1,1043 1,1078 1,1134 1}
+{0 ?,252 1,255 1,496 1,586 1,618 1,624 1,634 1,682 1,717 1,747 1,758 1,812 1,878 1,907 1,1002 1,1043 1,1078 1,1407 F}
+{0 ?,226 1,241 1,326 1,509 1,590 1,727 1,773 1,790 1,907 1,1046 1,1078 1,1138 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,74 1,115 1,431 1,496 1,590 1,599 1,737 1,837 1,865 1,883 1,899 1,907 1,988 1,1003 1,1113 1,1142 1,1148 1,1407 F}
+{0 ?,38 1,74 1,187 1,545 1,637 1,737 1,761 1,1003 1,1064 1,1078 1,1114 1,1228 1,1407 N}
+{0 ?,74 1,101 1,226 1,248 1,285 1,473 1,522 1,590 1,605 1,713 1,737 1,751 1,758 1,883 1,988 1,1002 1,1055 1,1147 1,1149 1,1407 N}
+{0 ?,38 1,88 1,123 1,522 1,590 1,747 1,774 1,779 1,1078 1,1407 N}
+{0 ?,7 1,241 1,313 1,442 1,590 1,618 1,624 1,673 1,685 1,714 1,731 1,751 1,907 1,909 1,965 1,989 1,1003 1,1046 1,1123 1}
+{0 ?,170 1,241 1,313 1,366 1,442 1,590 1,618 1,624 1,661 1,673 1,685 1,714 1,731 1,751 1,907 1,909 1,965 1,989 1,1003 1,1046 1,1123 1,1407 N}
+{0 ?,170 1,241 1,313 1,366 1,442 1,590 1,618 1,624 1,661 1,673 1,685 1,714 1,731 1,751 1,907 1,909 1,965 1,989 1,1003 1,1046 1,1123 1,1407 N}
+{0 ?,170 1,241 1,313 1,366 1,442 1,590 1,618 1,624 1,661 1,673 1,685 1,714 1,731 1,751 1,907 1,909 1,965 1,989 1,1003 1,1046 1,1123 1,1407 N}
+{0 ?,7 1,614 1,618 1,706 1,717 1,751 1,812 1,893 1,1002 1,1407 N}
+{0 ?,170 1,241 1,313 1,366 1,442 1,590 1,618 1,624 1,661 1,673 1,685 1,714 1,731 1,751 1,907 1,909 1,965 1,989 1,1003 1,1046 1,1123 1,1407 N}
+{0 ?,74 1,226 1,241 1,456 1,618 1,627 1,737 1,751 1,755 1,762 1,837 1,883 1,895 1,1407 N}
+{0 ?,226 1,288 1,652 1,701 1,752 1,894 1,942 1,1008 1,1009 1,1407 N}
+{0 ?,74 1,226 1,262 1,280 1,285 1,413 1,480 1,509 1,590 1,737 1,907 1,1020 1,1078 1,1138 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,66 1,226 1,599 1,627 1,782 1,793 1,821 1,907 1,1101 1,1145 1,1407 F}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,7 1,20 1,34 1,74 1,151 1,315 1,316 1,366 1,380 1,382 1,460 1,519 1,536 1,624 1,727 1,737 1,765 1,766 1,887 1,1407 N}
+{0 ?,74 1,226 1,304 1,599 1,737 1,782 1,821 1,1407 F}
+{0 ?,5 1,1407 N}
+{0 ?,5 1,366 1,1407 N}
+{0 ?,38 1,430 1,606 1,620 1,639 1,754 1,800 1,829 1,838 1,885 1,982 1,1101 1,1407 N}
+{0 ?,74 1,136 1,176 1,187 1,246 1,252 1,366 1,489 1,590 1,624 1,737 1,801 1,885 1,936 1,963 1,1006 1,1024 1,1043 1,1407 N}
+{0 ?,7 1,74 1,266 1,380 1,552 1,590 1,624 1,737 1,742 1,838 1,865 1,1011 1,1078 1}
+{0 ?,136 1,291 1,410 1,590 1,602 1,906 1,915 1,960 1,1043 1,1065 1,1407 N}
+{0 ?,136 1,150 1,291 1,366 1,410 1,590 1,602 1,906 1,915 1,960 1,1043 1,1065 1,1407 N}
+{0 ?,7 1,83 1,86 1,121 1,128 1,304 1,599 1,618 1,674 1,779 1,780 1,782 1,821 1,838 1,973 1,1043 1,1407 F}
+{0 ?,74 1,105 1,226 1,242 1,245 1,294 1,355 1,486 1,564 1,590 1,624 1,737 1,745 1,791 1,810 1,843 1,844 1,981 1,1003 1,1407 N}
+{0 ?,33 1,66 1,461 1,624 1,727 1,1047 1,1407 N}
+{0 ?,74 1,226 1,431 1,486 1,590 1,602 1,727 1,737 1,762 1,878 1,923 1,1069 1,1095 1,1101 1,1110 1,1332 1,1407 N}
+{0 ?,226 1,297 1,298 1,350 1,384 1,459 1,494 1,758 1,765 1,812 1,865 1,882 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,350 1,384 1,459 1,561 1,737 1,758 1,765 1,812 1,865 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,350 1,384 1,459 1,561 1,737 1,758 1,765 1,812 1,865 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,19 1,74 1,146 1,226 1,297 1,298 1,384 1,459 1,561 1,737 1,758 1,812 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,19 1,74 1,226 1,297 1,298 1,384 1,459 1,561 1,737 1,758 1,812 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,350 1,384 1,459 1,561 1,737 1,758 1,812 1,865 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,19 1,74 1,226 1,297 1,298 1,384 1,459 1,561 1,737 1,758 1,812 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,350 1,384 1,459 1,561 1,737 1,758 1,765 1,812 1,865 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,384 1,459 1,561 1,737 1,758 1,812 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,199 1,226 1,297 1,298 1,384 1,460 1,561 1,737 1,762 1,812 1,887 1,935 1,1064 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,384 1,561 1,737 1,762 1,812 1,935 1,1029 1,1064 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,101 1,226 1,248 1,590 1,618 1,627 1,727 1,737 1,751 1,759 1,838 1,883 1,925 1,1078 1,1083 1,1114 1,1407 N}
+{0 ?,33 1,38 1,176 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,33 1,38 1,175 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,33 1,38 1,175 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,74 1,146 1,163 1,226 1,297 1,298 1,366 1,384 1,459 1,561 1,737 1,758 1,812 1,934 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,146 1,163 1,226 1,297 1,298 1,366 1,384 1,459 1,561 1,737 1,758 1,812 1,934 1,1078 1,1115 1,1407 N}
+{0 ?,33 1,38 1,175 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,74 1,146 1,163 1,226 1,297 1,298 1,366 1,384 1,459 1,561 1,737 1,758 1,812 1,934 1,1078 1,1115 1,1407 N}
+{0 ?,71 1,74 1,226 1,297 1,298 1,384 1,459 1,737 1,758 1,812 1,935 1,1078 1,1115 1,1407 N}
+{0 ?,74 1,226 1,297 1,298 1,384 1,737 1,812 1,1078 1,1407 N}
+{0 ?,7 1,71 1,241 1,472 1,480 1,590 1,627 1,678 1,747 1,751 1,883 1,885 1,973 1,1003 1,1020 1,1078 1}
+{0 ?,12 1,74 1,163 1,226 1,297 1,298 1,380 1,384 1,565 1,737 1,812 1,1064 1,1078 1,1407 N}
+{0 ?,12 1,74 1,163 1,226 1,297 1,298 1,380 1,384 1,565 1,737 1,812 1,1064 1,1078 1,1407 N}
+{0 ?,74 1,105 1,226 1,242 1,245 1,294 1,355 1,366 1,486 1,564 1,590 1,624 1,737 1,745 1,791 1,810 1,843 1,844 1,981 1,1003 1,1407 N}
+{0 ?,74 1,105 1,226 1,242 1,245 1,294 1,355 1,366 1,486 1,564 1,590 1,624 1,737 1,745 1,791 1,810 1,843 1,844 1,981 1,1003 1,1407 N}
+{0 ?,80 1,94 1,226 1,297 1,354 1,1040 1,1078 1,1407 N}
+{0 ?,12 1,74 1,163 1,226 1,297 1,298 1,366 1,380 1,384 1,565 1,737 1,812 1,1064 1,1078 1,1407 N}
+{0 ?,38 1,101 1,401 1,531 1,588 1,590 1,618 1,627 1,658 1,714 1,915 1,1011 1,1078 1,1096 1,1407 N}
+{0 ?,38 1,101 1,366 1,401 1,531 1,588 1,590 1,618 1,627 1,658 1,714 1,915 1,1011 1,1078 1,1096 1,1407 N}
+{0 ?,74 1,105 1,226 1,300 1,486 1,590 1,624 1,627 1,635 1,671 1,737 1,751 1,756 1,883 1,893 1,985 1,1002 1,1078 1,1083 1,1123 1,1142 1,1407 N}
+{0 ?,158 1,179 1,420 1,483 1,496 1,624 1,753 1,838 1}
+{0 ?,105 1,486 1,496 1,590 1,596 1,597 1,769 1,838 1,1019 1,1046 1,1078 1,1098 1}
+{0 ?,158 1,179 1,366 1,420 1,483 1,496 1,624 1,753 1,838 1}
+{0 ?,226 1,301 1,599 1,821 1,838 1,907 1,1407 F}
+{0 ?,74 1,396 1,737 1,1009 1,1013 1,1064 1,1407 N}
+{0 ?,33 1,38 1,175 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,74 1,234 1,396 1,460 1,647 1,736 1,737 1,747 1,914 1,1009 1,1013 1,1064 1,1096 1,1407 N}
+{0 ?,290 1,496 1,588 1,590 1,624 1,655 1,751 1,865 1,906 1,1104 1}
+{0 ?,496 1,599 1,614 1,618 1,645 1,656 1,1124 1,1407 F}
+{0 ?,12 1,74 1,222 1,226 1,376 1,409 1,461 1,590 1,611 1,624 1,737 1,766 1,811 1,1043 1,1407 N}
+{0 ?,83 1,90 1,97 1,121 1,226 1,624 1,700 1,840 1,868 1,888 1,1038 1,1251 1,1407 N}
+{0 ?,74 1,82 1,123 1,218 1,226 1,288 1,297 1,298 1,386 1,533 1,652 1,737 1,779 1,809 1,826 1,855 1,941 1,948 1,958 1,1009 1,1013 1,1064 1,1407 N}
+{0 ?,82 1,123 1,218 1,226 1,288 1,297 1,298 1,366 1,386 1,533 1,652 1,737 1,779 1,809 1,826 1,855 1,941 1,948 1,958 1,1009 1,1013 1,1064 1,1407 N}
+{0 ?,99 1,136 1,280 1,602 1,664 1,720 1,754 1,802 1,843 1,864 1,1078 1,1407 N}
+{0 ?,74 1,226 1,227 1,590 1,618 1,694 1,695 1,727 1,737 1,758 1,759 1,802 1,838 1,893 1,982 1,1067 1,1078 1,1407 N}
+{0 ?,38 1,74 1,590 1,708 1,737 1,907 1,1078 1,1407 N}
+{0 ?,38 1,123 1,124 1,288 1,482 1,697 1,747 1,779 1,959 1,1407 N}
+{0 ?,74 1,226 1,461 1,590 1,591 1,624 1,737 1,829 1,993 1,1078 1,1407 N}
+{0 ?,74 1,103 1,226 1,417 1,630 1,737 1,865 1,1407 N}
+{0 ?,74 1,103 1,226 1,366 1,417 1,630 1,737 1,865 1,1407 N}
+{0 ?,74 1,226 1,430 1,737 1,1098 1,1407 N}
+{0 ?,74 1,103 1,226 1,353 1,417 1,461 1,470 1,590 1,602 1,618 1,737 1,754 1,865 1,1003 1,1078 1,1101 1,1174 1,1407 N}
+{0 ?,82 1,123 1,218 1,226 1,288 1,297 1,298 1,366 1,386 1,533 1,652 1,737 1,779 1,809 1,826 1,855 1,941 1,948 1,958 1,1009 1,1013 1,1064 1,1407 N}
+{0 ?,7 1,519 1,588 1,590 1,735 1,745 1,758 1,801 1,821 1,878 1,998 1,1002 1}
+{0 ?,105 1,226 1,313 1,486 1,519 1,590 1,641 1,695 1,887 1,907 1,1078 1,1097 1,1112 1,1137 1,1407 N}
+{0 ?,38 1,74 1,214 1,448 1,499 1,588 1,737 1,751 1,758 1,775 1,981 1,1064 1,1124 1,1147 1,1407 N}
+{0 ?,38 1,74 1,221 1,737 1,1019 1,1407 N}
+{0 ?,7 1,74 1,170 1,590 1,737 1,1043 1,1078 1}
+{0 ?,68 1,248 1,308 1,496 1,590 1,812 1,907 1,958 1}
+{0 ?,290 1,496 1,599 1,655 1,708 1,727 1,745 1,821 1,980 1,1019 1,1043 1,1151 1,1407 F}
+{0 ?,74 1,82 1,176 1,241 1,254 1,595 1,611 1,618 1,627 1,673 1,737 1,785 1,838 1,844 1,1043 1,1053 1,1101 1,1319 1,1407 N}
+{0 ?,136 1,482 1,490 1,875 1,891 1,913 1,1009 1,1013 1,1099 1,1407 N}
+{0 ?,74 1,83 1,116 1,176 1,359 1,445 1,585 1,590 1,617 1,658 1,737 1,907 1,985 1,1043 1,1117 1,1407 N}
+{0 ?,119 1,128 1,496 1,590 1,779 1,812 1,1002 1,1046 1,1078 1}
+{0 ?,74 1,83 1,116 1,176 1,196 1,359 1,366 1,445 1,585 1,590 1,617 1,658 1,737 1,907 1,985 1,1043 1,1117 1,1407 N}
+{0 ?,74 1,226 1,442 1,447 1,590 1,618 1,627 1,629 1,715 1,716 1,737 1,782 1,787 1,834 1,887 1,891 1,1002 1,1078 1,1112 1,1407 N}
+{0 ?,74 1,136 1,241 1,343 1,366 1,463 1,524 1,552 1,637 1,737 1,747 1,751 1,786 1,814 1,833 1,883 1,893 1,964 1,1002 1,1138 1,1407 N}
+{0 ?,74 1,136 1,151 1,241 1,343 1,366 1,463 1,524 1,637 1,737 1,747 1,751 1,786 1,814 1,833 1,883 1,893 1,964 1,1002 1,1138 1,1407 N}
+{0 ?,38 1,88 1,271 1,285 1,590 1,627 1,671 1,779 1,782 1,793 1,800 1,821 1,1046 1,1078 1,1094 1,1101 1,1407 N}
+{0 ?,74 1,226 1,234 1,288 1,737 1,752 1,894 1,914 1,1009 1,1407 N}
+{0 ?,226 1,341 1,519 1,885 1,1080 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,473 1,519 1,590 1,737 1,751 1,906 1,1407 N}
+{0 ?,115 1,136 1,353 1,366 1,519 1,590 1,617 1,632 1,703 1,737 1,910 1,1006 1,1043 1,1107 1,1407 N}
+{0 ?,55 1,74 1,136 1,241 1,297 1,298 1,376 1,602 1,669 1,737 1,747 1,754 1,906 1,1043 1,1226 1,1280 1,1407 N}
+{0 ?,31 1,38 1,43 1,62 1,74 1,136 1,223 1,226 1,361 1,551 1,606 1,737 1,808 1,1058 1,1407 A}
+{0 ?,38 1,43 1,62 1,74 1,200 1,223 1,226 1,361 1,366 1,551 1,606 1,737 1,808 1,1058 1,1407 N}
+{0 ?,15 1,31 1,43 1,62 1,74 1,136 1,223 1,226 1,361 1,606 1,737 1,808 1,1058 1,1407 A}
+{0 ?,15 1,31 1,43 1,62 1,74 1,136 1,223 1,226 1,361 1,606 1,737 1,808 1,1058 1,1407 A}
+{0 ?,15 1,31 1,43 1,62 1,74 1,136 1,223 1,226 1,361 1,606 1,737 1,808 1,1058 1,1407 A}
+{0 ?,15 1,31 1,43 1,62 1,74 1,136 1,223 1,226 1,361 1,606 1,737 1,808 1,1058 1,1407 A}
+{0 ?,74 1,96 1,101 1,223 1,226 1,241 1,255 1,259 1,390 1,433 1,486 1,606 1,737 1,808 1,1058 1,1158 1,1407 N}
+{0 ?,71 1,74 1,223 1,226 1,339 1,606 1,737 1,808 1,1058 1,1407 N}
+{0 ?,37 1,74 1,82 1,136 1,228 1,359 1,583 1,590 1,703 1,727 1,737 1,838 1,994 1,1043 1,1098 1,1407 N}
+{0 ?,37 1,74 1,82 1,136 1,195 1,228 1,262 1,342 1,581 1,583 1,703 1,727 1,737 1,838 1,994 1,1042 1,1098 1,1407 N}
+{0 ?,123 1,136 1,359 1,473 1,585 1,1407 N}
+{0 ?,37 1,76 1,82 1,136 1,195 1,228 1,359 1,366 1,583 1,590 1,703 1,727 1,737 1,838 1,994 1,1043 1,1098 1,1407 N}
+{0 ?,37 1,75 1,82 1,136 1,195 1,228 1,262 1,342 1,366 1,581 1,583 1,703 1,727 1,737 1,838 1,994 1,1042 1,1098 1,1407 N}
+{0 ?,74 1,121 1,697 1,737 1,1013 1,1407 N}
+{0 ?,83 1,91 1,119 1,226 1,624 1,700 1,838 1,840 1,867 1,888 1,943 1,1038 1,1407 N}
+{0 ?,38 1,99 1,121 1,123 1,324 1,401 1,590 1,624 1,634 1,779 1,989 1,1077 1,1078 1,1098 1,1407 N}
+{0 ?,74 1,226 1,738 1,907 1,1407 N}
+{0 ?,115 1,226 1,236 1,342 1,585 1,586 1,590 1,618 1,727 1,751 1,918 1,1156 1,1407 F}
+{0 ?,136 1,590 1,614 1,618 1,751 1,812 1,838 1,885 1,985 1,1003 1,1043 1,1099 1,1127 1,1407 N}
+{0 ?,74 1,271 1,480 1,496 1,590 1,698 1,737 1,838 1,1078 1,1079 1}
+{0 ?,38 1,66 1,74 1,304 1,422 1,599 1,678 1,737 1,782 1,821 1,1407 F}
+{0 ?,2 1,74 1,103 1,136 1,171 1,430 1,590 1,657 1,737 1,779 1,870 1,946 1,993 1,1011 1,1098 1,1407 N}
+{0 ?,2 1,61 1,74 1,103 1,136 1,171 1,430 1,590 1,657 1,737 1,779 1,870 1,946 1,993 1,1011 1,1098 1,1407 N}
+{0 ?,226 1,255 1,290 1,425 1,506 1,747 1,926 1,1129 1,1407 N}
+{0 ?,38 1,85 1,290 1,522 1,588 1,602 1,611 1,645 1,707 1,713 1,727 1,745 1,822 1,865 1,1053 1,1067 1,1076 1,1099 1,1104 1,1407 N}
+{0 ?,74 1,226 1,606 1,737 1,808 1,1058 1,1407 N}
+{0 ?,113 1,226 1,241 1,590 1,618 1,624 1,747 1,753 1,1043 1,1078 1,1083 1,1084 1,1407 N}
+{0 ?,43 1,74 1,226 1,287 1,461 1,737 1,740 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,74 1,226 1,559 1,737 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,10 1,74 1,226 1,241 1,251 1,590 1,602 1,737 1,751 1,756 1,808 1,882 1,906 1,1002 1,1075 1,1159 1,1407 N}
+{0 ?,74 1,226 1,366 1,559 1,737 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,10 1,74 1,226 1,241 1,251 1,366 1,590 1,602 1,737 1,751 1,756 1,808 1,906 1,1002 1,1075 1,1159 1,1407 N}
+{0 ?,74 1,226 1,241 1,302 1,473 1,590 1,727 1,737 1,774 1,907 1,984 1,1099 1,1101 1,1142 1,1407 N}
+{0 ?,74 1,226 1,366 1,559 1,737 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,10 1,74 1,226 1,241 1,251 1,501 1,602 1,737 1,751 1,754 1,756 1,808 1,906 1,1002 1,1017 1,1043 1,1075 1,1407 N}
+{0 ?,74 1,226 1,255 1,287 1,443 1,461 1,612 1,737 1,808 1,1002 1,1075 1,1158 1,1407 N}
+{0 ?,74 1,226 1,737 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,43 1,48 1,74 1,226 1,737 1,808 1,1002 1,1075 1,1407 N}
+{0 ?,226 1,1407 N}
+{0 ?,136 1,168 1,327 1,442 1,477 1,590 1,837 1,838 1,893 1,1002 1,1043 1,1142 1,1407 N}
+{0 ?,74 1,115 1,136 1,431 1,481 1,590 1,599 1,618 1,738 1,751 1,814 1,865 1,1003 1,1129 1,1149 1,1407 F}
+{0 ?,74 1,226 1,301 1,304 1,442 1,590 1,727 1,737 1,759 1,814 1,865 1,883 1,899 1,907 1,1003 1,1059 1,1078 1,1110 1,1142 1,1148 1,1212 1,1407 N}
+{0 ?,7 1,254 1,461 1,473 1,588 1,590 1,745 1,751 1,764 1,821 1,844 1,851 1,885 1,964 1,1129 1,1351 1}
+{0 ?,7 1,590 1,727 1,759 1,764 1,865 1,878 1,985 1,1030 1,1129 1,1384 1}
+{0 ?,74 1,226 1,248 1,342 1,590 1,695 1,737 1,743 1,751 1,837 1,1025 1,1078 1,1292 1,1407 N}
+{0 ?,176 1,196 1,590 1,838 1,1407 N}
+{0 ?,33 1,38 1,176 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,988 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,33 1,38 1,177 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,988 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,33 1,38 1,177 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,988 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,33 1,38 1,177 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,988 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,74 1,99 1,226 1,302 1,590 1,737 1,814 1,865 1,885 1,904 1,1043 1,1099 1,1113 1,1127 1,1142 1,1267 1,1407 N}
+{0 ?,17 1,71 1,74 1,124 1,176 1,288 1,296 1,460 1,579 1,652 1,737 1,779 1,942 1,958 1,1407 N}
+{0 ?,38 1,71 1,254 1,588 1,611 1,664 1,727 1,747 1,751 1,850 1,959 1,1097 1,1104 1,1363 1,1407 N}
+{0 ?,74 1,136 1,168 1,353 1,496 1,602 1,677 1,727 1,738 1,747 1,754 1,794 1,938 1}
+{0 ?,103 1,136 1,255 1,341 1,419 1,453 1,590 1,627 1,632 1,635 1,658 1,703 1,727 1,747 1,751 1,865 1,985 1,1043 1,1101 1,1407 N}
+{0 ?,38 1,341 1,658 1,698 1,950 1,1019 1,1084 1,1407 N}
+{0 ?,71 1,74 1,226 1,353 1,443 1,612 1,737 1,808 1,1002 1,1075 1,1217 1,1407 N}
+{0 ?,78 1,102 1,223 1,226 1,285 1,433 1,590 1,657 1,838 1,893 1,899 1,985 1,1040 1,1043 1,1096 1,1101 1,1124 1,1407 N}
+{0 ?,78 1,102 1,174 1,223 1,285 1,366 1,433 1,590 1,657 1,838 1,893 1,899 1,985 1,1040 1,1043 1,1096 1,1101 1,1124 1,1407 N}
+{0 ?,74 1,223 1,226 1,606 1,737 1,808 1,1058 1,1407 N}
+{0 ?,496 1,590 1,599 1,624 1,636 1,829 1,837 1,946 1,1115 1,1407 F}
+{0 ?,7 1,10 1,31 1,62 1,74 1,135 1,259 1,314 1,449 1,519 1,551 1,586 1,590 1,664 1,737 1,758 1,839 1,849 1,865 1,1043 1,1129 1,1407 A}
+{0 ?,38 1,42 1,519 1,582 1,618 1,637 1,758 1,1407 N}
+{0 ?,136 1,317 1,477 1,588 1,590 1,790 1,812 1,814 1,856 1,871 1,907 1,1002 1,1043 1,1151 1,1407 N}
+{0 ?,38 1,43 1,62 1,74 1,378 1,532 1,590 1,737 1,907 1,1043 1,1083 1,1101 1,1407 N}
+{0 ?,136 1,493 1,590 1,618 1,713 1,731 1,747 1,754 1,937 1,1144 1,1407 N}
+{0 ?,38 1,43 1,62 1,74 1,200 1,366 1,378 1,532 1,590 1,737 1,907 1,1043 1,1083 1,1101 1,1407 N}
+{0 ?,7 1,17 1,71 1,74 1,88 1,113 1,296 1,460 1,579 1,737 1,779 1,953 1,958 1,1079 1,1407 N}
+{0 ?,7 1,83 1,113 1,285 1,590 1,773 1,794 1,812 1,953 1,1078 1,1129 1}
+{0 ?,226 1,343 1,588 1,590 1,619 1,622 1,627 1,838 1,844 1,878 1,1101 1,1407 N}
+{0 ?,226 1,359 1,456 1,590 1,599 1,605 1,627 1,710 1,802 1,829 1,883 1,1115 1,1407 F}
+{0 ?,38 1,532 1,590 1,602 1,603 1,713 1,745 1,754 1,759 1,829 1,883 1,907 1,1064 1,1104 1,1407 N}
+{0 ?,38 1,440 1,479 1,590 1,618 1,677 1,727 1,747 1,751 1,1055 1,1078 1,1084 1,1108 1,1144 1,1147 1,1210 1,1407 N}
+{0 ?,7 1,82 1,99 1,109 1,121 1,124 1,128 1,281 1,448 1,590 1,624 1,664 1,747 1,758 1,867 1,883 1,888 1,907 1,1003 1,1078 1,1114 1,1149 1}
+{0 ?,74 1,82 1,124 1,285 1,442 1,447 1,590 1,627 1,715 1,737 1,883 1,887 1,899 1,1002 1,1059 1,1078 1,1112 1,1144 1,1149 1,1407 N}
+{0 ?,43 1,48 1,74 1,226 1,737 1,747 1,1078 1,1137 1,1138 1,1407 N}
+{0 ?,36 1,53 1,314 1,478 1,496 1,590 1,794 1,865 1,1011 1,1039 1,1078 1}
+{0 ?,36 1,40 1,53 1,314 1,478 1,496 1,590 1,794 1,865 1,1011 1,1039 1,1078 1}
+{0 ?,226 1,230 1,366 1,378 1,409 1,519 1,601 1,758 1,895 1,922 1,1051 1,1407 N}
+{0 ?,136 1,624 1,657 1,1096 1,1101 1,1407 N}
+{0 ?,10 1,74 1,115 1,221 1,223 1,226 1,241 1,590 1,602 1,617 1,737 1,751 1,754 1,808 1,907 1,1002 1,1043 1,1075 1,1407 N}
+{0 ?,36 1,40 1,53 1,174 1,314 1,366 1,478 1,496 1,590 1,794 1,865 1,1011 1,1039 1,1078 1}
+{0 ?,36 1,40 1,53 1,174 1,314 1,366 1,478 1,496 1,590 1,794 1,865 1,1011 1,1039 1,1078 1}
+{0 ?,36 1,40 1,53 1,174 1,314 1,366 1,478 1,496 1,590 1,794 1,865 1,1011 1,1039 1,1078 1}
+{0 ?,105 1,136 1,486 1,590 1,627 1,1101 1,1142 1,1407 N}
+{0 ?,38 1,74 1,105 1,241 1,486 1,519 1,590 1,624 1,737 1,906 1,907 1,982 1,1407 N}
+{0 ?,18 1,26 1,105 1,113 1,226 1,255 1,438 1,450 1,460 1,486 1,624 1,627 1,745 1,753 1,836 1,838 1,878 1,907 1,960 1,1096 1,1101 1,1142 1,1407 N}
+{0 ?,66 1,72 1,74 1,140 1,226 1,366 1,414 1,608 1,627 1,629 1,737 1,1086 1,1101 1,1131 1,1142 1,1407 N}
+{0 ?,38 1,305 1,590 1,631 1,703 1,993 1,1020 1,1043 1,1078 1,1407 N}
+{0 ?,18 1,26 1,105 1,113 1,226 1,255 1,438 1,450 1,460 1,486 1,624 1,627 1,745 1,753 1,836 1,838 1,878 1,907 1,960 1,1096 1,1101 1,1142 1,1407 N}
+{0 ?,38 1,252 1,288 1,590 1,747 1,819 1,901 1,942 1,1043 1,1150 1,1407 N}
+{0 ?,38 1,618 1,838 1,857 1,1043 1,1321 1,1407 N}
+{0 ?,272 1,496 1,516 1,590 1,698 1,727 1,800 1,1078 1,1104 1,1145 1}
+{0 ?,136 1,442 1,586 1,590 1,618 1,714 1,747 1,824 1,893 1,1002 1,1017 1,1131 1,1144 1,1407 F}
+{0 ?,136 1,341 1,440 1,461 1,590 1,592 1,615 1,618 1,747 1,838 1,873 1,907 1,1096 1,1098 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,138 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,167 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,169 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,132 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,202 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,136 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,314 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,36 1,38 1,40 1,243 1,289 1,519 1,624 1,689 1,706 1,758 1,798 1,982 1,1011 1,1030 1,1099 1,1407 N}
+{0 ?,226 1,426 1,473 1,590 1,745 1,783 1,1002 1,1043 1,1099 1,1101 1,1407 N}
+{0 ?,115 1,136 1,274 1,343 1,391 1,590 1,624 1,783 1,814 1,926 1,999 1,1053 1,1078 1,1099 1,1407 N}
+{0 ?,38 1,45 1,618 1,703 1,727 1,747 1,838 1,865 1,937 1,1043 1,1096 1,1098 1,1161 1,1407 N}
+{0 ?,112 1,226 1,256 1,473 1,480 1,519 1,590 1,618 1,1043 1,1124 1,1407 N}
+{0 ?,38 1,121 1,123 1,618 1,747 1,838 1,891 1,923 1,1014 1,1043 1,1085 1,1407 N}
+{0 ?,2 1,5 1,290 1,463 1,590 1,602 1,655 1,673 1,715 1,727 1,754 1,1043 1,1099 1,1407 N}
+{0 ?,2 1,149 1,290 1,366 1,590 1,602 1,655 1,673 1,715 1,727 1,754 1,1043 1,1099 1,1407 N}
+{0 ?,33 1,38 1,177 1,198 1,366 1,447 1,448 1,519 1,590 1,618 1,747 1,785 1,813 1,841 1,883 1,899 1,988 1,1059 1,1078 1,1149 1,1407 N}
+{0 ?,78 1,94 1,226 1,341 1,590 1,747 1,893 1,952 1,1002 1,1017 1,1043 1,1068 1,1084 1,1096 1,1142 1,1407 N}
+{0 ?,88 1,207 1,226 1,408 1,504 1,590 1,599 1,630 1,636 1,658 1,751 1,893 1,907 1,985 1,1006 1,1040 1,1043 1,1079 1,1085 1,1407 F}
+{0 ?,7 1,10 1,31 1,62 1,74 1,135 1,259 1,314 1,449 1,519 1,551 1,586 1,590 1,664 1,737 1,758 1,839 1,849 1,865 1,1043 1,1129 1,1407 A}
+{0 ?,36 1,38 1,74 1,101 1,223 1,241 1,737 1,751 1,952 1,1043 1,1407 N}
+{0 ?,74 1,226 1,241 1,285 1,590 1,737 1,751 1,774 1,784 1,1004 1,1043 1,1078 1,1129 1,1142 1,1407 N}
+{0 ?,7 1,421 1,460 1,624 1,824 1,838 1,887 1,1056 1,1078 1,1407 N}
+{0 ?,38 1,302 1,399 1,458 1,645 1,754 1,795 1,824 1,829 1,838 1,853 1,863 1,893 1,1002 1,1099 1,1101 1,1407 N}
+{0 ?,7 1,10 1,74 1,135 1,200 1,259 1,314 1,366 1,449 1,519 1,551 1,586 1,590 1,664 1,737 1,758 1,839 1,849 1,865 1,1043 1,1129 1,1162 1,1407 F}
+{0 ?,74 1,226 1,737 1,1407 N}
+{0 ?,99 1,101 1,134 1,136 1,160 1,303 1,329 1,471 1,590 1,624 1,727 1,751 1,754 1,873 1,907 1,949 1,1078 1,1096 1,1101 1,1156 1,1407 N}
+{0 ?,132 1,136 1,160 1,301 1,821 1,907 1,1407 N}
+{0 ?,74 1,209 1,226 1,285 1,590 1,737 1,878 1,1078 1,1407 N}
+{0 ?,74 1,226 1,241 1,425 1,590 1,737 1,774 1,784 1,999 1,1004 1,1043 1,1078 1,1129 1,1142 1,1407 N}
+{0 ?,74 1,168 1,209 1,226 1,285 1,366 1,590 1,737 1,878 1,1078 1,1407 N}
+{0 ?,101 1,132 1,134 1,136 1,160 1,303 1,329 1,366 1,491 1,590 1,624 1,727 1,751 1,873 1,907 1,949 1,1078 1,1096 1,1101 1,1156 1,1407 N}
+{0 ?,7 1,74 1,266 1,605 1,624 1,737 1,758 1,814 1,851 1,865 1,904 1,1095 1,1117 1,1407 N}
+{0 ?,101 1,132 1,134 1,136 1,160 1,303 1,329 1,366 1,491 1,590 1,624 1,727 1,751 1,873 1,907 1,949 1,1078 1,1096 1,1101 1,1156 1,1407 N}
+{0 ?,101 1,132 1,134 1,136 1,160 1,303 1,329 1,366 1,491 1,590 1,624 1,727 1,751 1,873 1,907 1,949 1,1078 1,1096 1,1101 1,1156 1,1407 N}
+{0 ?,293 1,496 1,519 1,590 1,599 1,618 1,627 1,634 1,727 1,747 1,840 1,883 1,893 1,974 1,1003 1,1043 1,1059 1,1115 1,1154 1,1302 1,1407 F}
+{0 ?,38 1,74 1,290 1,473 1,506 1,514 1,515 1,737 1,1017 1,1407 N}
+{0 ?,38 1,286 1,305 1,343 1,480 1,506 1,590 1,624 1,627 1,751 1,774 1,865 1,874 1,972 1,1001 1,1020 1,1047 1,1078 1,1147 1,1407 N}
+{0 ?,136 1,310 1,588 1,590 1,602 1,734 1,751 1,1002 1,1011 1,1099 1,1101 1,1407 N}
+{0 ?,328 1,336 1,341 1,496 1,590 1,618 1,795 1,844 1,865 1,893 1,1002 1,1099 1}
+{0 ?,226 1,255 1,306 1,433 1,461 1,498 1,624 1,670 1,747 1,785 1,865 1,907 1,985 1,1040 1,1085 1,1101 1,1407 N}
+{0 ?,74 1,290 1,366 1,473 1,506 1,514 1,515 1,737 1,1017 1,1407 N}
+{0 ?,74 1,241 1,464 1,496 1,618 1,624 1,715 1,737 1,751 1,865 1,907 1,1078 1,1148 1}
+{0 ?,226 1,322 1,590 1,618 1,627 1,662 1,727 1,747 1,795 1,803 1,838 1,854 1,856 1,893 1,1002 1,1029 1,1351 1,1407 N}
+{0 ?,36 1,38 1,174 1,202 1,314 1,366 1,590 1,794 1,812 1,838 1,865 1,999 1,1011 1,1039 1,1054 1,1078 1,1407 N}
+{0 ?,74 1,226 1,291 1,442 1,590 1,618 1,627 1,719 1,737 1,751 1,838 1,879 1,902 1,1078 1,1149 1,1407 N}
+{0 ?,226 1,243 1,290 1,655 1,1099 1,1407 N}
+{0 ?,496 1,768 1,882 1}
+{0 ?,7 1,10 1,453 1,458 1,512 1,590 1,708 1,727 1,751 1,800 1,821 1,851 1,863 1,893 1,953 1,1005 1}
+{0 ?,7 1,100 1,241 1,305 1,318 1,590 1,619 1,769 1,794 1,865 1,906 1,1078 1,1079 1,1094 1,1101 1,1104 1}
+{0 ?,38 1,60 1,139 1,509 1,590 1,907 1,1078 1,1138 1,1407 N}
+{0 ?,38 1,60 1,74 1,139 1,509 1,590 1,737 1,907 1,1078 1,1138 1,1407 N}
+{0 ?,142 1,226 1,255 1,355 1,457 1,590 1,747 1,838 1,865 1,1020 1,1078 1,1407 N}
+{0 ?,7 1,170 1,211 1,215 1,328 1,416 1,590 1,727 1,751 1,845 1,903 1,1002 1,1043 1,1064 1,1075 1,1156 1}
+{0 ?,7 1,170 1,211 1,215 1,328 1,416 1,590 1,727 1,751 1,845 1,903 1,1002 1,1043 1,1064 1,1075 1,1156 1}
+{0 ?,38 1,42 1,128 1,290 1,447 1,590 1,624 1,651 1,713 1,715 1,747 1,851 1,878 1,883 1,946 1,980 1,1114 1,1129 1,1407 N}
+{0 ?,38 1,60 1,74 1,139 1,366 1,509 1,590 1,737 1,907 1,1078 1,1138 1,1407 N}
+{0 ?,184 1,214 1,372 1,590 1,601 1,611 1,627 1,641 1,747 1,758 1,878 1,1043 1,1139 1,1407 N}
+{0 ?,103 1,111 1,226 1,255 1,328 1,747 1,838 1,993 1,1407 N}
+{0 ?,7 1,117 1,240 1,590 1,608 1,764 1,821 1,893 1,907 1,946 1,983 1,998 1,1002 1,1040 1,1078 1,1161 1}
+{0 ?,7 1,211 1,215 1,328 1,366 1,416 1,590 1,727 1,751 1,845 1,903 1,1002 1,1043 1,1064 1,1075 1,1156 1}
+{0 ?,7 1,590 1,794 1,800 1,833 1,988 1,1020 1,1078 1,1370 1}
+{0 ?,226 1,308 1,326 1,343 1,498 1,517 1,590 1,611 1,618 1,707 1,727 1,747 1,782 1,865 1,878 1,1002 1,1010 1,1078 1,1086 1,1407 N}
+{0 ?,38 1,170 1,317 1,428 1,506 1,590 1,611 1,624 1,727 1,745 1,747 1,858 1,867 1,888 1,1003 1,1064 1,1088 1,1407 N}
+{0 ?,38 1,82 1,92 1,110 1,123 1,233 1,255 1,534 1,590 1,745 1,779 1,865 1,870 1,971 1,985 1,1040 1,1043 1,1078 1,1407 N}
+{0 ?,38 1,782 1,1407 N}
+{0 ?,7 1,34 1,74 1,209 1,452 1,586 1,608 1,637 1,658 1,737 1,821 1,833 1,908 1,1078 1,1407 F}
+{0 ?,226 1,343 1,590 1,1078 1,1407 N}
+{0 ?,7 1,34 1,74 1,151 1,209 1,366 1,452 1,586 1,608 1,637 1,658 1,737 1,821 1,833 1,908 1,1078 1,1407 F}
+{0 ?,226 1,241 1,483 1,719 1,1407 N}
+{0 ?,136 1,341 1,366 1,440 1,461 1,590 1,592 1,618 1,747 1,873 1,907 1,1096 1,1098 1,1407 N}
+{0 ?,38 1,310 1,519 1,590 1,657 1,858 1,1100 1,1407 N}
+{0 ?,236 1,241 1,496 1,588 1,618 1,727 1,747 1,751 1,843 1,917 1,1027 1,1043 1,1089 1,1124 1,1135 1,1144 1,1147 1}
+{0 ?,317 1,366 1,496 1,590 1,624 1,751 1,794 1,797 1,907 1,983 1,1001 1,1003 1,1044 1,1078 1}
+{0 ?,38 1,183 1,308 1,519 1,812 1,893 1,1002 1,1407 N}
+{0 ?,7 1,8 1,21 1,24 1,284 1,328 1,345 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1120 1,1407 N}
+{0 ?,136 1,420 1,583 1,590 1,618 1,624 1,644 1,727 1,858 1,865 1,871 1,1407 N}
+{0 ?,136 1,310 1,457 1,506 1,519 1,627 1,745 1,747 1,906 1,1407 N}
+{0 ?,38 1,207 1,590 1,642 1,716 1,751 1,801 1,821 1,1142 1,1306 1,1407 N}
+{0 ?,7 1,8 1,21 1,144 1,284 1,328 1,345 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1407 N}
+{0 ?,38 1,88 1,116 1,168 1,359 1,586 1,590 1,606 1,727 1,744 1,778 1,833 1,834 1,938 1,954 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,27 1,74 1,82 1,136 1,203 1,611 1,644 1,737 1,763 1,790 1,858 1,1011 1,1123 1,1407 N}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,136 1,255 1,586 1,590 1,624 1,648 1,865 1,885 1,907 1,1078 1,1407 F}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,74 1,255 1,285 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,25 1,38 1,119 1,285 1,398 1,577 1,590 1,618 1,627 1,748 1,807 1,863 1,891 1,907 1,1071 1,1078 1,1095 1,1104 1,1407 N}
+{0 ?,496 1,666 1,985 1,1043 1}
+{0 ?,7 1,461 1,590 1,758 1,883 1,888 1,907 1,1043 1,1115 1}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,25 1,38 1,119 1,285 1,366 1,398 1,577 1,590 1,618 1,627 1,748 1,807 1,863 1,891 1,907 1,1071 1,1078 1,1095 1,1104 1,1407 N}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,226 1,255 1,291 1,293 1,341 1,391 1,590 1,624 1,627 1,631 1,752 1,774 1,865 1,907 1,960 1,1043 1,1078 1,1407 F}
+{0 ?,68 1,255 1,496 1,590 1,865 1,907 1,919 1,1078 1}
+{0 ?,176 1,255 1,355 1,590 1,865 1,1078 1,1102 1,1407 N}
+{0 ?,38 1,74 1,86 1,359 1,380 1,519 1,590 1,602 1,604 1,618 1,699 1,727 1,737 1,745 1,754 1,985 1,1003 1,1040 1,1064 1,1078 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,7 1,277 1,590 1,838 1,926 1,1054 1,1105 1}
+{0 ?,38 1,255 1,355 1,383 1,590 1,865 1,907 1,1102 1,1407 N}
+{0 ?,38 1,255 1,291 1,590 1,838 1,950 1,1021 1,1078 1,1407 N}
+{0 ?,227 1,496 1,588 1,614 1,618 1,624 1,627 1,758 1,774 1,858 1,905 1,942 1,1045 1,1078 1,1098 1,1142 1}
+{0 ?,55 1,136 1,228 1,301 1,463 1,590 1,632 1,703 1,747 1,814 1,858 1,1043 1,1407 N}
+{0 ?,136 1,255 1,328 1,461 1,534 1,590 1,627 1,727 1,742 1,747 1,1043 1,1101 1,1131 1,1142 1,1407 N}
+{0 ?,8 1,226 1,284 1,330 1,414 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1120 1,1407 N}
+{0 ?,7 1,1096 1,1294 1,1407 N}
+{0 ?,136 1,342 1,457 1,584 1,590 1,599 1,618 1,624 1,657 1,714 1,718 1,747 1,751 1,918 1,985 1,1041 1,1043 1,1096 1,1101 1,1407 F}
+{0 ?,212 1,226 1,336 1,348 1,480 1,590 1,754 1,789 1,842 1,868 1,985 1,1082 1,1407 N}
+{0 ?,119 1,226 1,348 1,480 1,590 1,700 1,754 1,789 1,824 1,838 1,842 1,868 1,874 1,943 1,985 1,1002 1,1082 1,1407 N}
+{0 ?,132 1,134 1,136 1,301 1,447 1,516 1,590 1,727 1,751 1,821 1,907 1,967 1,1407 N}
+{0 ?,7 1,226 1,241 1,255 1,504 1,532 1,590 1,618 1,751 1,865 1,907 1,1050 1}
+{0 ?,55 1,136 1,182 1,228 1,301 1,366 1,463 1,590 1,632 1,703 1,747 1,814 1,858 1,1043 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,74 1,136 1,241 1,737 1,774 1,922 1,927 1,983 1,1407 N}
+{0 ?,36 1,38 1,43 1,62 1,74 1,226 1,258 1,573 1,737 1,985 1,1043 1,1407 N}
+{0 ?,227 1,305 1,496 1,590 1,627 1,774 1,1078 1}
+{0 ?,38 1,150 1,207 1,366 1,590 1,642 1,716 1,751 1,801 1,821 1,1142 1,1306 1,1407 N}
+{0 ?,10 1,13 1,74 1,226 1,258 1,291 1,590 1,658 1,737 1,842 1,893 1,985 1,1043 1,1078 1,1407 N}
+{0 ?,136 1,590 1,782 1,1032 1,1088 1,1407 N}
+{0 ?,9 1,74 1,136 1,424 1,590 1,698 1,727 1,737 1,747 1,758 1,764 1,788 1,812 1,867 1,907 1,1078 1,1142 1,1407 N}
+{0 ?,38 1,47 1,71 1,77 1,78 1,241 1,341 1,420 1,519 1,590 1,618 1,682 1,747 1,751 1,774 1,870 1,893 1,985 1,1040 1,1407 N}
+{0 ?,33 1,38 1,74 1,119 1,241 1,291 1,493 1,504 1,590 1,737 1,751 1,943 1,1407 N}
+{0 ?,136 1,514 1,618 1,907 1,1078 1,1101 1,1407 N}
+{0 ?,38 1,74 1,590 1,609 1,715 1,737 1,747 1,838 1,865 1,907 1,1144 1,1407 N}
+{0 ?,75 1,136 1,366 1,424 1,590 1,698 1,727 1,737 1,747 1,758 1,764 1,788 1,812 1,867 1,907 1,1078 1,1142 1,1407 N}
+{0 ?,36 1,38 1,43 1,62 1,74 1,200 1,226 1,258 1,366 1,573 1,737 1,985 1,1043 1,1407 N}
+{0 ?,7 1,30 1,74 1,590 1,624 1,727 1,737 1,805 1,858 1,878 1,1049 1,1127 1,1373 1}
+{0 ?,7 1,22 1,75 1,170 1,241 1,366 1,621 1,727 1,737 1,751 1,838 1,928 1,1407 N}
+{0 ?,7 1,211 1,461 1,588 1,590 1,595 1,624 1,743 1,751 1,853 1,926 1,999 1,1054 1,1060 1,1117 1}
+{0 ?,74 1,136 1,467 1,493 1,519 1,522 1,590 1,737 1,1407 N}
+{0 ?,35 1,38 1,74 1,247 1,360 1,482 1,543 1,737 1,747 1,877 1,932 1,979 1,1009 1,1116 1,1407 N}
+{0 ?,38 1,74 1,136 1,168 1,428 1,442 1,544 1,590 1,624 1,628 1,649 1,737 1,985 1,1017 1,1043 1,1064 1,1142 1,1407 N}
+{0 ?,35 1,38 1,74 1,247 1,360 1,366 1,482 1,543 1,737 1,747 1,877 1,932 1,979 1,1009 1,1116 1,1407 N}
+{0 ?,119 1,226 1,290 1,348 1,366 1,461 1,590 1,700 1,762 1,789 1,824 1,838 1,842 1,868 1,943 1,985 1,1002 1,1407 N}
+{0 ?,7 1,93 1,130 1,170 1,230 1,590 1,597 1,624 1,779 1,796 1,858 1,999 1,1049 1,1054 1}
+{0 ?,74 1,270 1,738 1,1407 N}
+{0 ?,74 1,176 1,241 1,286 1,513 1,519 1,569 1,590 1,627 1,649 1,737 1,806 1,858 1,883 1,885 1,967 1,1022 1,1043 1,1095 1,1101 1,1407 N}
+{0 ?,38 1,88 1,116 1,168 1,359 1,366 1,586 1,590 1,606 1,727 1,744 1,778 1,818 1,833 1,834 1,938 1,987 1,1040 1,1045 1,1058 1,1078 1,1407 F}
+{0 ?,33 1,61 1,74 1,173 1,183 1,190 1,425 1,496 1,531 1,590 1,624 1,727 1,737 1,838 1,926 1,1011 1,1043 1}
+{0 ?,74 1,168 1,241 1,286 1,366 1,513 1,519 1,569 1,590 1,627 1,649 1,737 1,806 1,858 1,883 1,885 1,967 1,1022 1,1043 1,1095 1,1101 1,1407 N}
+{0 ?,38 1,103 1,221 1,460 1,482 1,490 1,647 1,652 1,697 1,736 1,891 1,914 1,959 1,1009 1,1013 1,1407 N}
+{0 ?,136 1,385 1,1407 N}
+{0 ?,38 1,304 1,502 1,599 1,673 1,821 1,1407 F}
+{0 ?,71 1,74 1,136 1,254 1,286 1,511 1,590 1,737 1,751 1,878 1,885 1,906 1,907 1,954 1,1407 N}
+{0 ?,109 1,226 1,408 1,428 1,485 1,590 1,884 1,907 1,1003 1,1407 N}
+{0 ?,7 1,255 1,347 1,1013 1,1407 N}
+{0 ?,38 1,286 1,341 1,343 1,590 1,689 1,794 1,865 1,951 1,990 1,1047 1,1078 1,1080 1,1251 1,1407 N}
+{0 ?,7 1,8 1,21 1,144 1,284 1,328 1,345 1,366 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1121 1,1407 N}
+{0 ?,55 1,136 1,182 1,228 1,301 1,366 1,463 1,590 1,632 1,703 1,747 1,814 1,858 1,1043 1,1407 N}
+{0 ?,38 1,43 1,74 1,461 1,639 1,649 1,737 1,858 1,993 1,1407 N}
+{0 ?,226 1,241 1,335 1,590 1,621 1,634 1,885 1,985 1,1043 1,1049 1,1078 1,1407 N}
+{0 ?,32 1,74 1,627 1,729 1,737 1,751 1,774 1,1078 1,1101 1,1407 N}
+{0 ?,114 1,226 1,408 1,519 1,590 1,619 1,674 1,751 1,754 1,790 1,868 1,1053 1,1104 1,1142 1,1154 1,1407 N}
+{0 ?,33 1,308 1,332 1,442 1,530 1,590 1,599 1,624 1,657 1,747 1,838 1,865 1,1142 1,1407 F}
+{0 ?,33 1,240 1,395 1,480 1,627 1,698 1,751 1,785 1,819 1,1001 1,1030 1,1147 1,1407 N}
+{0 ?,123 1,226 1,275 1,356 1,359 1,477 1,590 1,618 1,624 1,658 1,675 1,699 1,777 1,940 1,985 1,1004 1,1040 1,1043 1,1101 1,1105 1,1407 N}
+{0 ?,38 1,74 1,737 1,913 1,1013 1,1407 N}
+{0 ?,38 1,355 1,590 1,893 1,946 1,990 1,1002 1,1086 1,1102 1,1407 N}
+{0 ?,123 1,155 1,226 1,275 1,356 1,359 1,366 1,477 1,590 1,618 1,624 1,658 1,675 1,699 1,777 1,940 1,985 1,1004 1,1040 1,1043 1,1101 1,1105 1,1407 N}
+{0 ?,4 1,136 1,349 1,590 1,865 1,1078 1,1407 N}
+{0 ?,7 1,328 1,461 1,590 1,727 1,863 1,907 1,1043 1,1046 1}
+{0 ?,38 1,64 1,71 1,74 1,482 1,518 1,652 1,737 1,747 1,920 1,942 1,992 1,1009 1,1407 N}
+{0 ?,136 1,158 1,424 1,583 1,624 1,708 1,838 1,920 1,1407 N}
+{0 ?,33 1,61 1,74 1,173 1,183 1,190 1,366 1,425 1,496 1,531 1,580 1,590 1,624 1,727 1,737 1,838 1,926 1,1011 1,1043 1}
+{0 ?,33 1,61 1,74 1,173 1,183 1,190 1,366 1,425 1,496 1,531 1,580 1,590 1,624 1,727 1,737 1,838 1,926 1,1011 1,1043 1}
+{0 ?,176 1,586 1,590 1,624 1,627 1,721 1,774 1,1078 1,1096 1,1142 1,1407 F}
+{0 ?,125 1,210 1,226 1,313 1,381 1,434 1,461 1,473 1,494 1,586 1,637 1,714 1,833 1,908 1,1072 1,1078 1,1407 F}
+{0 ?,38 1,64 1,71 1,74 1,366 1,482 1,518 1,652 1,737 1,747 1,920 1,942 1,992 1,1009 1,1407 N}
+{0 ?,74 1,125 1,210 1,226 1,313 1,381 1,434 1,461 1,473 1,586 1,637 1,714 1,737 1,815 1,833 1,908 1,1072 1,1407 F}
+{0 ?,76 1,125 1,172 1,210 1,226 1,313 1,366 1,381 1,434 1,461 1,473 1,586 1,637 1,714 1,737 1,815 1,833 1,908 1,1072 1,1407 F}
+{0 ?,76 1,125 1,172 1,210 1,226 1,313 1,366 1,381 1,434 1,461 1,473 1,586 1,637 1,714 1,737 1,815 1,833 1,908 1,1072 1,1407 F}
+{0 ?,1407 N}
+{0 ?,38 1,211 1,627 1,751 1,774 1,1078 1,1080 1,1142 1,1407 N}
+{0 ?,33 1,61 1,74 1,173 1,183 1,190 1,366 1,425 1,496 1,531 1,580 1,590 1,624 1,727 1,737 1,838 1,926 1,1011 1,1043 1}
+{0 ?,7 1,113 1,123 1,341 1,383 1,586 1,624 1,708 1,747 1,779 1,950 1,1049 1,1407 F}
+{0 ?,38 1,82 1,241 1,463 1,621 1,624 1,751 1,762 1,893 1,904 1,906 1,947 1,985 1,1040 1,1044 1,1407 N}
+{0 ?,74 1,226 1,297 1,366 1,602 1,627 1,706 1,737 1,812 1,1043 1,1064 1,1078 1,1099 1,1127 1,1131 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,82 1,136 1,241 1,341 1,463 1,532 1,590 1,621 1,747 1,762 1,893 1,904 1,906 1,947 1,985 1,1040 1,1044 1,1045 1,1407 N}
+{0 ?,136 1,254 1,290 1,583 1,590 1,624 1,635 1,644 1,716 1,742 1,747 1,838 1,999 1,1054 1,1407 N}
+{0 ?,74 1,130 1,226 1,377 1,384 1,590 1,737 1,752 1,885 1,985 1,1037 1,1078 1,1079 1,1407 N}
+{0 ?,291 1,341 1,496 1}
+{0 ?,123 1,155 1,226 1,275 1,356 1,359 1,366 1,477 1,590 1,618 1,624 1,658 1,675 1,699 1,777 1,940 1,985 1,1004 1,1040 1,1043 1,1101 1,1105 1,1407 N}
+{0 ?,38 1,78 1,109 1,461 1,586 1,590 1,624 1,625 1,727 1,893 1,950 1,1049 1,1061 1,1078 1,1407 F}
+{0 ?,31 1,226 1,285 1,602 1,624 1,700 1,727 1,745 1,751 1,773 1,812 1,851 1,893 1,1025 1,1099 1,1407 A}
+{0 ?,87 1,226 1,229 1,231 1,254 1,431 1,523 1,586 1,590 1,599 1,727 1,743 1,747 1,819 1,832 1,838 1,871 1,884 1,907 1,999 1,1054 1,1137 1,1407 F}
+{0 ?,38 1,241 1,502 1,524 1,782 1,1002 1,1407 N}
+{0 ?,136 1,254 1,290 1,366 1,583 1,590 1,624 1,635 1,644 1,716 1,742 1,747 1,838 1,999 1,1054 1,1407 N}
+{0 ?,38 1,255 1,355 1,590 1,727 1,812 1,865 1,1043 1,1078 1,1407 N}
+{0 ?,226 1,281 1,291 1,341 1,424 1,461 1,480 1,501 1,581 1,590 1,745 1,747 1,865 1,1021 1,1144 1,1407 N}
+{0 ?,38 1,300 1,782 1,793 1,821 1,907 1,1001 1,1078 1,1407 N}
+{0 ?,87 1,138 1,226 1,254 1,366 1,431 1,523 1,586 1,590 1,599 1,727 1,743 1,747 1,819 1,832 1,838 1,871 1,884 1,907 1,999 1,1054 1,1137 1,1407 F}
+{0 ?,123 1,155 1,226 1,275 1,356 1,359 1,366 1,477 1,590 1,618 1,624 1,658 1,675 1,699 1,777 1,940 1,985 1,1004 1,1040 1,1043 1,1101 1,1105 1,1407 N}
+{0 ?,38 1,241 1,467 1,473 1,590 1,592 1,606 1,621 1,624 1,727 1,811 1,885 1,1043 1,1407 N}
+{0 ?,32 1,341 1,838 1,1078 1,1407 N}
+{0 ?,76 1,125 1,172 1,210 1,226 1,313 1,366 1,381 1,434 1,461 1,473 1,586 1,637 1,714 1,737 1,815 1,833 1,908 1,1072 1,1407 F}
+{0 ?,38 1,590 1,864 1,881 1,907 1,1078 1,1407 N}
+{0 ?,5 1,7 1,74 1,456 1,599 1,627 1,737 1,758 1,785 1,790 1,865 1,1095 1,1104 1,1407 F}
+{0 ?,74 1,176 1,288 1,535 1,737 1,1407 N}
+{0 ?,38 1,115 1,136 1,168 1,185 1,322 1,341 1,383 1,590 1,618 1,747 1,865 1,907 1,985 1,1038 1,1043 1,1101 1,1407 N}
+{0 ?,7 1,100 1,598 1,768 1,1003 1,1012 1,1407 N}
+{0 ?,226 1,519 1,590 1,1407 N}
+{0 ?,7 1,93 1,103 1,609 1,633 1,779 1,945 1,1125 1,1407 N}
+{0 ?,7 1,88 1,121 1,587 1,609 1,711 1,768 1,886 1,921 1,1125 1,1407 N}
+{0 ?,38 1,80 1,91 1,97 1,139 1,241 1,324 1,341 1,366 1,522 1,658 1,893 1,950 1,984 1,986 1,1040 1,1043 1,1103 1,1407 N}
+{0 ?,33 1,148 1,185 1,341 1,425 1,519 1,590 1,624 1,747 1,926 1,985 1,990 1,1043 1,1407 N}
+{0 ?,7 1,8 1,21 1,144 1,284 1,328 1,345 1,366 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1121 1,1407 N}
+{0 ?,7 1,103 1,586 1,598 1,633 1,921 1,1407 F}
+{0 ?,115 1,136 1,148 1,168 1,185 1,322 1,341 1,366 1,383 1,590 1,618 1,747 1,865 1,907 1,985 1,1038 1,1043 1,1101 1,1407 N}
+{0 ?,38 1,74 1,113 1,119 1,342 1,493 1,590 1,638 1,737 1,754 1,869 1,985 1,1017 1,1040 1,1043 1,1064 1,1082 1,1407 N}
+{0 ?,7 1,525 1,598 1,768 1,929 1,945 1,1012 1,1125 1,1407 N}
+{0 ?,7 1,82 1,83 1,110 1,341 1,349 1,451 1,461 1,590 1,694 1,779 1,838 1,865 1,868 1,1040 1,1043 1,1078 1,1101 1}
+{0 ?,7 1,8 1,21 1,144 1,284 1,328 1,345 1,366 1,608 1,632 1,703 1,785 1,993 1,1053 1,1107 1,1121 1,1407 N}
+{0 ?,226 1,341 1,590 1,865 1,950 1,1078 1,1147 1,1407 N}
+{0 ?,7 1,469 1,525 1,586 1,655 1,1125 1,1407 F}
+{0 ?,7 1,469 1,525 1,586 1,598 1,633 1,654 1,886 1,929 1,945 1,1407 F}
+{0 ?,7 1,586 1,587 1,921 1,929 1,945 1,1407 F}
+{0 ?,7 1,111 1,123 1,255 1,406 1,469 1,534 1,587 1,633 1,768 1,921 1,1407 N}
+{0 ?,38 1,341 1,344 1,624 1,747 1,838 1,844 1,863 1,865 1,883 1,907 1,980 1,1014 1,1095 1,1101 1,1102 1,1147 1,1407 N}
+{0 ?,38 1,72 1,341 1,349 1,865 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,38 1,322 1,343 1,473 1,619 1,628 1,713 1,745 1,759 1,822 1,1407 N}
+{0 ?,38 1,383 1,458 1,586 1,624 1,658 1,727 1,794 1,816 1,1326 1,1407 F}
+{0 ?,136 1,317 1,431 1,590 1,618 1,620 1,672 1,727 1,838 1,857 1,865 1,885 1,963 1,1051 1,1151 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,7 1,74 1,216 1,391 1,627 1,737 1,751 1,774 1,1078 1,1101 1,1407 N}
+{0 ?,38 1,80 1,91 1,97 1,139 1,241 1,324 1,341 1,522 1,658 1,893 1,950 1,984 1,986 1,1040 1,1043 1,1103 1,1407 N}
+{0 ?,7 1,227 1,325 1,508 1,519 1,745 1,883 1,985 1,1046 1,1407 N}
+{0 ?,176 1,431 1,506 1,519 1,590 1,727 1,745 1,747 1,769 1,985 1,1002 1,1043 1,1046 1,1068 1,1101 1,1407 N}
+{0 ?,119 1,226 1,255 1,270 1,519 1,585 1,590 1,838 1,865 1,871 1,907 1,1407 N}
+{0 ?,38 1,74 1,477 1,653 1,687 1,737 1,814 1,1015 1,1407 N}
+{0 ?,5 1,74 1,502 1,636 1,727 1,737 1,751 1,764 1,774 1,812 1,844 1,1407 N}
+{0 ?,71 1,136 1,588 1,644 1,698 1,785 1,1407 N}
+{0 ?,1 1,33 1,115 1,136 1,496 1,590 1,762 1,1078 1}
+{0 ?,3 1,289 1,519 1,590 1,624 1,688 1,926 1,1054 1,1407 N}
+{0 ?,3 1,289 1,366 1,519 1,590 1,624 1,688 1,926 1,1054 1,1407 N}
+{0 ?,38 1,301 1,517 1,618 1,653 1,759 1,824 1,844 1,883 1,906 1,907 1,960 1,1046 1,1096 1,1407 N}
+{0 ?,18 1,26 1,82 1,113 1,226 1,255 1,259 1,330 1,438 1,450 1,453 1,519 1,627 1,664 1,819 1,836 1,838 1,1040 1,1042 1,1043 1,1096 1,1101 1,1142 1,1407 N}
+{0 ?,106 1,226 1,241 1,409 1,486 1,590 1,751 1,819 1,865 1,907 1,1020 1,1042 1,1043 1,1078 1,1407 N}
+{0 ?,7 1,80 1,117 1,461 1,590 1,605 1,829 1,893 1,907 1,1002 1,1103 1}
+{0 ?,226 1,243 1,290 1,506 1,508 1,590 1,620 1,727 1,838 1,1078 1,1099 1,1407 N}
+{0 ?,74 1,78 1,116 1,226 1,241 1,338 1,409 1,529 1,590 1,617 1,624 1,628 1,658 1,737 1,751 1,893 1,985 1,1039 1,1040 1,1043 1,1049 1,1407 N}
+{0 ?,38 1,74 1,653 1,737 1,754 1,1043 1,1082 1,1407 N}
+{0 ?,36 1,38 1,485 1,586 1,758 1,819 1,851 1,878 1,883 1,907 1,1407 F}
+{0 ?,226 1,326 1,883 1,906 1,907 1,1101 1,1131 1,1134 1,1407 N}
+{0 ?,7 1,121 1,123 1,328 1,590 1,596 1,608 1,773 1}
+{0 ?,176 1,205 1,341 1,590 1,747 1,985 1,1043 1,1078 1,1407 N}
+{0 ?,176 1,205 1,341 1,385 1,590 1,624 1,747 1,926 1,985 1,1043 1,1054 1,1078 1,1407 N}
+{0 ?,74 1,176 1,406 1,481 1,519 1,627 1,645 1,727 1,737 1,747 1,826 1,883 1,885 1,907 1,1096 1,1101 1,1142 1,1407 N}
+{0 ?,38 1,74 1,109 1,205 1,648 1,737 1,747 1,881 1,885 1,985 1,1002 1,1040 1,1078 1,1407 F}
+{0 ?,36 1,38 1,82 1,83 1,255 1,259 1,343 1,390 1,485 1,519 1,586 1,590 1,622 1,624 1,727 1,751 1,808 1,899 1,1040 1,1045 1,1055 1,1064 1,1147 1,1407 F}
+{0 ?,148 1,176 1,185 1,201 1,716 1,926 1,1054 1,1407 N}
+{0 ?,38 1,113 1,119 1,205 1,255 1,586 1,590 1,624 1,747 1,779 1,798 1,805 1,893 1,946 1,1021 1,1040 1,1049 1,1407 F}
+{0 ?,7 1,34 1,341 1,359 1,503 1,590 1,747 1}
+{0 ?,38 1,241 1,341 1,442 1,627 1,751 1,774 1,865 1,896 1,1078 1,1142 1,1407 N}
+{0 ?,7 1,113 1,117 1,328 1,414 1,420 1,519 1,530 1,534 1,590 1,838 1,865 1,893 1,920 1,960 1,970 1,1078 1}
+{0 ?,7 1,13 1,355 1,590 1,865 1,1078 1,1102 1}
+{0 ?,7 1,34 1,341 1,359 1,366 1,503 1,590 1,747 1}
+{0 ?,33 1,38 1,101 1,221 1,745 1,764 1,833 1,883 1,927 1,928 1,1043 1,1047 1,1112 1,1407 N}
+{0 ?,71 1,226 1,283 1,590 1,599 1,603 1,708 1,745 1,821 1,829 1,838 1,849 1,851 1,993 1,1104 1,1151 1,1407 F}
+{0 ?,87 1,138 1,226 1,254 1,366 1,431 1,523 1,586 1,590 1,599 1,727 1,743 1,747 1,819 1,832 1,838 1,871 1,884 1,907 1,999 1,1054 1,1137 1,1407 F}
+{0 ?,33 1,61 1,74 1,173 1,183 1,190 1,366 1,425 1,496 1,531 1,580 1,590 1,624 1,727 1,737 1,838 1,926 1,1011 1,1043 1}
+{0 ?,7 1,66 1,71 1,77 1,78 1,341 1,355 1,590 1,745 1,865 1,893 1,985 1,1078 1}
+{0 ?,136 1,328 1,366 1,461 1,590 1,605 1,630 1,829 1,1407 N}
+{0 ?,74 1,176 1,204 1,396 1,465 1,487 1,501 1,532 1,647 1,736 1,737 1,747 1,751 1,1009 1,1013 1,1037 1,1407 N}
+{0 ?,74 1,136 1,255 1,737 1,747 1,906 1,1407 N}
+{0 ?,74 1,176 1,204 1,366 1,396 1,465 1,487 1,501 1,532 1,647 1,736 1,737 1,747 1,751 1,1009 1,1013 1,1037 1,1407 N}
+{0 ?,74 1,115 1,136 1,473 1,590 1,618 1,624 1,698 1,720 1,737 1,798 1,893 1,906 1,1002 1,1010 1,1101 1,1142 1,1407 N}
+{0 ?,74 1,136 1,396 1,640 1,737 1,913 1,1064 1,1122 1,1407 N}
+{0 ?,79 1,89 1,226 1,228 1,335 1,590 1,599 1,627 1,649 1,657 1,703 1,727 1,742 1,993 1,994 1,1030 1,1043 1,1142 1,1407 F}
+{0 ?,66 1,226 1,522 1,925 1,985 1,1043 1,1078 1,1407 N}
+{0 ?,7 1,13 1,355 1,590 1,865 1,1078 1,1102 1}
+{0 ?,35 1,38 1,74 1,247 1,360 1,366 1,482 1,543 1,737 1,747 1,877 1,932 1,979 1,1009 1,1116 1,1407 N}
+{0 ?,74 1,136 1,255 1,366 1,737 1,747 1,906 1,1407 N}
+{0 ?,7 1,64 1,126 1,322 1,590 1,594 1,632 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,38 1,78 1,110 1,318 1,473 1,590 1,634 1,747 1,816 1,952 1,1026 1,1040 1,1049 1,1407 N}
+{0 ?,38 1,71 1,341 1,747 1,793 1,960 1,1147 1,1407 N}
+{0 ?,7 1,64 1,126 1,147 1,322 1,366 1,590 1,594 1,632 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,74 1,99 1,226 1,285 1,359 1,586 1,590 1,703 1,727 1,737 1,751 1,778 1,987 1,1040 1,1043 1,1156 1,1407 F}
+{0 ?,19 1,38 1,208 1,239 1,590 1,610 1,727 1,747 1,865 1,1021 1,1094 1,1147 1,1407 N}
+{0 ?,38 1,113 1,481 1,590 1,614 1,658 1,915 1,970 1,1017 1,1040 1,1078 1,1086 1,1092 1,1096 1,1102 1,1103 1,1407 N}
+{0 ?,38 1,241 1,385 1,501 1,519 1,586 1,590 1,597 1,611 1,618 1,751 1,759 1,883 1,975 1,997 1,1043 1,1098 1,1407 F}
+{0 ?,38 1,1407 N}
+{0 ?,36 1,38 1,83 1,174 1,343 1,366 1,390 1,485 1,519 1,586 1,590 1,622 1,624 1,727 1,751 1,808 1,899 1,1040 1,1045 1,1055 1,1064 1,1147 1,1407 F}
+{0 ?,99 1,226 1,424 1,590 1,716 1,812 1,899 1,926 1,1043 1,1054 1,1407 N}
+{0 ?,19 1,38 1,133 1,208 1,239 1,366 1,590 1,610 1,727 1,747 1,865 1,1021 1,1094 1,1147 1,1407 N}
+{0 ?,115 1,176 1,310 1,341 1,378 1,503 1,522 1,728 1,747 1,891 1,993 1,1407 N}
+{0 ?,496 1}
+{0 ?,74 1,241 1,496 1,530 1,590 1,597 1,737 1,745 1,838 1,867 1,907 1,1003 1}
+{0 ?,74 1,226 1,590 1,597 1,624 1,688 1,721 1,737 1,751 1,774 1,814 1,999 1,1001 1,1054 1,1078 1,1407 N}
+{0 ?,74 1,119 1,130 1,226 1,378 1,590 1,737 1,1043 1,1407 N}
+{0 ?,74 1,101 1,226 1,737 1,1407 N}
+{0 ?,4 1,7 1,236 1,519 1,590 1,601 1,602 1,644 1,740 1,745 1,754 1,812 1,858 1,865 1,915 1,1326 1}
+{0 ?,74 1,226 1,737 1,1407 N}
+{0 ?,74 1,226 1,337 1,489 1,502 1,548 1,737 1,907 1,937 1,1043 1,1407 N}
+{0 ?,74 1,136 1,255 1,285 1,366 1,550 1,590 1,621 1,668 1,715 1,737 1,747 1,751 1,854 1,892 1,924 1,1070 1,1407 N}
+{0 ?,136 1,160 1,627 1,774 1,838 1,1078 1,1096 1,1142 1,1407 N}
+{0 ?,38 1,241 1,586 1,590 1,624 1,727 1,751 1,794 1,928 1,985 1,1017 1,1043 1,1407 F}
+{0 ?,7 1,74 1,202 1,313 1,341 1,378 1,737 1,747 1,805 1,970 1,985 1,1001 1,1002 1,1030 1,1078 1,1407 N}
+{0 ?,74 1,737 1,1015 1,1407 N}
+{0 ?,74 1,168 1,226 1,337 1,366 1,489 1,502 1,548 1,737 1,907 1,937 1,1043 1,1407 N}
+{0 ?,19 1,38 1,133 1,208 1,239 1,366 1,590 1,610 1,727 1,747 1,865 1,1021 1,1094 1,1147 1,1407 N}
+{0 ?,124 1,226 1,328 1,583 1,590 1,644 1,703 1,708 1,727 1,747 1,1078 1,1144 1,1407 N}
+{0 ?,74 1,168 1,226 1,337 1,366 1,489 1,502 1,548 1,737 1,907 1,937 1,1043 1,1407 N}
+{0 ?,7 1,65 1,308 1,590 1,611 1,628 1,747 1,751 1}
+{0 ?,38 1,58 1,624 1,732 1,734 1,747 1,844 1,1017 1,1043 1,1407 N}
+{0 ?,74 1,168 1,226 1,337 1,366 1,489 1,502 1,548 1,737 1,907 1,937 1,1043 1,1407 N}
+{0 ?,7 1,9 1,74 1,737 1,812 1,1011 1,1378 1,1379 1,1382 1,1385 1,1386 1,1388 1,1407 N}
+{0 ?,7 1,64 1,126 1,147 1,322 1,366 1,590 1,594 1,632 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,7 1,64 1,126 1,147 1,322 1,366 1,590 1,594 1,632 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,7 1,64 1,126 1,147 1,322 1,366 1,590 1,594 1,632 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,7 1,64 1,126 1,147 1,322 1,327 1,366 1,590 1,594 1,632 1,639 1,703 1,727 1,751 1,863 1,993 1,1006 1,1107 1,1147 1}
+{0 ?,36 1,38 1,399 1,519 1,586 1,599 1,624 1,801 1,821 1,829 1,858 1,1014 1,1043 1,1142 1,1254 1,1407 F}
+{0 ?,7 1,10 1,31 1,36 1,62 1,71 1,74 1,116 1,174 1,241 1,259 1,519 1,560 1,722 1,737 1,808 1,817 1,829 1,1064 1,1074 1,1407 A}
+{0 ?,226 1,473 1,502 1,582 1,727 1,745 1,853 1,885 1,893 1,907 1,937 1,984 1,1002 1,1043 1,1109 1,1407 N}
+{0 ?,7 1,10 1,39 1,62 1,71 1,74 1,116 1,174 1,200 1,241 1,259 1,366 1,519 1,560 1,722 1,737 1,808 1,817 1,829 1,1064 1,1074 1,1407 N}
+{0 ?,7 1,426 1,506 1,519 1,588 1,590 1,606 1,624 1,627 1,727 1,745 1,829 1,838 1,849 1,878 1,1101 1,1154 1}
+{0 ?,74 1,206 1,226 1,291 1,322 1,341 1,590 1,721 1,727 1,737 1,747 1,907 1,985 1,1043 1,1407 N}
+{0 ?,68 1,140 1,226 1,328 1,385 1,414 1,461 1,477 1,590 1,595 1,608 1,726 1,782 1,838 1,893 1,907 1,1002 1,1030 1,1086 1,1140 1,1407 N}
+{0 ?,7 1,10 1,39 1,62 1,71 1,74 1,116 1,174 1,200 1,241 1,259 1,366 1,519 1,560 1,722 1,737 1,808 1,817 1,829 1,1064 1,1074 1,1407 N}
+{0 ?,7 1,10 1,39 1,62 1,71 1,74 1,116 1,174 1,200 1,241 1,259 1,366 1,519 1,560 1,722 1,737 1,808 1,817 1,829 1,1064 1,1074 1,1407 N}
+{0 ?,226 1,270 1,343 1,590 1,638 1,662 1,740 1,864 1,883 1,950 1,1092 1,1407 N}
+{0 ?,38 1,590 1,627 1,774 1,881 1,1003 1,1078 1,1113 1,1142 1,1407 N}
+{0 ?,31 1,38 1,800 1,881 1,901 1,1407 A}
+{0 ?,36 1,38 1,290 1,314 1,341 1,343 1,590 1,624 1,720 1,747 1,829 1,867 1,993 1,1024 1,1407 N}
+{0 ?,4 1,7 1,283 1,461 1,506 1,519 1,608 1,627 1,745 1,821 1,878 1,999 1,1003 1,1054 1,1407 N}
+{0 ?,214 1,226 1,365 1,463 1,590 1,638 1,657 1,758 1,851 1,863 1,864 1,865 1,893 1,925 1,940 1,1002 1,1043 1,1147 1,1254 1,1321 1,1407 N}
+{0 ?,34 1,38 1,43 1,47 1,49 1,74 1,111 1,254 1,590 1,658 1,737 1,747 1,765 1,838 1,985 1,991 1,1004 1,1005 1,1043 1,1407 N}
+{0 ?,7 1,454 1,519 1,590 1,819 1,907 1,1049 1}
+{0 ?,31 1,38 1,274 1,751 1,896 1,1407 A}
+{0 ?,38 1,47 1,74 1,364 1,468 1,618 1,720 1,737 1,745 1,1078 1,1407 N}
+{0 ?,7 1,74 1,115 1,442 1,504 1,574 1,590 1,737 1,985 1,1043 1,1142 1}
+{0 ?,7 1,74 1,115 1,148 1,366 1,442 1,504 1,574 1,590 1,737 1,985 1,1043 1,1142 1}
+{0 ?,74 1,136 1,168 1,366 1,428 1,442 1,544 1,590 1,624 1,628 1,649 1,737 1,985 1,1017 1,1043 1,1064 1,1142 1,1162 1,1407 N}
+{0 ?,71 1,74 1,226 1,255 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 ?,74 1,168 1,241 1,286 1,366 1,513 1,519 1,569 1,590 1,627 1,649 1,737 1,806 1,858 1,883 1,885 1,967 1,1022 1,1043 1,1095 1,1101 1,1407 N}
+{0 ?,25 1,38 1,119 1,285 1,366 1,398 1,577 1,590 1,618 1,627 1,748 1,807 1,863 1,891 1,907 1,1071 1,1078 1,1095 1,1104 1,1407 N}
+{0 ?,7 1,74 1,115 1,148 1,366 1,442 1,504 1,574 1,590 1,737 1,985 1,1043 1,1142 1}
+{0 ?,7 1,385 1,461 1,477 1,814 1,1407 N}
+{0 ?,74 1,226 1,255 1,354 1,367 1,737 1,985 1,1043 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,48 1,74 1,226 1,255 1,737 1,985 1,1043 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,74 1,85 1,130 1,226 1,341 1,371 1,415 1,502 1,590 1,621 1,658 1,737 1,1078 1,1147 1,1407 N}
+{0 ?,71 1,74 1,193 1,226 1,255 1,366 1,618 1,639 1,737 1,856 1,985 1,1043 1,1407 N}
+{0 ?,71 1,74 1,193 1,226 1,255 1,366 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 ?,19 1,74 1,226 1,255 1,737 1,985 1,1043 1,1167 1,1240 1,1407 N}
+{0 ?,6 1,221 1,290 1,605 1,618 1,648 1,1038 1,1078 1,1154 1,1302 1,1349 1,1407 F}
+{0 ?,10 1,74 1,115 1,226 1,241 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,98 1,113 1,124 1,226 1,519 1,590 1,705 1,745 1,838 1,844 1,985 1,1049 1,1407 N}
+{0 ?,74 1,226 1,337 1,489 1,737 1,896 1,1407 N}
+{0 ?,10 1,74 1,226 1,737 1,985 1,1043 1,1407 N}
+{0 ?,2 1,5 1,74 1,103 1,359 1,590 1,618 1,629 1,657 1,737 1,812 1,904 1,907 1,1023 1,1040 1,1113 1,1142 1,1407 N}
+{0 ?,7 1,33 1,74 1,77 1,78 1,264 1,571 1,590 1,624 1,737 1,825 1,907 1,960 1,985 1,1037 1,1040 1,1043 1,1093 1}
+{0 ?,74 1,176 1,255 1,448 1,517 1,590 1,624 1,737 1,751 1,865 1,873 1,883 1,896 1,906 1,986 1,1026 1,1407 N}
+{0 ?,38 1,274 1,290 1,464 1,590 1,618 1,655 1,716 1,811 1,821 1,844 1,883 1,970 1,1043 1,1147 1,1407 N}
+{0 ?,7 1,442 1,816 1,1142 1,1407 N}
+{0 ?,14 1,48 1,74 1,115 1,226 1,241 1,255 1,590 1,617 1,737 1,751 1,842 1,893 1,985 1,1042 1,1043 1,1407 N}
+{0 ?,46 1,63 1,74 1,226 1,255 1,372 1,737 1,880 1,985 1,1043 1,1407 N}
+{0 ?,48 1,52 1,74 1,226 1,255 1,737 1,985 1,1043 1,1407 N}
+{0 ?,41 1,51 1,74 1,226 1,255 1,338 1,372 1,737 1,985 1,1043 1,1407 N}
+{0 ?,74 1,226 1,255 1,346 1,737 1,985 1,1043 1,1407 N}
+{0 ?,33 1,148 1,185 1,308 1,328 1,341 1,461 1,473 1,493 1,590 1,605 1,624 1,747 1,885 1,970 1,1058 1,1073 1,1142 1,1407 N}
+{0 ?,7 1,33 1,74 1,77 1,78 1,148 1,264 1,366 1,571 1,590 1,624 1,737 1,825 1,907 1,960 1,985 1,1037 1,1040 1,1043 1,1093 1}
+{0 ?,38 1,74 1,519 1,627 1,722 1,727 1,737 1,878 1,1078 1,1113 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,74 1,461 1,727 1,738 1,800 1,1075 1,1407 N}
+{0 ?,71 1,74 1,193 1,226 1,255 1,366 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 ?,38 1,99 1,241 1,727 1,751 1,865 1,893 1,1002 1,1010 1,1040 1,1120 1,1407 N}
+{0 ?,7 1,254 1,383 1,461 1,481 1,584 1,590 1,720 1,727 1,951 1,1047 1,1078 1,1091 1,1108 1}
+{0 ?,71 1,74 1,193 1,226 1,255 1,366 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 ?,109 1,123 1,226 1,241 1,300 1,359 1,461 1,590 1,618 1,745 1,779 1,822 1,918 1,1040 1,1078 1,1142 1,1407 N}
+{0 ?,59 1,63 1,71 1,74 1,115 1,226 1,241 1,255 1,590 1,617 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,7 1,216 1,241 1,254 1,590 1,657 1,747 1,796 1,867 1,1096 1,1102 1,1142 1}
+{0 ?,38 1,211 1,624 1,814 1,926 1,999 1,1054 1,1407 N}
+{0 ?,38 1,431 1,477 1,624 1,814 1,926 1,999 1,1054 1,1407 N}
+{0 ?,74 1,136 1,460 1,482 1,737 1,747 1,1001 1,1122 1,1305 1,1320 1,1322 1,1334 1,1355 1,1356 1,1357 1,1358 1,1359 1,1369 1,1407 N}
+{0 ?,74 1,136 1,366 1,460 1,482 1,737 1,747 1,1001 1,1122 1,1301 1,1305 1,1320 1,1322 1,1334 1,1355 1,1356 1,1357 1,1358 1,1359 1,1369 1,1407 N}
+{0 ?,38 1,65 1,440 1,618 1,801 1,838 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1230 1,1407 N}
+{0 ?,136 1,254 1,419 1,588 1,590 1,624 1,699 1,838 1,883 1,915 1,1010 1,1011 1,1096 1,1147 1,1407 N}
+{0 ?,31 1,136 1,162 1,285 1,461 1,522 1,590 1,624 1,751 1,774 1,865 1,1055 1,1078 1,1147 1,1407 A}
+{0 ?,7 1,31 1,422 1,590 1,624 1,634 1,667 1,717 1,1043 1,1407 A}
+{0 ?,31 1,119 1,226 1,236 1,335 1,590 1,721 1,774 1,968 1,1041 1,1078 1,1407 A}
+{0 ?,38 1,530 1,590 1,624 1,698 1,747 1,856 1,907 1,1078 1,1101 1,1147 1,1407 N}
+{0 ?,31 1,136 1,162 1,285 1,366 1,461 1,522 1,590 1,624 1,751 1,774 1,865 1,1055 1,1078 1,1147 1,1407 A}
+{0 ?,38 1,241 1,515 1,590 1,624 1,698 1,751 1,865 1,868 1,907 1,1030 1,1407 N}
+{0 ?,17 1,71 1,74 1,128 1,296 1,460 1,496 1,519 1,579 1,581 1,590 1,608 1,618 1,624 1,671 1,715 1,737 1,779 1,788 1,958 1}
+{0 ?,9 1,38 1,590 1,727 1,1077 1,1078 1,1407 N}
+{0 ?,30 1,38 1,109 1,112 1,475 1,599 1,634 1,635 1,741 1,747 1,776 1,864 1,1078 1,1106 1,1407 F}
+{0 ?,33 1,590 1,648 1,671 1,1010 1,1407 F}
+{0 ?,101 1,113 1,496 1,530 1,590 1,624 1,697 1,747 1,960 1,1040 1,1078 1,1096 1,1146 1}
+{0 ?,38 1,85 1,252 1,470 1,506 1,590 1,599 1,682 1,745 1,792 1,811 1,813 1,844 1,893 1,1002 1,1011 1,1078 1,1299 1,1300 1,1347 1,1354 1,1362 1,1407 F}
+{0 ?,38 1,252 1,470 1,506 1,590 1,599 1,682 1,729 1,745 1,764 1,767 1,792 1,811 1,813 1,844 1,893 1,1011 1,1138 1,1299 1,1300 1,1362 1,1371 1,1407 F}
+{0 ?,7 1,109 1,409 1,436 1,438 1,461 1,535 1,747 1,786 1,863 1,878 1,972 1,1016 1,1043 1,1207 1,1275 1,1295 1,1407 N}
+{0 ?,7 1,322 1,590 1,726 1,865 1,889 1,1043 1}
+{0 ?,38 1,241 1,812 1,1043 1,1091 1,1407 N}
+{0 ?,7 1,66 1,84 1,383 1,590 1,727 1,747 1,838 1,889 1,946 1}
+{0 ?,3 1,226 1,590 1,624 1,634 1,639 1,671 1,717 1,718 1,747 1,867 1,1407 N}
+{0 ?,132 1,134 1,136 1,285 1,658 1,800 1,885 1,1407 N}
+{0 ?,78 1,119 1,168 1,226 1,355 1,421 1,498 1,590 1,893 1,1030 1,1040 1,1129 1,1407 N}
+{0 ?,17 1,71 1,74 1,113 1,226 1,296 1,460 1,579 1,696 1,737 1,779 1,800 1,958 1,1407 N}
+{0 ?,7 1,322 1,440 1,590 1,726 1,801 1,865 1,889 1,1043 1}
+{0 ?,38 1,72 1,99 1,519 1,599 1,624 1,821 1,838 1,844 1,850 1,893 1,915 1,1043 1,1103 1,1407 F}
+{0 ?,7 1,33 1,74 1,77 1,78 1,148 1,264 1,366 1,571 1,590 1,624 1,737 1,825 1,907 1,960 1,985 1,1037 1,1040 1,1043 1,1093 1}
+{0 ?,43 1,48 1,74 1,226 1,255 1,737 1,985 1,1043 1,1407 N}
+{0 ?,71 1,74 1,113 1,130 1,226 1,237 1,624 1,726 1,737 1,1407 N}
+{0 ?,38 1,74 1,131 1,143 1,355 1,393 1,488 1,590 1,727 1,737 1,906 1,907 1,1003 1,1043 1,1060 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,255 1,590 1,617 1,666 1,737 1,751 1,842 1,893 1,985 1,1043 1,1407 N}
+{0 ?,38 1,438 1,584 1,588 1,618 1,624 1,727 1,907 1,1047 1,1090 1,1108 1,1124 1,1407 N}
+{0 ?,7 1,74 1,159 1,277 1,370 1,374 1,391 1,590 1,737 1,751 1,774 1,890 1,1078 1}
+{0 ?,7 1,403 1,590 1,618 1,708 1,747 1,751 1,889 1,960 1,1043 1,1097 1}
+{0 ?,38 1,74 1,352 1,414 1,519 1,590 1,737 1,747 1,1078 1,1407 N}
+{0 ?,38 1,74 1,391 1,461 1,515 1,590 1,631 1,698 1,725 1,737 1,751 1,802 1,838 1,930 1,1001 1,1047 1,1075 1,1407 N}
+{0 ?,266 1,306 1,342 1,444 1,458 1,496 1,519 1,586 1,588 1,590 1,670 1,713 1,727 1,745 1,865 1,937 1,1040 1,1077 1,1123 1,1140 1,1147 1,1407 F}
+{0 ?,6 1,253 1,349 1,865 1,893 1,946 1,990 1,1002 1,1011 1,1043 1,1407 N}
+{0 ?,30 1,38 1,74 1,254 1,385 1,608 1,657 1,737 1,751 1,838 1,1096 1,1101 1,1407 N}
+{0 ?,7 1,74 1,347 1,697 1,737 1,1096 1,1407 N}
+{0 ?,38 1,74 1,341 1,411 1,547 1,635 1,659 1,737 1,864 1,872 1,969 1,1066 1,1407 N}
+{0 ?,30 1,38 1,109 1,112 1,366 1,475 1,599 1,634 1,635 1,741 1,747 1,776 1,864 1,1078 1,1106 1,1407 F}
+{0 ?,38 1,74 1,168 1,341 1,366 1,411 1,547 1,635 1,659 1,737 1,864 1,872 1,969 1,1066 1,1407 N}
+{0 ?,38 1,168 1,220 1,383 1,421 1,590 1,605 1,747 1,1043 1,1050 1,1058 1,1078 1,1407 N}
+{0 ?,7 1,74 1,159 1,277 1,366 1,370 1,374 1,391 1,590 1,737 1,751 1,774 1,890 1,1078 1}
+{0 ?,136 1,519 1,727 1,751 1,907 1,1395 1,1402 1,1406 1,1407 N}
+{0 ?,9 1,38 1,343 1,458 1,586 1,590 1,608 1,618 1,624 1,627 1,865 1,907 1,918 1,970 1,1040 1,1077 1,1145 1,1407 F}
+{0 ?,1407 N}
+{0 ?,30 1,38 1,255 1,323 1,519 1,524 1,590 1,596 1,634 1,705 1,747 1,865 1,885 1,1040 1,1142 1,1407 N}
+{0 ?,7 1,174 1,421 1,500 1,624 1,657 1,727 1,933 1,1096 1,1170 1,1171 1,1189 1,1228 1,1252 1,1288 1,1407 N}
+{0 ?,7 1,74 1,727 1,737 1,907 1,1323 1,1337 1,1339 1,1363 1,1407 N}
+{0 ?,5 1,10 1,226 1,291 1,420 1,517 1,530 1,590 1,618 1,812 1,821 1,829 1,838 1,864 1,865 1,867 1,893 1,1002 1,1173 1,1194 1,1250 1,1407 N}
+{0 ?,34 1,38 1,43 1,47 1,49 1,76 1,111 1,254 1,366 1,590 1,658 1,737 1,747 1,765 1,838 1,985 1,991 1,1004 1,1005 1,1043 1,1190 1,1407 N}
+{0 ?,7 1,355 1,532 1,590 1,657 1,726 1,865 1,893 1,1002 1,1043 1,1078 1}
+{0 ?,38 1,524 1,590 1,657 1,745 1,812 1,893 1,1002 1,1048 1,1145 1,1407 N}
+{0 ?,38 1,74 1,168 1,341 1,366 1,411 1,547 1,635 1,659 1,737 1,864 1,872 1,969 1,1066 1,1407 N}
+{0 ?,7 1,74 1,148 1,202 1,313 1,341 1,366 1,378 1,580 1,737 1,747 1,805 1,970 1,985 1,1001 1,1002 1,1030 1,1078 1,1407 N}
+{0 ?,38 1,74 1,168 1,341 1,366 1,411 1,547 1,635 1,659 1,737 1,864 1,872 1,969 1,1066 1,1407 N}
+{0 ?,74 1,226 1,352 1,737 1,864 1,1407 N}
+{0 ?,226 1,409 1,431 1,458 1,588 1,590 1,620 1,727 1,745 1,865 1,1078 1,1407 N}
+{0 ?,74 1,299 1,519 1,590 1,619 1,737 1,906 1,907 1,947 1,1078 1,1096 1,1407 N}
+{0 ?,38 1,74 1,473 1,634 1,737 1,811 1,1043 1,1048 1,1078 1,1138 1,1142 1,1407 N}
+{0 ?,132 1,136 1,206 1,274 1,383 1,391 1,599 1,740 1,829 1,865 1,960 1,1075 1,1407 F}
+{0 ?,7 1,74 1,159 1,277 1,366 1,370 1,374 1,391 1,590 1,737 1,751 1,774 1,890 1,1078 1}
+{0 ?,38 1,240 1,455 1,458 1,461 1,528 1,529 1,588 1,590 1,602 1,639 1,656 1,720 1,725 1,751 1,844 1,857 1,863 1,1099 1,1279 1,1407 N}
+{0 ?,7 1,255 1,283 1,624 1,664 1,747 1,753 1,838 1,926 1,1054 1,1407 N}
+{0 ?,38 1,150 1,194 1,624 1,649 1,728 1,788 1,874 1,883 1,1124 1,1398 1,1407 N}
+{0 ?,38 1,513 1,618 1,891 1,1314 1,1338 1,1340 1,1345 1,1407 N}
+{0 ?,24 1,38 1,74 1,441 1,519 1,595 1,737 1,1078 1,1120 1,1407 N}
+{0 ?,7 1,84 1,90 1,114 1,121 1,747 1,780 1,1407 N}
+{0 ?,38 1,74 1,88 1,737 1,907 1,1120 1,1407 N}
+{0 ?,142 1,226 1,255 1,308 1,590 1,708 1,716 1,838 1,865 1,999 1,1047 1,1054 1,1407 N}
+{0 ?,74 1,737 1,1407 N}
+{0 ?,24 1,38 1,74 1,441 1,519 1,595 1,737 1,1078 1,1120 1,1407 N}
+{0 ?,38 1,74 1,441 1,519 1,595 1,737 1,1078 1,1120 1,1407 N}
+{0 ?,74 1,226 1,255 1,737 1,985 1,1043 1,1407 N}
+{0 ?,51 1,74 1,226 1,255 1,556 1,737 1,985 1,1043 1,1407 N}
+{0 ?,142 1,226 1,255 1,308 1,366 1,590 1,708 1,716 1,838 1,865 1,999 1,1047 1,1054 1,1407 N}
+{0 ?,38 1,74 1,355 1,480 1,586 1,590 1,737 1,865 1,1331 1,1342 1,1407 F}
+{0 ?,36 1,38 1,43 1,62 1,74 1,200 1,226 1,258 1,366 1,573 1,737 1,985 1,1043 1,1407 N}
+{0 ?,74 1,226 1,234 1,449 1,590 1,727 1,728 1,730 1,737 1,759 1,992 1,1011 1,1032 1,1110 1,1200 1,1236 1,1285 1,1289 1,1407 N}
+{0 ?,496 1,590 1,599 1,619 1,624 1,728 1,747 1,751 1,878 1,883 1,1298 1,1307 1,1330 1,1368 1,1407 F}
+{0 ?,31 1,136 1,590 1,627 1,747 1,907 1,940 1,1043 1,1147 1,1375 1,1377 1,1398 1,1400 1,1404 1,1407 A}
+{0 ?,136 1,286 1,461 1,477 1,595 1,762 1,893 1,999 1,1002 1,1054 1,1105 1,1166 1,1265 1,1281 1,1407 N}
+{0 ?,7 1,74 1,109 1,737 1,747 1,951 1,1078 1,1182 1,1193 1,1218 1,1229 1,1266 1,1407 N}
+{0 ?,38 1,74 1,170 1,323 1,624 1,717 1,737 1,774 1,893 1,1002 1,1233 1,1271 1,1286 1,1407 N}
+{0 ?,38 1,440 1,458 1,618 1,745 1,764 1,878 1,970 1,1336 1,1407 N}
+{0 ?,74 1,101 1,105 1,226 1,418 1,421 1,461 1,486 1,590 1,606 1,737 1,821 1,829 1,838 1,1019 1,1052 1,1092 1,1101 1,1407 N}
+{0 ?,76 1,171 1,226 1,234 1,366 1,449 1,590 1,727 1,728 1,730 1,737 1,759 1,992 1,1011 1,1032 1,1110 1,1200 1,1285 1,1289 1,1407 N}
+{0 ?,38 1,88 1,170 1,220 1,590 1,624 1,657 1,698 1,747 1,751 1,840 1,867 1,888 1,1040 1,1091 1,1407 N}
+{0 ?,38 1,74 1,168 1,220 1,366 1,737 1,747 1,1124 1,1407 N}
+{0 ?,38 1,240 1,366 1,455 1,458 1,461 1,528 1,529 1,588 1,590 1,602 1,656 1,720 1,725 1,751 1,844 1,857 1,863 1,1099 1,1188 1,1253 1,1279 1,1407 N}
+{0 ?,438 1,496 1,608 1}
+{0 ?,136 1,399 1,588 1,599 1,716 1,745 1,751 1,821 1,849 1,851 1,878 1,906 1,907 1,1104 1,1138 1,1213 1,1261 1,1262 1,1273 1,1407 F}
+{0 ?,38 1,273 1,341 1,618 1,678 1,715 1,729 1,747 1,787 1,838 1,1002 1,1407 N}
+{0 ?,74 1,226 1,237 1,292 1,423 1,590 1,716 1,727 1,737 1,756 1,907 1,1086 1,1094 1,1101 1,1156 1,1407 N}
+{0 ?,74 1,140 1,226 1,237 1,292 1,366 1,423 1,590 1,716 1,727 1,737 1,756 1,907 1,1086 1,1094 1,1101 1,1156 1,1407 N}
+{0 ?,74 1,140 1,226 1,237 1,292 1,366 1,423 1,590 1,716 1,727 1,737 1,756 1,907 1,1086 1,1094 1,1101 1,1156 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,169 1,320 1,358 1,422 1,461 1,590 1,624 1,782 1,814 1,865 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1407 N}
+{0 ?,68 1,74 1,226 1,414 1,563 1,608 1,610 1,618 1,676 1,691 1,698 1,737 1,897 1,1086 1,1152 1,1407 N}
+{0 ?,38 1,74 1,131 1,143 1,355 1,366 1,393 1,488 1,590 1,727 1,737 1,906 1,907 1,1003 1,1043 1,1060 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,68 1,74 1,136 1,241 1,414 1,563 1,610 1,618 1,676 1,691 1,698 1,737 1,747 1,897 1,1086 1,1152 1,1407 N}
+{0 ?,38 1,74 1,131 1,143 1,355 1,366 1,393 1,488 1,590 1,727 1,737 1,906 1,907 1,1003 1,1043 1,1060 1,1407 N}
+{0 ?,7 1,10 1,31 1,62 1,71 1,74 1,135 1,241 1,259 1,314 1,519 1,560 1,590 1,720 1,737 1,808 1,811 1,907 1,940 1,1074 1,1407 A}
+{0 ?,38 1,165 1,401 1,500 1,624 1,1078 1,1407 N}
+{0 ?,74 1,136 1,140 1,144 1,252 1,563 1,590 1,608 1,639 1,726 1,737 1,745 1,856 1,883 1,907 1,1078 1,1087 1,1094 1,1139 1,1407 N}
+{0 ?,38 1,74 1,220 1,341 1,737 1,747 1,1407 N}
+{0 ?,74 1,439 1,527 1,563 1,590 1,618 1,627 1,629 1,639 1,694 1,713 1,737 1,856 1,906 1,1078 1,1134 1,1407 N}
+{0 ?,421 1,496 1,590 1,1043 1}
+{0 ?,38 1,220 1,284 1,590 1,751 1,828 1,878 1,883 1,1390 1,1393 1,1394 1,1401 1,1407 A}
+{0 ?,38 1,109 1,290 1,473 1,506 1,624 1,745 1,826 1,907 1,1040 1,1045 1,1284 1,1287 1,1290 1,1407 N}
+{0 ?,38 1,220 1,590 1,747 1,838 1,902 1,1124 1,1150 1,1255 1,1407 N}
+{0 ?,38 1,220 1,241 1,477 1,726 1,742 1,744 1,747 1,790 1,878 1,907 1,1010 1,1124 1,1146 1,1376 1,1393 1,1396 1,1401 1,1407 A}
+{0 ?,38 1,168 1,220 1,366 1,590 1,747 1,838 1,902 1,1124 1,1150 1,1255 1,1407 N}
+{0 ?,21 1,71 1,74 1,226 1,237 1,238 1,285 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,38 1,74 1,535 1,544 1,568 1,590 1,624 1,653 1,737 1,960 1,1030 1,1039 1,1078 1,1407 N}
+{0 ?,71 1,220 1,226 1,456 1,590 1,606 1,634 1,829 1,838 1,1407 N}
+{0 ?,38 1,74 1,168 1,366 1,535 1,544 1,568 1,590 1,624 1,653 1,737 1,960 1,1030 1,1039 1,1078 1,1407 N}
+{0 ?,21 1,71 1,226 1,237 1,238 1,285 1,366 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1178 1,1191 1,1407 N}
+{0 ?,38 1,100 1,220 1,284 1,586 1,846 1,915 1,1331 1,1341 1,1342 1,1407 F}
+{0 ?,74 1,88 1,226 1,424 1,508 1,590 1,657 1,727 1,737 1,891 1,893 1,925 1,987 1,1040 1,1043 1,1094 1,1179 1,1199 1,1244 1,1407 N}
+{0 ?,74 1,226 1,237 1,519 1,596 1,737 1,820 1,1245 1,1407 N}
+{0 ?,74 1,88 1,226 1,341 1,424 1,508 1,590 1,618 1,727 1,737 1,747 1,751 1,891 1,893 1,987 1,1040 1,1043 1,1073 1,1407 N}
+{0 ?,74 1,88 1,226 1,341 1,424 1,508 1,590 1,618 1,727 1,737 1,747 1,751 1,891 1,893 1,987 1,1040 1,1043 1,1073 1,1407 N}
+{0 ?,71 1,74 1,226 1,237 1,238 1,285 1,407 1,414 1,519 1,590 1,596 1,618 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,71 1,74 1,226 1,237 1,238 1,285 1,407 1,414 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,7 1,88 1,165 1,528 1,615 1,747 1,781 1,806 1,956 1,973 1,993 1,1003 1,1043 1,1078 1,1407 N}
+{0 ?,71 1,74 1,86 1,226 1,237 1,519 1,596 1,737 1,820 1,1407 N}
+{0 ?,38 1,145 1,268 1,318 1,326 1,421 1,611 1,645 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1366 1,1407 F}
+{0 ?,38 1,145 1,156 1,268 1,318 1,326 1,366 1,421 1,611 1,646 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1407 F}
+{0 ?,38 1,145 1,156 1,268 1,318 1,326 1,366 1,421 1,611 1,646 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1407 F}
+{0 ?,38 1,54 1,56 1,103 1,595 1,814 1,878 1,883 1,906 1,922 1,927 1,1078 1,1183 1,1185 1,1209 1,1224 1,1268 1,1277 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,21 1,74 1,226 1,237 1,238 1,285 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,71 1,74 1,226 1,237 1,238 1,285 1,407 1,414 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,71 1,74 1,226 1,237 1,238 1,285 1,407 1,414 1,519 1,596 1,737 1,747 1,820 1,1094 1,1407 N}
+{0 ?,38 1,74 1,130 1,220 1,323 1,737 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,226 1,255 1,293 1,341 1,747 1,865 1,993 1,1043 1,1407 F}
+{0 ?,496 1,519 1,590 1}
+{0 ?,10 1,21 1,74 1,226 1,237 1,238 1,285 1,519 1,590 1,596 1,737 1,747 1,819 1,820 1,1078 1,1086 1,1094 1,1130 1,1407 N}
+{0 ?,5 1,7 1,74 1,130 1,220 1,221 1,660 1,728 1,737 1,907 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,38 1,74 1,220 1,221 1,737 1,747 1,811 1,907 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,142 1,454 1,496 1,590 1,611 1,635 1,664 1,719 1,794 1,819 1,833 1,843 1,867 1,907 1,1003 1,1011 1,1078 1}
+{0 ?,7 1,10 1,55 1,422 1,590 1,636 1,747 1,864 1,1002 1}
+{0 ?,7 1,10 1,71 1,74 1,135 1,200 1,241 1,259 1,314 1,366 1,519 1,560 1,590 1,720 1,737 1,808 1,811 1,907 1,940 1,1074 1}
+{0 ?,7 1,167 1,422 1,727 1,864 1,865 1,871 1,893 1,918 1,1002 1,1407 N}
+{0 ?,74 1,496 1,590 1,737 1,751 1,907 1,940 1,1002 1,1043 1}
+{0 ?,38 1,43 1,422 1,463 1,1407 N}
+{0 ?,38 1,74 1,101 1,427 1,461 1,480 1,500 1,519 1,540 1,590 1,624 1,658 1,660 1,727 1,737 1,814 1,828 1,1000 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,7 1,75 1,133 1,168 1,184 1,322 1,353 1,366 1,460 1,584 1,590 1,624 1,680 1,727 1,737 1,751 1,827 1,887 1,907 1,977 1,1028 1,1043 1}
+{0 ?,7 1,83 1,618 1,674 1,781 1,800 1,838 1,907 1,973 1,1043 1,1407 N}
+{0 ?,38 1,74 1,311 1,467 1,510 1,553 1,590 1,714 1,737 1,814 1,835 1,955 1,1407 N}
+{0 ?,38 1,74 1,168 1,311 1,366 1,467 1,510 1,553 1,590 1,714 1,737 1,814 1,835 1,955 1,1407 N}
+{0 ?,38 1,74 1,101 1,191 1,366 1,427 1,461 1,480 1,500 1,519 1,540 1,590 1,624 1,658 1,660 1,727 1,737 1,814 1,828 1,1000 1,1407 N}
+{0 ?,136 1,527 1,588 1,590 1,907 1,1374 1,1384 1,1403 1,1407 N}
+{0 ?,38 1,88 1,109 1,117 1,121 1,128 1,254 1,351 1,535 1,885 1,893 1,970 1,1040 1,1407 N}
+{0 ?,68 1,74 1,136 1,192 1,241 1,366 1,414 1,563 1,610 1,618 1,676 1,691 1,698 1,737 1,747 1,897 1,1086 1,1152 1,1162 1,1407 N}
+{0 ?,7 1,70 1,74 1,81 1,114 1,174 1,363 1,737 1,794 1,1407 N}
+{0 ?,21 1,71 1,226 1,237 1,238 1,285 1,366 1,519 1,590 1,596 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1178 1,1191 1,1407 N}
+{0 ?,74 1,226 1,238 1,285 1,407 1,414 1,590 1,596 1,618 1,737 1,747 1,820 1,1078 1,1086 1,1094 1,1130 1,1165 1,1407 N}
+{0 ?,7 1,124 1,322 1,531 1,634 1,779 1,812 1,844 1,950 1,1043 1,1120 1,1407 N}
+{0 ?,38 1,255 1,355 1,865 1,1407 N}
+{0 ?,38 1,74 1,94 1,311 1,355 1,510 1,568 1,590 1,618 1,634 1,635 1,653 1,737 1,838 1,885 1,960 1,984 1,1043 1,1407 N}
+{0 ?,336 1,343 1,532 1,590 1,608 1,618 1,671 1,747 1,797 1,861 1,915 1,953 1,1043 1,1101 1,1407 N}
+{0 ?,38 1,336 1,343 1,493 1,532 1,590 1,608 1,618 1,671 1,797 1,861 1,915 1,953 1,1101 1,1407 N}
+{0 ?,38 1,618 1,624 1,691 1,727 1,800 1,864 1,871 1,970 1,1101 1,1407 N}
+{0 ?,38 1,74 1,322 1,590 1,618 1,737 1,838 1,865 1,946 1,1004 1,1030 1,1043 1,1407 N}
+{0 ?,38 1,92 1,100 1,122 1,253 1,255 1,277 1,335 1,341 1,436 1,624 1,634 1,705 1,811 1,846 1,907 1,956 1,1030 1,1040 1,1056 1,1078 1,1407 N}
+{0 ?,38 1,74 1,355 1,528 1,590 1,627 1,698 1,737 1,838 1,865 1,907 1,984 1,1010 1,1016 1,1043 1,1407 N}
+{0 ?,38 1,81 1,91 1,174 1,313 1,534 1,838 1,846 1,865 1,907 1,954 1,1123 1,1407 N}
+{0 ?,38 1,74 1,101 1,191 1,366 1,427 1,461 1,480 1,500 1,519 1,540 1,590 1,624 1,658 1,660 1,727 1,737 1,814 1,828 1,1000 1,1407 N}
+{0 ?,7 1,74 1,352 1,519 1,590 1,737 1,879 1}
+{0 ?,38 1,70 1,74 1,168 1,220 1,653 1,662 1,673 1,737 1,754 1,801 1,893 1,960 1,1002 1,1011 1,1050 1,1078 1,1101 1,1109 1,1407 N}
+{0 ?,7 1,31 1,43 1,62 1,71 1,74 1,135 1,255 1,259 1,314 1,428 1,560 1,590 1,737 1,808 1,900 1,907 1,1017 1,1043 1,1407 A}
+{0 ?,38 1,92 1,100 1,168 1,253 1,277 1,335 1,341 1,366 1,436 1,624 1,634 1,811 1,846 1,907 1,956 1,1030 1,1056 1,1078 1,1407 N}
+{0 ?,7 1,62 1,71 1,74 1,135 1,200 1,255 1,259 1,314 1,366 1,428 1,560 1,590 1,737 1,808 1,900 1,907 1,1017 1,1043 1}
+{0 ?,7 1,74 1,75 1,172 1,220 1,255 1,366 1,419 1,653 1,726 1,737 1,865 1,1407 N}
+{0 ?,31 1,226 1,498 1,747 1,838 1,850 1,1076 1,1407 A}
+{0 ?,7 1,69 1,74 1,84 1,136 1,168 1,241 1,255 1,317 1,552 1,588 1,590 1,637 1,649 1,704 1,737 1,747 1,751 1,1133 1}
+{0 ?,7 1,75 1,133 1,168 1,184 1,322 1,353 1,366 1,460 1,584 1,590 1,624 1,680 1,727 1,737 1,751 1,827 1,887 1,907 1,977 1,1028 1,1043 1}
+{0 ?,69 1,176 1,201 1,254 1,588 1,590 1,644 1,727 1,742 1,814 1,864 1,883 1,1004 1,1078 1,1115 1,1407 N}
+{0 ?,7 1,74 1,136 1,151 1,168 1,241 1,255 1,317 1,366 1,588 1,590 1,649 1,704 1,737 1,747 1,751 1,1133 1}
+{0 ?,176 1,255 1,341 1,506 1,590 1,624 1,660 1,745 1,747 1,751 1,865 1,896 1,1024 1,1078 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,342 1,496 1,519 1,590 1,618 1}
+{0 ?,38 1,74 1,490 1,524 1,737 1,814 1,833 1,854 1,925 1,1009 1,1407 N}
+{0 ?,2 1,5 1,86 1,119 1,473 1,904 1,946 1,993 1,1040 1,1407 N}
+{0 ?,7 1,105 1,128 1,280 1,399 1,588 1,618 1,634 1,671 1,708 1,751 1,796 1,800 1,838 1,883 1,1010 1,1407 N}
+{0 ?,496 1,590 1,751 1,1003 1}
+{0 ?,38 1,74 1,406 1,519 1,624 1,737 1,777 1,840 1,907 1,1407 N}
+{0 ?,10 1,74 1,116 1,226 1,428 1,590 1,737 1,808 1,865 1,900 1,1043 1,1407 N}
+{0 ?,74 1,94 1,168 1,311 1,355 1,366 1,510 1,568 1,590 1,618 1,634 1,635 1,653 1,737 1,838 1,885 1,960 1,984 1,1043 1,1407 N}
+{0 ?,38 1,308 1,429 1,590 1,751 1,754 1,906 1,1043 1,1078 1,1101 1,1407 N}
+{0 ?,38 1,74 1,91 1,241 1,320 1,554 1,590 1,621 1,737 1,814 1,847 1,907 1,915 1,1062 1,1123 1,1407 N}
+{0 ?,74 1,496 1,588 1,624 1,625 1,737 1,745 1,747 1,790 1,1104 1,1142 1,1154 1}
+{0 ?,38 1,74 1,91 1,168 1,241 1,320 1,366 1,554 1,590 1,621 1,737 1,814 1,847 1,907 1,915 1,1062 1,1123 1,1407 N}
+{0 ?,7 1,110 1,352 1,582 1,590 1,618 1,623 1,624 1,670 1,727 1,754 1,812 1,885 1,907 1,1030 1,1113 1}
+{0 ?,71 1,74 1,226 1,255 1,259 1,390 1,428 1,590 1,737 1,808 1,900 1,1043 1,1407 N}
+{0 ?,10 1,74 1,101 1,496 1,737 1,877 1}
+{0 ?,38 1,74 1,590 1,714 1,737 1,769 1,771 1,863 1,907 1,1002 1,1095 1,1104 1,1131 1,1140 1,1407 N}
+{0 ?,38 1,74 1,139 1,458 1,519 1,590 1,685 1,737 1,878 1,1096 1,1142 1,1407 N}
+{0 ?,38 1,282 1,461 1,590 1,599 1,724 1,830 1,999 1,1054 1,1078 1,1407 F}
+{0 ?,38 1,83 1,206 1,432 1,461 1,747 1,751 1,776 1,786 1,846 1,916 1,1407 N}
+{0 ?,38 1,461 1,481 1,588 1,590 1,689 1,713 1,745 1,747 1,769 1,819 1,847 1,863 1,878 1,1031 1,1043 1,1407 N}
+{0 ?,496 1,985 1,1043 1}
+{0 ?,38 1,42 1,49 1,318 1,341 1,445 1,745 1,829 1,837 1,865 1,951 1,1046 1,1101 1,1407 N}
+{0 ?,38 1,83 1,168 1,206 1,366 1,432 1,461 1,747 1,751 1,776 1,786 1,846 1,916 1,1407 N}
+{0 ?,5 1,605 1,727 1,730 1,762 1,838 1,1407 N}
+{0 ?,38 1,124 1,236 1,960 1,1407 N}
+{0 ?,74 1,256 1,285 1,473 1,584 1,590 1,611 1,618 1,698 1,720 1,728 1,737 1,747 1,893 1,1002 1,1145 1,1407 N}
+{0 ?,38 1,194 1,320 1,343 1,409 1,444 1,590 1,649 1,838 1,907 1,998 1,1007 1,1043 1,1407 N}
+{0 ?,74 1,85 1,337 1,590 1,737 1,907 1,917 1,1407 N}
+{0 ?,38 1,588 1,590 1,624 1,727 1,751 1,866 1,1043 1,1146 1,1407 N}
+{0 ?,38 1,74 1,168 1,311 1,366 1,467 1,510 1,553 1,590 1,714 1,737 1,814 1,835 1,955 1,1407 N}
+{0 ?,69 1,151 1,176 1,201 1,254 1,366 1,588 1,590 1,742 1,814 1,883 1,1004 1,1078 1,1115 1,1407 N}
+{0 ?,38 1,83 1,119 1,285 1,678 1,747 1,751 1,922 1,1040 1,1407 N}
+{0 ?,38 1,145 1,156 1,268 1,318 1,326 1,366 1,421 1,611 1,646 1,648 1,683 1,726 1,906 1,1048 1,1057 1,1063 1,1407 F}
+{0 ?,83 1,119 1,226 1,230 1,421 1,425 1,618 1,637 1,833 1,891 1,922 1,960 1,999 1,1043 1,1407 N}
+{0 ?,38 1,82 1,92 1,109 1,110 1,123 1,335 1,590 1,618 1,624 1,745 1,774 1,777 1,779 1,844 1,971 1,985 1,1040 1,1041 1,1043 1,1078 1,1407 N}
+{0 ?,38 1,83 1,168 1,206 1,432 1,461 1,747 1,751 1,776 1,786 1,846 1,916 1,1407 N}
+{0 ?,38 1,290 1,590 1,627 1,634 1,713 1,751 1,774 1,794 1,812 1,853 1,893 1,1002 1,1003 1,1078 1,1407 N}
+{0 ?,38 1,98 1,106 1,341 1,424 1,461 1,618 1,1003 1,1078 1,1090 1,1132 1,1407 N}
+{0 ?,71 1,74 1,193 1,226 1,255 1,366 1,539 1,737 1,985 1,1043 1,1407 N}
+{0 ?,38 1,43 1,64 1,74 1,241 1,451 1,532 1,586 1,590 1,737 1,747 1,833 1,907 1,1046 1,1052 1,1407 F}
+{0 ?,6 1,74 1,288 1,737 1,862 1,915 1,1122 1,1353 1,1407 N}
+{0 ?,38 1,276 1,523 1,662 1,708 1,727 1,747 1,1407 N}
+{0 ?,33 1,74 1,82 1,128 1,254 1,365 1,442 1,519 1,524 1,590 1,737 1,747 1,779 1,847 1,885 1,940 1,1142 1,1407 N}
+{0 ?,7 1,519 1,532 1,590 1,619 1,638 1,649 1,655 1,745 1,771 1,821 1,891 1,907 1,1043 1,1068 1}
+{0 ?,74 1,383 1,496 1,726 1,737 1,912 1}
+{0 ?,74 1,136 1,233 1,460 1,590 1,737 1,771 1,838 1,887 1,915 1,1407 N}
+{0 ?,136 1,233 1,366 1,460 1,590 1,737 1,771 1,838 1,887 1,915 1,1162 1,1407 N}
+{0 ?,27 1,70 1,82 1,112 1,203 1,226 1,254 1,519 1,590 1,641 1,644 1,730 1,747 1,763 1,775 1,1011 1,1118 1,1407 N}
+{0 ?,27 1,70 1,82 1,112 1,148 1,203 1,254 1,366 1,519 1,590 1,641 1,644 1,730 1,747 1,763 1,775 1,1011 1,1118 1,1407 N}
+{0 ?,33 1,74 1,82 1,128 1,191 1,254 1,365 1,366 1,442 1,519 1,524 1,590 1,737 1,747 1,779 1,847 1,885 1,940 1,1142 1,1407 N}
+{0 ?,38 1,89 1,419 1,780 1,865 1,1407 N}
+{0 ?,38 1,74 1,442 1,657 1,737 1,800 1,1407 N}
+{0 ?,226 1,1372 1,1380 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,38 1,89 1,366 1,419 1,780 1,865 1,1407 N}
+{0 ?,496 1,519 1,590 1}
+{0 ?,226 1,255 1,305 1,342 1,442 1,461 1,516 1,590 1,624 1,727 1,745 1,822 1,863 1,864 1,951 1,1043 1,1142 1,1407 N}
+{0 ?,31 1,38 1,42 1,255 1,420 1,519 1,590 1,618 1,865 1,1078 1,1407 A}
+{0 ?,226 1,255 1,355 1,590 1,623 1,624 1,627 1,727 1,838 1,865 1,907 1,1043 1,1078 1,1109 1,1145 1,1407 N}
+{0 ?,7 1,74 1,737 1,960 1,1009 1,1407 N}
+{0 ?,99 1,136 1,637 1,664 1,728 1,745 1,821 1,906 1,1005 1,1025 1,1407 N}
+{0 ?,38 1,43 1,590 1,747 1,1407 N}
+{0 ?,38 1,241 1,458 1,512 1,532 1,590 1,649 1,885 1,907 1,967 1,1043 1,1142 1,1407 N}
+{0 ?,38 1,74 1,81 1,174 1,300 1,320 1,358 1,590 1,726 1,737 1,1078 1,1407 N}
+{0 ?,7 1,74 1,519 1,590 1,621 1,649 1,737 1,813 1,907 1}
+{0 ?,496 1,590 1,771 1,794 1,907 1,997 1,1043 1}
+{0 ?,7 1,75 1,133 1,168 1,184 1,322 1,353 1,366 1,460 1,584 1,590 1,624 1,680 1,727 1,737 1,751 1,827 1,887 1,907 1,977 1,1028 1,1043 1}
+{0 ?,7 1,74 1,151 1,366 1,420 1,649 1,737 1,745 1,907 1,931 1,1112 1,1117 1,1407 N}
+{0 ?,74 1,226 1,421 1,461 1,516 1,590 1,606 1,632 1,703 1,727 1,737 1,751 1,829 1,885 1,1043 1,1104 1,1107 1,1127 1,1146 1,1407 N}
+{0 ?,38 1,74 1,81 1,174 1,200 1,320 1,358 1,419 1,737 1,985 1,1407 N}
+{0 ?,74 1,290 1,590 1,611 1,737 1,907 1,994 1,1002 1,1043 1,1142 1,1407 N}
+{0 ?,7 1,216 1,241 1,409 1,532 1,590 1,608 1,751 1,783 1,907 1,967 1,1017 1,1040 1,1043 1}
+{0 ?,7 1,396 1,465 1,751 1,920 1,985 1,1013 1,1407 N}
+{0 ?,38 1,74 1,81 1,174 1,199 1,358 1,737 1,1407 N}
+{0 ?,38 1,74 1,82 1,124 1,128 1,165 1,737 1,747 1,779 1,838 1,883 1,896 1,901 1,1407 N}
+{0 ?,38 1,74 1,81 1,174 1,284 1,737 1,1407 N}
+{0 ?,7 1,74 1,444 1,519 1,590 1,649 1,721 1,737 1,771 1,1091 1,1207 1}
+{0 ?,355 1,496 1,625 1,865 1}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,74 1,226 1,288 1,490 1,737 1,819 1,1407 N}
+{0 ?,71 1,74 1,130 1,406 1,415 1,496 1,502 1,627 1,644 1,737 1,764 1,1096 1,1142 1}
+{0 ?,38 1,74 1,305 1,590 1,726 1,737 1,1043 1,1407 N}
+{0 ?,101 1,206 1,226 1,322 1,590 1,690 1,1407 N}
+{0 ?,17 1,71 1,74 1,121 1,226 1,296 1,460 1,579 1,634 1,737 1,779 1,958 1,1407 N}
+{0 ?,7 1,132 1,267 1,590 1,838 1,930 1,1118 1}
+{0 ?,74 1,136 1,230 1,590 1,649 1,737 1,967 1,1407 N}
+{0 ?,38 1,70 1,81 1,200 1,732 1,838 1,1007 1,1171 1,1407 N}
+{0 ?,38 1,458 1,689 1,727 1,865 1,907 1,1407 N}
+{0 ?,4 1,74 1,108 1,226 1,253 1,261 1,389 1,391 1,466 1,566 1,650 1,712 1,737 1,747 1,1009 1,1407 N}
+{0 ?,226 1,353 1,448 1,519 1,590 1,608 1,618 1,651 1,714 1,727 1,735 1,801 1,831 1,838 1,904 1,1043 1,1047 1,1407 N}
+{0 ?,74 1,124 1,226 1,255 1,522 1,737 1,754 1,882 1,946 1,985 1,993 1,1043 1,1407 N}
+{0 ?,226 1,353 1,448 1,519 1,590 1,608 1,618 1,651 1,714 1,727 1,735 1,801 1,831 1,838 1,904 1,1043 1,1047 1,1407 N}
+{0 ?,74 1,115 1,226 1,285 1,341 1,371 1,415 1,590 1,617 1,624 1,710 1,737 1,1003 1,1043 1,1119 1,1407 N}
+{0 ?,74 1,115 1,136 1,285 1,341 1,371 1,415 1,537 1,590 1,617 1,624 1,710 1,737 1,1003 1,1043 1,1119 1,1407 N}
+{0 ?,74 1,115 1,136 1,154 1,285 1,341 1,366 1,371 1,415 1,537 1,590 1,617 1,624 1,710 1,737 1,1003 1,1043 1,1119 1,1162 1,1407 N}
+{0 ?,74 1,115 1,136 1,154 1,285 1,341 1,366 1,371 1,415 1,537 1,590 1,617 1,624 1,710 1,737 1,1003 1,1043 1,1119 1,1162 1,1407 N}
+{0 ?,71 1,101 1,226 1,406 1,518 1,747 1,891 1,940 1,945 1,992 1,1009 1,1094 1,1407 N}
+{0 ?,38 1,74 1,458 1,544 1,590 1,618 1,624 1,649 1,653 1,737 1,794 1,898 1,907 1,915 1,960 1,1043 1,1407 N}
+{0 ?,38 1,410 1,590 1,599 1,618 1,624 1,720 1,804 1,883 1,906 1,1078 1,1407 F}
+{0 ?,38 1,74 1,185 1,299 1,320 1,575 1,590 1,653 1,738 1,906 1,907 1,960 1,966 1,1043 1,1078 1,1407 N}
+{0 ?,4 1,7 1,99 1,212 1,461 1,514 1,519 1,590 1,747 1,792 1,814 1,821 1,1004 1,1014 1,1053 1}
+{0 ?,7 1,62 1,71 1,135 1,255 1,259 1,390 1,429 1,590 1,662 1,742 1,754 1,838 1,1043 1,1101 1}
+{0 ?,38 1,74 1,168 1,185 1,299 1,320 1,366 1,575 1,590 1,653 1,738 1,906 1,907 1,960 1,966 1,1043 1,1078 1,1407 N}
+{0 ?,70 1,79 1,89 1,136 1,152 1,169 1,343 1,363 1,366 1,495 1,526 1,624 1,739 1,741 1,814 1,910 1,993 1,1078 1,1407 N}
+{0 ?,38 1,194 1,336 1,342 1,461 1,590 1,638 1,717 1,794 1,838 1,898 1,1407 N}
+{0 ?,38 1,112 1,588 1,590 1,618 1,629 1,821 1,838 1,857 1,925 1,971 1,1011 1,1094 1,1104 1,1407 N}
+{0 ?,33 1,267 1,341 1,590 1,727 1,838 1,1036 1,1043 1,1117 1,1407 N}
+{0 ?,115 1,226 1,241 1,253 1,341 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1031 1,1081 1,1407 N}
+{0 ?,4 1,74 1,108 1,161 1,204 1,226 1,253 1,261 1,366 1,389 1,391 1,466 1,566 1,650 1,712 1,737 1,747 1,1009 1,1407 N}
+{0 ?,31 1,38 1,43 1,62 1,74 1,116 1,132 1,160 1,206 1,226 1,255 1,391 1,542 1,737 1,1030 1,1119 1,1407 A}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,38 1,74 1,737 1,1407 N}
+{0 ?,74 1,115 1,340 1,737 1,993 1,1117 1,1407 N}
+{0 ?,74 1,115 1,226 1,340 1,737 1,993 1,1117 1,1407 N}
+{0 ?,48 1,71 1,74 1,115 1,226 1,241 1,332 1,340 1,737 1,993 1,996 1,1117 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,74 1,115 1,226 1,340 1,737 1,993 1,1117 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,332 1,340 1,472 1,590 1,690 1,714 1,737 1,907 1,957 1,962 1,996 1,1165 1,1407 N}
+{0 ?,74 1,115 1,136 1,154 1,285 1,341 1,366 1,371 1,415 1,537 1,590 1,617 1,624 1,710 1,737 1,1003 1,1043 1,1119 1,1162 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,74 1,93 1,226 1,280 1,460 1,490 1,737 1,747 1,751 1,779 1,854 1,915 1,940 1,945 1,1009 1,1407 N}
+{0 ?,10 1,74 1,115 1,225 1,226 1,241 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,74 1,115 1,188 1,225 1,226 1,241 1,340 1,366 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,176 1,335 1,590 1,618 1,740 1,747 1,865 1,885 1,907 1,1078 1,1102 1,1407 N}
+{0 ?,71 1,74 1,115 1,181 1,226 1,241 1,332 1,340 1,714 1,737 1,993 1,996 1,1117 1,1407 N}
+{0 ?,43 1,74 1,115 1,226 1,340 1,366 1,737 1,993 1,1117 1,1407 N}
+{0 ?,23 1,74 1,115 1,226 1,241 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,31 1,176 1,405 1,439 1,452 1,519 1,590 1,676 1,686 1,925 1,1101 1,1407 A}
+{0 ?,38 1,98 1,103 1,123 1,322 1,586 1,590 1,754 1,883 1,907 1,915 1,971 1,975 1,1014 1,1082 1,1407 F}
+{0 ?,38 1,74 1,168 1,185 1,299 1,320 1,366 1,575 1,590 1,653 1,738 1,906 1,907 1,960 1,966 1,1043 1,1078 1,1407 N}
+{0 ?,71 1,74 1,115 1,181 1,226 1,241 1,332 1,340 1,366 1,538 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,426 1,429 1,599 1,619 1,655 1,744 1,745 1,754 1,821 1,906 1,1043 1,1407 F}
+{0 ?,71 1,74 1,101 1,206 1,226 1,255 1,737 1,1119 1,1407 N}
+{0 ?,10 1,74 1,101 1,206 1,226 1,737 1,1119 1,1407 N}
+{0 ?,38 1,83 1,121 1,240 1,429 1,512 1,522 1,586 1,590 1,621 1,624 1,745 1,754 1,758 1,764 1,794 1,801 1,829 1,833 1,838 1,1019 1,1094 1,1095 1,1147 1,1407 F}
+{0 ?,48 1,74 1,101 1,206 1,226 1,255 1,737 1,1119 1,1407 N}
+{0 ?,48 1,52 1,74 1,101 1,206 1,226 1,255 1,737 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,475 1,590 1,654 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,475 1,590 1,654 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,46 1,63 1,74 1,101 1,206 1,226 1,255 1,372 1,737 1,880 1,1119 1,1407 N}
+{0 ?,41 1,51 1,74 1,101 1,206 1,226 1,255 1,338 1,372 1,737 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,346 1,737 1,1119 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,366 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,71 1,74 1,115 1,181 1,226 1,241 1,332 1,340 1,366 1,538 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,496 1,716 1,993 1,1030 1}
+{0 ?,19 1,74 1,101 1,206 1,226 1,255 1,737 1,1119 1,1167 1,1407 N}
+{0 ?,7 1,71 1,74 1,101 1,193 1,206 1,236 1,255 1,366 1,611 1,641 1,644 1,737 1,990 1,1119 1,1124 1,1407 N}
+{0 ?,93 1,122 1,202 1,217 1,226 1,421 1,590 1,624 1,779 1,864 1,1078 1,1407 N}
+{0 ?,59 1,63 1,71 1,74 1,101 1,206 1,225 1,226 1,255 1,475 1,590 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,71 1,74 1,101 1,206 1,226 1,255 1,475 1,590 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,55 1,78 1,90 1,92 1,110 1,136 1,182 1,320 1,358 1,366 1,422 1,461 1,590 1,624 1,782 1,814 1,893 1,907 1,1040 1,1043 1,1061 1,1141 1,1162 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,354 1,367 1,737 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,475 1,590 1,654 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,10 1,74 1,101 1,206 1,221 1,226 1,475 1,590 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,475 1,590 1,654 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,14 1,48 1,74 1,101 1,206 1,226 1,255 1,475 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,51 1,74 1,101 1,206 1,226 1,255 1,556 1,737 1,1119 1,1407 N}
+{0 ?,5 1,111 1,355 1,419 1,444 1,448 1,618 1,634 1,679 1,692 1,740 1,865 1,896 1,976 1,1053 1,1132 1,1135 1,1142 1,1161 1,1407 N}
+{0 ?,33 1,189 1,309 1,519 1,590 1,698 1,733 1,861 1,1407 N}
+{0 ?,71 1,74 1,101 1,206 1,226 1,255 1,475 1,590 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,6 1,107 1,127 1,269 1,388 1,392 1,394 1,618 1,624 1,643 1,743 1,750 1,838 1,910 1,1043 1,1134 1,1407 N}
+{0 ?,136 1,662 1,698 1,714 1,716 1,758 1,1001 1,1104 1,1407 N}
+{0 ?,3 1,68 1,157 1,267 1,505 1,590 1,621 1,714 1,925 1,1003 1,1043 1,1407 N}
+{0 ?,38 1,90 1,106 1,124 1,324 1,343 1,440 1,618 1,634 1,644 1,727 1,779 1,780 1,803 1,838 1,1043 1,1078 1,1407 N}
+{0 ?,5 1,111 1,149 1,355 1,366 1,419 1,444 1,448 1,618 1,634 1,679 1,692 1,740 1,865 1,896 1,976 1,1053 1,1132 1,1135 1,1142 1,1161 1,1407 N}
+{0 ?,49 1,57 1,74 1,115 1,226 1,340 1,366 1,737 1,1117 1,1407 N}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,38 1,43 1,64 1,74 1,241 1,366 1,451 1,532 1,586 1,590 1,737 1,747 1,833 1,907 1,1046 1,1052 1,1407 F}
+{0 ?,226 1,1407 N}
+{0 ?,10 1,74 1,101 1,206 1,226 1,255 1,475 1,715 1,727 1,737 1,747 1,882 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,255 1,475 1,590 1,654 1,715 1,727 1,737 1,747 1,776 1,1119 1,1407 N}
+{0 ?,38 1,115 1,267 1,415 1,590 1,618 1,639 1,837 1,1064 1,1095 1,1119 1,1407 N}
+{0 ?,38 1,71 1,74 1,458 1,737 1,931 1,1407 N}
+{0 ?,7 1,99 1,212 1,366 1,461 1,514 1,519 1,590 1,747 1,792 1,814 1,821 1,1004 1,1014 1,1053 1}
+{0 ?,3 1,68 1,149 1,157 1,366 1,505 1,590 1,621 1,714 1,925 1,1003 1,1043 1,1407 N}
+{0 ?,57 1,74 1,115 1,226 1,340 1,366 1,737 1,1117 1,1407 N}
+{0 ?,355 1,496 1,498 1,586 1,618 1,624 1,679 1,747 1,754 1,838 1,848 1,864 1,865 1,980 1,1019 1,1076 1,1104 1,1407 F}
+{0 ?,74 1,115 1,226 1,285 1,341 1,368 1,391 1,590 1,617 1,715 1,737 1,960 1,1030 1,1043 1,1096 1,1119 1,1407 N}
+{0 ?,10 1,74 1,101 1,206 1,226 1,255 1,475 1,715 1,727 1,737 1,747 1,1119 1,1407 N}
+{0 ?,13 1,19 1,31 1,45 1,54 1,56 1,57 1,74 1,226 1,737 1,1119 1,1407 A}
+{0 ?,28 1,48 1,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,28 1,74 1,226 1,368 1,391 1,737 1,1119 1,1168 1,1169 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,13 1,19 1,54 1,56 1,57 1,74 1,226 1,366 1,737 1,1119 1,1407 N}
+{0 ?,71 1,73 1,74 1,226 1,241 1,250 1,332 1,368 1,371 1,391 1,415 1,590 1,624 1,693 1,737 1,927 1,1043 1,1119 1,1407 N}
+{0 ?,38 1,71 1,74 1,458 1,737 1,931 1,1407 N}
+{0 ?,23 1,74 1,226 1,241 1,368 1,371 1,391 1,415 1,590 1,624 1,693 1,737 1,927 1,1043 1,1119 1,1407 N}
+{0 ?,38 1,71 1,74 1,101 1,206 1,737 1,907 1,1407 N}
+{0 ?,13 1,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,28 1,74 1,226 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,624 1,627 1,737 1,1112 1,1119 1,1407 N}
+{0 ?,74 1,116 1,226 1,355 1,461 1,590 1,602 1,617 1,727 1,737 1,854 1,1043 1,1096 1,1142 1,1407 N}
+{0 ?,74 1,115 1,226 1,285 1,341 1,368 1,391 1,590 1,617 1,715 1,737 1,960 1,1030 1,1043 1,1096 1,1119 1,1407 N}
+{0 ?,74 1,115 1,226 1,265 1,341 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,366 1,368 1,391 1,737 1,1119 1,1407 N}
+{0 ?,74 1,115 1,226 1,341 1,737 1,1119 1,1407 N}
+{0 ?,71 1,74 1,115 1,181 1,226 1,241 1,332 1,340 1,366 1,538 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,29 1,74 1,206 1,226 1,341 1,558 1,590 1,737 1,916 1,1034 1,1119 1,1407 N}
+{0 ?,74 1,206 1,226 1,265 1,341 1,590 1,737 1,916 1,1034 1,1119 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,241 1,285 1,340 1,415 1,654 1,737 1,751 1,993 1,1117 1,1407 N}
+{0 ?,37 1,38 1,74 1,195 1,228 1,285 1,366 1,624 1,640 1,703 1,737 1,994 1,1043 1,1407 N}
+{0 ?,33 1,189 1,309 1,366 1,519 1,590 1,698 1,733 1,861 1,1407 N}
+{0 ?,6 1,107 1,127 1,269 1,366 1,388 1,392 1,394 1,618 1,624 1,643 1,750 1,838 1,910 1,1043 1,1134 1,1407 N}
+{0 ?,6 1,107 1,127 1,269 1,366 1,388 1,392 1,394 1,618 1,624 1,643 1,750 1,838 1,910 1,1043 1,1134 1,1407 N}
+{0 ?,33 1,189 1,309 1,366 1,519 1,590 1,698 1,733 1,861 1,1407 N}
+{0 ?,226 1,439 1,590 1,1047 1,1407 N}
+{0 ?,99 1,226 1,408 1,519 1,590 1,599 1,624 1,635 1,804 1,864 1,960 1,1043 1,1407 F}
+{0 ?,74 1,115 1,226 1,340 1,737 1,882 1,993 1,1117 1,1407 N}
+{0 ?,74 1,226 1,368 1,391 1,737 1,882 1,1119 1,1407 N}
+{0 ?,496 1,664 1,720 1,727 1,1018 1,1094 1,1101 1}
+{0 ?,71 1,74 1,115 1,226 1,241 1,332 1,340 1,590 1,714 1,737 1,962 1,993 1,996 1,1117 1,1407 N}
+{0 ?,31 1,38 1,43 1,62 1,74 1,116 1,132 1,200 1,206 1,226 1,255 1,366 1,391 1,542 1,737 1,1030 1,1119 1,1407 A}
+{0 ?,74 1,496 1,519 1,590 1,602 1,698 1,737 1,754 1,906 1,1060 1,1094 1}
+{0 ?,226 1,618 1,1407 N}
+{0 ?,33 1,479 1,495 1,588 1,590 1,606 1,608 1,624 1,727 1,751 1,844 1,1043 1,1407 N}
+{0 ?,72 1,226 1,343 1,439 1,590 1,614 1,624 1,657 1,694 1,906 1,970 1,1016 1,1094 1,1407 N}
+{0 ?,74 1,101 1,226 1,737 1,1043 1,1407 N}
+{0 ?,226 1,406 1,458 1,515 1,590 1,624 1,716 1,727 1,838 1,907 1,1003 1,1010 1,1023 1,1050 1,1094 1,1101 1,1407 N}
+{0 ?,29 1,74 1,206 1,226 1,341 1,366 1,558 1,590 1,737 1,916 1,1034 1,1119 1,1407 N}
+{0 ?,74 1,115 1,136 1,253 1,341 1,436 1,624 1,653 1,738 1,960 1,1004 1,1043 1,1078 1,1119 1,1407 N}
+{0 ?,255 1,355 1,496 1,590 1,618 1,644 1,740 1,856 1,864 1,865 1,1043 1,1045 1}
+{0 ?,74 1,116 1,136 1,226 1,341 1,737 1,1064 1,1119 1,1407 N}
+{0 ?,7 1,83 1,102 1,105 1,267 1,295 1,341 1,368 1,391 1,714 1,838 1,1014 1,1043 1,1104 1,1407 N}
+{0 ?,68 1,74 1,136 1,192 1,241 1,366 1,414 1,563 1,610 1,618 1,676 1,691 1,698 1,737 1,747 1,897 1,1086 1,1152 1,1162 1,1407 N}
+{0 ?,68 1,74 1,136 1,192 1,241 1,366 1,414 1,563 1,610 1,618 1,676 1,691 1,698 1,737 1,747 1,897 1,1086 1,1152 1,1162 1,1407 N}
+{0 ?,226 1,322 1,467 1,519 1,590 1,865 1,885 1,907 1,955 1,1043 1,1407 N}
+{0 ?,496 1,519 1,590 1,672 1,727 1,1007 1,1043 1,1101 1,1120 1,1313 1}
+{0 ?,74 1,116 1,226 1,265 1,341 1,737 1,1119 1,1407 N}
+{0 ?,74 1,425 1,435 1,511 1,541 1,600 1,624 1,688 1,738 1,751 1,772 1,799 1,885 1,906 1,1407 N}
+{0 ?,38 1,458 1,618 1,716 1,801 1,821 1,864 1,865 1,896 1,1099 1,1101 1,1407 N}
+{0 ?,37 1,38 1,444 1,584 1,618 1,864 1,1407 N}
+{0 ?,1 1,73 1,89 1,496 1,589 1,590 1,608 1,624 1,838 1,1078 1,1080 1,1101 1}
+{0 ?,7 1,73 1,396 1,589 1,590 1,608 1,838 1,1078 1,1080 1,1101 1}
+{0 ?,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,692 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,692 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,23 1,74 1,115 1,226 1,252 1,437 1,596 1,692 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,74 1,116 1,226 1,341 1,737 1,1064 1,1119 1,1407 N}
+{0 ?,48 1,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,737 1,747 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,115 1,308 1,429 1,496 1,645 1,671 1,754 1,856 1,1094 1,1101 1,1133 1}
+{0 ?,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,94 1,480 1,496 1,590 1,747 1,837 1,848 1,1043 1}
+{0 ?,37 1,38 1,74 1,195 1,228 1,285 1,366 1,624 1,640 1,703 1,737 1,994 1,1043 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,136 1,290 1,473 1,586 1,727 1,821 1,878 1,883 1,1003 1,1043 1,1095 1,1142 1,1407 F}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,38 1,176 1,477 1,590 1,838 1,882 1,999 1,1054 1,1105 1,1407 N}
+{0 ?,226 1,254 1,285 1,586 1,590 1,618 1,644 1,708 1,727 1,744 1,745 1,751 1,907 1,1138 1,1407 F}
+{0 ?,136 1,440 1,497 1,583 1,590 1,618 1,624 1,632 1,639 1,644 1,686 1,694 1,727 1,751 1,1407 N}
+{0 ?,7 1,68 1,139 1,440 1,442 1,492 1,584 1,618 1,727 1,747 1,776 1,809 1,875 1,1003 1,1004 1,1018 1,1043 1,1095 1,1227 1,1407 N}
+{0 ?,38 1,58 1,366 1,624 1,732 1,734 1,747 1,844 1,1017 1,1043 1,1407 N}
+{0 ?,74 1,136 1,366 1,425 1,435 1,511 1,541 1,600 1,624 1,688 1,738 1,751 1,772 1,799 1,885 1,906 1,1407 N}
+{0 ?,31 1,38 1,341 1,608 1,950 1,993 1,1146 1,1407 A}
+{0 ?,74 1,226 1,366 1,368 1,391 1,690 1,714 1,737 1,1096 1,1119 1,1407 N}
+{0 ?,74 1,101 1,206 1,226 1,241 1,255 1,618 1,737 1,751 1,882 1,1119 1,1407 N}
+{0 ?,136 1,366 1,440 1,497 1,583 1,590 1,618 1,624 1,632 1,639 1,644 1,686 1,694 1,727 1,751 1,1407 N}
+{0 ?,71 1,74 1,115 1,226 1,252 1,332 1,437 1,596 1,692 1,737 1,747 1,751 1,993 1,1003 1,1043 1,1407 N}
+{0 ?,7 1,74 1,322 1,452 1,476 1,590 1,618 1,671 1,715 1,737 1,844 1}
+{0 ?,4 1,96 1,136 1,290 1,506 1,588 1,590 1,627 1,649 1,653 1,665 1,672 1,745 1,782 1,822 1,833 1,883 1,907 1,960 1,1043 1,1078 1,1407 N}
+{0 ?,32 1,440 1,618 1,1099 1,1407 N}
+{0 ?,136 1,197 1,405 1,519 1,590 1,907 1,1001 1,1003 1,1043 1,1407 N}
+{0 ?,82 1,123 1,226 1,590 1,618 1,624 1,643 1,779 1,838 1,883 1,907 1,923 1,1002 1,1043 1,1095 1,1110 1,1407 N}
+{0 ?,38 1,221 1,240 1,364 1,507 1,578 1,618 1,623 1,624 1,671 1,727 1,826 1,856 1,863 1,885 1,997 1,1094 1,1104 1,1142 1,1407 N}
+{0 ?,38 1,58 1,586 1,727 1,751 1,844 1,856 1,883 1,893 1,905 1,988 1,1002 1,1003 1,1140 1,1407 F}
+{0 ?,38 1,74 1,452 1,737 1,747 1,883 1,905 1,988 1,1407 N}
+{0 ?,226 1,341 1,590 1,599 1,727 1,744 1,745 1,747 1,838 1,848 1,1043 1,1094 1,1099 1,1407 F}
+{0 ?,38 1,113 1,121 1,123 1,478 1,586 1,638 1,678 1,696 1,727 1,779 1,893 1,1040 1,1062 1,1078 1,1407 F}
+{0 ?,226 1,290 1,403 1,458 1,506 1,627 1,754 1,907 1,1076 1,1101 1,1145 1,1288 1,1407 N}
+{0 ?,13 1,23 1,74 1,115 1,226 1,241 1,340 1,590 1,690 1,714 1,737 1,962 1,996 1,1119 1,1407 N}
+{0 ?,38 1,327 1,343 1,519 1,667 1,968 1,1407 N}
+{0 ?,136 1,240 1,395 1,618 1,1016 1,1094 1,1099 1,1101 1,1407 N}
+{0 ?,38 1,43 1,49 1,618 1,767 1,1043 1,1099 1,1407 N}
+{0 ?,38 1,74 1,91 1,168 1,241 1,320 1,366 1,554 1,590 1,621 1,737 1,814 1,847 1,907 1,915 1,1062 1,1123 1,1407 N}
+{0 ?,74 1,115 1,226 1,241 1,340 1,341 1,590 1,690 1,714 1,737 1,962 1,996 1,1119 1,1407 N}
+{0 ?,38 1,179 1,335 1,471 1,519 1,618 1,638 1,727 1,1099 1,1407 N}
+{0 ?,7 1,226 1,461 1,527 1,590 1,592 1,639 1,769 1,853 1,856 1,873 1,885 1,1066 1,1078 1}
+{0 ?,68 1,139 1,366 1,440 1,442 1,492 1,584 1,618 1,727 1,747 1,776 1,809 1,875 1,1003 1,1004 1,1018 1,1043 1,1095 1,1227 1,1407 N}
+{0 ?,92 1,96 1,123 1,272 1,285 1,496 1,501 1,590 1,618 1,667 1,674 1,699 1,779 1,781 1,883 1,915 1,1002 1,1005 1,1043 1}
+{0 ?,226 1,290 1,506 1,590 1,602 1,614 1,624 1,664 1,713 1,767 1,821 1,833 1,915 1,1043 1,1094 1,1407 N}
+{0 ?,70 1,79 1,89 1,136 1,152 1,169 1,343 1,363 1,366 1,495 1,526 1,624 1,739 1,741 1,814 1,910 1,993 1,1078 1,1407 N}
+{0 ?,226 1,236 1,343 1,480 1,497 1,618 1,624 1,644 1,694 1,980 1,1000 1,1407 N}
+{0 ?,136 1,252 1,402 1,667 1,723 1,911 1,998 1,1407 N}
+{0 ?,38 1,429 1,460 1,618 1,718 1,754 1,838 1,864 1,887 1,904 1,1101 1,1407 N}
+{0 ?,92 1,123 1,272 1,324 1,496 1,618 1,667 1,674 1,699 1,744 1,779 1,781 1,883 1,915 1,1002 1,1014 1,1043 1}
+{0 ?,38 1,227 1,255 1,325 1,508 1,590 1,616 1,746 1,754 1,865 1,907 1,993 1,1043 1,1076 1,1078 1,1095 1,1407 N}
+{0 ?,136 1,252 1,366 1,402 1,667 1,723 1,911 1,998 1,1407 N}
+{0 ?,38 1,74 1,123 1,124 1,482 1,737 1,747 1,779 1,846 1,1407 N}
+{0 ?,7 1,83 1,366 1,618 1,674 1,781 1,800 1,838 1,907 1,973 1,1043 1,1407 N}
+{0 ?,38 1,74 1,109 1,435 1,590 1,737 1,754 1,1043 1,1407 N}
+{0 ?,7 1,221 1,353 1,454 1,588 1,618 1,638 1,713 1,751 1,758 1,759 1,874 1,972 1,1272 1,1407 N}
+{0 ?,226 1,401 1,440 1,477 1,590 1,618 1,639 1,642 1,667 1,838 1,993 1,1078 1,1099 1,1407 N}
+{0 ?,38 1,136 1,241 1,627 1,727 1,907 1,1016 1,1094 1,1101 1,1145 1,1407 N}
+{0 ?,38 1,74 1,322 1,590 1,618 1,624 1,737 1,800 1,869 1,1043 1,1407 N}
+{0 ?,74 1,136 1,366 1,425 1,435 1,511 1,541 1,600 1,624 1,688 1,738 1,751 1,772 1,799 1,885 1,906 1,1407 N}
+{0 ?,136 1,209 1,241 1,467 1,614 1,656 1,751 1,1040 1,1091 1,1094 1,1104 1,1407 N}
+{0 ?,71 1,74 1,101 1,226 1,255 1,264 1,409 1,576 1,737 1,865 1,960 1,1407 N}
+{0 ?,31 1,38 1,71 1,74 1,255 1,343 1,401 1,467 1,521 1,590 1,727 1,737 1,747 1,955 1,1100 1,1407 A}
+{0 ?,70 1,79 1,89 1,136 1,152 1,169 1,343 1,363 1,366 1,495 1,526 1,624 1,739 1,741 1,814 1,910 1,993 1,1078 1,1407 N}
+{0 ?,38 1,74 1,162 1,241 1,499 1,590 1,627 1,715 1,737 1,904 1,907 1,925 1,1145 1,1407 N}
+{0 ?,74 1,101 1,226 1,255 1,264 1,354 1,367 1,409 1,737 1,865 1,960 1,1407 N}
+{0 ?,46 1,63 1,74 1,101 1,226 1,255 1,264 1,372 1,409 1,737 1,865 1,880 1,960 1,1407 N}
+{0 ?,74 1,101 1,226 1,255 1,264 1,346 1,409 1,737 1,865 1,960 1,1407 N}
+{0 ?,41 1,51 1,74 1,101 1,226 1,255 1,264 1,338 1,372 1,409 1,737 1,865 1,960 1,1407 N}
+{0 ?,10 1,74 1,101 1,116 1,226 1,397 1,409 1,461 1,590 1,591 1,617 1,627 1,737 1,829 1,865 1,1004 1,1043 1,1407 N}
+{0 ?,10 1,74 1,101 1,226 1,264 1,409 1,737 1,865 1,960 1,1407 N}
+{0 ?,4 1,74 1,108 1,161 1,204 1,226 1,253 1,261 1,366 1,389 1,391 1,466 1,566 1,650 1,712 1,737 1,747 1,1009 1,1407 N}
+{0 ?,74 1,101 1,116 1,226 1,255 1,264 1,397 1,409 1,461 1,590 1,591 1,617 1,627 1,737 1,829 1,865 1,960 1,1004 1,1043 1,1407 N}
+{0 ?,134 1,226 1,1407 N}
+{0 ?,48 1,52 1,74 1,101 1,226 1,255 1,264 1,409 1,737 1,865 1,960 1,1407 N}
+{0 ?,51 1,74 1,101 1,226 1,255 1,264 1,409 1,556 1,737 1,865 1,960 1,1407 N}
+{0 ?,59 1,63 1,71 1,74 1,101 1,116 1,226 1,255 1,264 1,397 1,409 1,461 1,590 1,591 1,617 1,627 1,737 1,829 1,865 1,960 1,1004 1,1043 1,1407 N}
+{0 ?,71 1,74 1,101 1,116 1,226 1,255 1,264 1,397 1,409 1,461 1,590 1,591 1,617 1,627 1,737 1,829 1,865 1,960 1,1004 1,1043 1,1407 N}
+{0 ?,38 1,193 1,364 1,590 1,591 1,627 1,653 1,747 1,829 1,960 1,1004 1,1018 1,1043 1,1142 1,1367 1,1407 N}
+{0 ?,4 1,74 1,108 1,161 1,204 1,226 1,253 1,261 1,366 1,389 1,391 1,466 1,566 1,650 1,712 1,737 1,747 1,1009 1,1407 N}
+{0 ?,67 1,68 1,74 1,206 1,217 1,226 1,257 1,260 1,319 1,519 1,557 1,737 1,838 1,919 1,1118 1,1407 N}
+{0 ?,67 1,68 1,74 1,206 1,217 1,226 1,257 1,260 1,319 1,366 1,519 1,557 1,737 1,838 1,919 1,1118 1,1407 N}
+{0 ?,74 1,396 1,460 1,476 1,482 1,496 1,650 1,701 1,737 1,999 1,1008 1,1009 1,1013 1,1094 1,1096 1}
+{0 ?,67 1,68 1,74 1,206 1,217 1,226 1,257 1,260 1,319 1,366 1,519 1,557 1,737 1,838 1,919 1,1118 1,1407 N}
+{0 ?,31 1,38 1,71 1,74 1,343 1,444 1,467 1,521 1,590 1,618 1,624 1,653 1,737 1,771 1,955 1,960 1,1016 1,1407 A}
+{0 ?,74 1,197 1,366 1,396 1,460 1,476 1,482 1,496 1,650 1,701 1,737 1,999 1,1008 1,1009 1,1013 1,1094 1,1096 1}
+{0 ?,70 1,79 1,89 1,136 1,152 1,169 1,343 1,363 1,366 1,495 1,526 1,624 1,739 1,741 1,814 1,910 1,993 1,1078 1,1407 N}
+{0 ?,14 1,48 1,74 1,101 1,116 1,226 1,255 1,397 1,409 1,461 1,590 1,591 1,627 1,737 1,829 1,865 1,1004 1,1407 N}
+{0 ?,29 1,74 1,206 1,226 1,341 1,366 1,558 1,590 1,737 1,916 1,1034 1,1119 1,1407 N}
+{0 ?,38 1,254 1,343 1,618 1,624 1,838 1,925 1,968 1,980 1,1099 1,1407 N}
+{0 ?,7 1,276 1,343 1,608 1,624 1,645 1,667 1,671 1,788 1,801 1,893 1,970 1,1002 1,1099 1,1123 1,1407 N}
+{0 ?,31 1,38 1,74 1,343 1,444 1,467 1,521 1,590 1,618 1,624 1,653 1,737 1,771 1,955 1,960 1,1016 1,1407 A}
+{0 ?,38 1,227 1,255 1,325 1,366 1,508 1,590 1,616 1,746 1,754 1,865 1,907 1,993 1,1043 1,1076 1,1078 1,1095 1,1407 N}
+{0 ?,74 1,82 1,99 1,101 1,226 1,241 1,322 1,418 1,590 1,618 1,624 1,737 1,925 1,1043 1,1078 1,1145 1,1407 N}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,38 1,584 1,590 1,618 1,679 1,821 1,917 1,1014 1,1043 1,1047 1,1094 1,1407 N}
+{0 ?,7 1,263 1,278 1,373 1,400 1,406 1,446 1,474 1,858 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,226 1,747 1,1009 1,1407 N}
+{0 ?,38 1,425 1,602 1,618 1,636 1,838 1,864 1,907 1,1099 1,1407 N}
+{0 ?,38 1,747 1,1009 1,1407 N}
+{0 ?,7 1,178 1,263 1,278 1,366 1,373 1,400 1,406 1,446 1,474 1,860 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,7 1,178 1,263 1,278 1,366 1,373 1,400 1,406 1,446 1,474 1,860 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,7 1,335 1,498 1,611 1,618 1,624 1,698 1,771 1,802 1,838 1,865 1,885 1,970 1,1003 1,1086 1,1407 N}
+{0 ?,71 1,226 1,271 1,353 1,512 1,590 1,804 1,829 1,838 1,1101 1,1407 N}
+{0 ?,83 1,96 1,101 1,120 1,122 1,211 1,226 1,334 1,391 1,412 1,499 1,519 1,590 1,687 1,747 1,814 1,1078 1,1097 1,1407 N}
+{0 ?,7 1,178 1,263 1,278 1,366 1,373 1,400 1,406 1,446 1,474 1,860 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,7 1,178 1,263 1,278 1,366 1,373 1,400 1,406 1,446 1,474 1,860 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,74 1,136 1,243 1,252 1,590 1,632 1,737 1,751 1,923 1,993 1,1043 1,1078 1,1088 1,1099 1,1256 1,1407 N}
+{0 ?,115 1,136 1,226 1,241 1,253 1,341 1,366 1,436 1,472 1,608 1,624 1,684 1,690 1,751 1,907 1,957 1,1033 1,1081 1,1407 N}
+{0 ?,83 1,96 1,101 1,120 1,122 1,202 1,211 1,226 1,334 1,366 1,391 1,412 1,499 1,519 1,590 1,687 1,747 1,814 1,1078 1,1407 N}
+{0 ?,7 1,178 1,263 1,278 1,366 1,373 1,400 1,406 1,446 1,474 1,860 1,936 1,939 1,995 1,1111 1,1407 N}
+{0 ?,83 1,96 1,101 1,120 1,122 1,226 1,334 1,391 1,412 1,519 1,747 1,1407 N}
+{0 ?,71 1,74 1,101 1,193 1,226 1,255 1,264 1,366 1,409 1,576 1,737 1,865 1,960 1,1407 N}
+{0 ?,74 1,226 1,737 1,1119 1,1407 N}
+{0 ?,38 1,95 1,211 1,229 1,231 1,241 1,499 1,590 1,618 1,624 1,665 1,814 1,907 1,910 1,923 1,978 1,1142 1,1407 N}
+{0 ?,136 1,162 1,282 1,342 1,429 1,439 1,461 1,499 1,590 1,603 1,629 1,716 1,727 1,745 1,754 1,801 1,829 1,869 1,1043 1,1101 1,1407 N}
+{0 ?,136 1,180 1,282 1,342 1,366 1,429 1,439 1,461 1,499 1,590 1,603 1,629 1,716 1,727 1,745 1,754 1,801 1,829 1,869 1,1043 1,1101 1,1407 N}
+{0 ?,74 1,115 1,226 1,341 1,737 1,1119 1,1407 N}
+{0 ?,74 1,142 1,226 1,405 1,590 1,737 1,907 1,1043 1,1407 N}
+{0 ?,38 1,95 1,138 1,211 1,229 1,231 1,241 1,366 1,499 1,590 1,618 1,624 1,665 1,814 1,907 1,910 1,923 1,978 1,1142 1,1407 N}
+{0 ?,7 1,74 1,364 1,590 1,634 1,653 1,737 1,1043 1}
+{0 ?,74 1,226 1,269 1,667 1,737 1,751 1,906 1,907 1,982 1,1010 1,1142 1,1407 N}
+{0 ?,38 1,49 1,221 1,327 1,590 1,624 1,866 1,1043 1,1407 N}
+{0 ?,83 1,226 1,236 1,429 1,473 1,747 1,754 1,836 1,844 1,907 1,1094 1,1101 1,1129 1,1407 N}
+{0 ?,38 1,170 1,490 1,590 1,602 1,624 1,814 1,907 1,1023 1,1043 1,1099 1,1407 N}
+{0 ?,136 1,180 1,282 1,342 1,366 1,429 1,439 1,461 1,499 1,590 1,603 1,629 1,716 1,727 1,745 1,754 1,801 1,829 1,869 1,1043 1,1101 1,1407 N}
+{0 ?,43 1,48 1,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,71 1,74 1,115 1,226 1,241 1,250 1,586 1,590 1,617 1,631 1,737 1,833 1,882 1,1043 1,1159 1,1407 F}
+{0 ?,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,10 1,74 1,115 1,118 1,124 1,226 1,241 1,586 1,590 1,595 1,617 1,631 1,737 1,833 1,838 1,878 1,1043 1,1094 1,1407 F}
+{0 ?,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,71 1,74 1,226 1,327 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,38 1,95 1,138 1,211 1,229 1,231 1,241 1,366 1,499 1,590 1,618 1,624 1,665 1,814 1,907 1,910 1,923 1,978 1,1142 1,1407 N}
+{0 ?,19 1,71 1,74 1,115 1,226 1,241 1,250 1,586 1,590 1,617 1,631 1,737 1,833 1,838 1,1043 1,1094 1,1407 F}
+{0 ?,71 1,74 1,101 1,193 1,226 1,255 1,264 1,366 1,409 1,576 1,737 1,865 1,960 1,1407 N}
+{0 ?,14 1,48 1,71 1,74 1,115 1,226 1,241 1,250 1,586 1,590 1,617 1,631 1,737 1,833 1,838 1,1043 1,1094 1,1407 F}
+{0 ?,38 1,1407 N}
+{0 ?,71 1,74 1,115 1,118 1,124 1,226 1,241 1,250 1,586 1,590 1,595 1,617 1,631 1,737 1,833 1,838 1,1043 1,1094 1,1407 F}
+{0 ?,136 1,179 1,343 1,439 1,473 1,519 1,590 1,698 1,864 1,1101 1,1407 N}
+{0 ?,38 1,227 1,255 1,325 1,366 1,508 1,590 1,616 1,746 1,754 1,865 1,907 1,993 1,1043 1,1076 1,1078 1,1095 1,1407 N}
+{0 ?,48 1,63 1,71 1,74 1,115 1,118 1,124 1,226 1,241 1,250 1,581 1,586 1,590 1,617 1,631 1,737 1,833 1,838 1,1043 1,1094 1,1407 F}
+{0 ?,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,74 1,199 1,226 1,366 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,74 1,226 1,285 1,338 1,409 1,588 1,590 1,602 1,604 1,620 1,698 1,727 1,737 1,750 1,751 1,754 1,883 1,1078 1,1138 1,1158 1,1407 N}
+{0 ?,10 1,71 1,74 1,115 1,226 1,241 1,250 1,586 1,590 1,617 1,631 1,737 1,826 1,833 1,882 1,1043 1,1094 1,1407 F}
+{0 ?,43 1,48 1,74 1,226 1,586 1,631 1,737 1,833 1,1407 F}
+{0 ?,71 1,74 1,115 1,118 1,124 1,226 1,241 1,250 1,586 1,590 1,595 1,617 1,631 1,737 1,833 1,838 1,1043 1,1094 1,1407 F}
+{0 ?,29 1,68 1,71 1,74 1,206 1,217 1,226 1,255 1,257 1,260 1,319 1,519 1,737 1,838 1,919 1,1118 1,1407 N}
+{0 ?,38 1,343 1,590 1,618 1,717 1,727 1,864 1,1001 1,1094 1,1099 1,1101 1,1407 N}
+{0 ?,136 1,241 1,618 1,624 1,727 1,838 1,923 1,930 1,1078 1,1145 1,1407 N}
+{0 ?,7 1,241 1,1407 N}
+{0 ?,38 1,74 1,241 1,290 1,473 1,618 1,627 1,737 1,851 1,883 1,907 1,1040 1,1145 1,1407 N}
+{0 ?,74 1,226 1,241 1,519 1,590 1,737 1,866 1,874 1,1043 1,1407 N}
+{0 ?,38 1,50 1,74 1,241 1,512 1,567 1,727 1,737 1,751 1,821 1,863 1,907 1,980 1,1047 1,1089 1,1094 1,1126 1,1407 N}
+{0 ?,64 1,74 1,226 1,285 1,338 1,341 1,413 1,737 1,1035 1,1036 1,1119 1,1136 1,1407 N}
+{0 ?,74 1,169 1,226 1,285 1,338 1,341 1,366 1,413 1,549 1,737 1,1035 1,1036 1,1119 1,1136 1,1407 N}
+{0 ?,129 1,136 1,342 1,439 1,507 1,590 1,618 1,672 1,713 1,745 1,747 1,790 1,819 1,821 1,863 1,970 1,1043 1,1101 1,1407 N}
+{0 ?,74 1,169 1,226 1,285 1,338 1,341 1,366 1,413 1,549 1,737 1,1035 1,1036 1,1119 1,1136 1,1407 N}
+{0 ?,226 1,288 1,585 1,614 1,624 1,667 1,694 1,747 1,752 1,788 1,1002 1,1094 1,1104 1,1407 N}
+{0 ?,74 1,101 1,226 1,256 1,418 1,590 1,653 1,737 1,879 1,907 1,960 1,1043 1,1142 1,1407 N}
+{0 ?,7 1,74 1,442 1,618 1,643 1,728 1,738 1,771 1,787 1,838 1,856 1,907 1,1007 1,1058 1,1407 N}
+{0 ?,38 1,50 1,74 1,241 1,366 1,512 1,567 1,727 1,737 1,751 1,821 1,863 1,907 1,980 1,1047 1,1089 1,1094 1,1126 1,1407 N}
+{0 ?,74 1,226 1,285 1,406 1,413 1,415 1,480 1,624 1,737 1,747 1,751 1,1003 1,1043 1,1136 1,1407 N}
+{0 ?,68 1,74 1,602 1,613 1,737 1,1031 1,1051 1,1099 1,1407 N}
+{0 ?,29 1,38 1,74 1,101 1,219 1,334 1,343 1,555 1,590 1,685 1,727 1,737 1,747 1,751 1,758 1,885 1,893 1,964 1,1002 1,1010 1,1078 1,1101 1,1407 N}
+{0 ?,38 1,74 1,101 1,219 1,334 1,343 1,366 1,555 1,590 1,685 1,727 1,737 1,747 1,751 1,758 1,885 1,893 1,964 1,1002 1,1010 1,1078 1,1101 1,1407 N}
+{0 ?,74 1,226 1,353 1,391 1,461 1,590 1,602 1,618 1,702 1,715 1,737 1,754 1,831 1,907 1,1407 N}
+{0 ?,74 1,226 1,285 1,588 1,590 1,602 1,604 1,618 1,620 1,698 1,727 1,737 1,750 1,751 1,754 1,1078 1,1138 1,1407 N}
+{0 ?,74 1,115 1,226 1,341 1,391 1,590 1,737 1,1119 1,1407 N}
+{0 ?,74 1,327 1,489 1,662 1,737 1,904 1,1043 1,1407 N}
+{0 ?,38 1,74 1,101 1,219 1,334 1,343 1,366 1,555 1,590 1,685 1,727 1,737 1,747 1,751 1,758 1,885 1,893 1,964 1,1002 1,1010 1,1078 1,1101 1,1407 N}
+{0 ?,226 1,455 1,588 1,590 1,727 1,745 1,747 1,751 1,844 1,1027 1,1043 1,1129 1,1407 N}
+{0 ?,74 1,226 1,368 1,737 1,1119 1,1407 N}
+{0 ?,43 1,48 1,74 1,226 1,368 1,737 1,1119 1,1407 N}
+{0 ?,10 1,74 1,115 1,226 1,241 1,368 1,468 1,590 1,617 1,690 1,715 1,737 1,1043 1,1119 1,1407 N}
+{0 ?,74 1,226 1,232 1,241 1,249 1,377 1,512 1,663 1,715 1,737 1,770 1,927 1,1157 1,1164 1,1165 1,1407 N}
+{0 ?,74 1,226 1,368 1,737 1,1119 1,1407 N}
+{0 ?,10 1,71 1,74 1,115 1,225 1,226 1,241 1,250 1,368 1,590 1,617 1,715 1,737 1,882 1,1043 1,1119 1,1159 1,1407 N}
+{0 ?,74 1,226 1,232 1,241 1,249 1,512 1,663 1,715 1,737 1,751 1,770 1,927 1,1157 1,1164 1,1165 1,1407 N}
+{0 ?,74 1,226 1,512 1,663 1,715 1,737 1,770 1,1157 1,1164 1,1407 N}
+{0 ?,74 1,226 1,512 1,663 1,715 1,737 1,770 1,1157 1,1164 1,1407 N}
+{0 ?,38 1,50 1,74 1,241 1,366 1,512 1,567 1,727 1,737 1,751 1,821 1,863 1,907 1,980 1,1047 1,1089 1,1094 1,1126 1,1407 N}
+{0 ?,74 1,226 1,241 1,249 1,512 1,663 1,715 1,737 1,770 1,927 1,1157 1,1164 1,1165 1,1407 N}
+{0 ?,38 1,74 1,317 1,506 1,590 1,624 1,686 1,737 1,904 1,907 1,923 1,1023 1,1094 1,1101 1,1407 N}
+{0 ?,74 1,226 1,519 1,596 1,737 1,1407 N}
+{0 ?,7 1,74 1,216 1,254 1,402 1,590 1,667 1,692 1,721 1,737 1,838 1,878 1}
+{0 ?,74 1,728 1,738 1,745 1,760 1,1139 1,1407 N}
+{0 ?,7 1,74 1,347 1,697 1,737 1,1096 1,1407 N}
+{0 ?,74 1,169 1,226 1,285 1,338 1,341 1,366 1,413 1,549 1,737 1,1035 1,1036 1,1119 1,1136 1,1407 N}
+{0 ?,71 1,74 1,226 1,241 1,253 1,389 1,737 1,764 1,871 1,878 1,1003 1,1126 1,1407 N}
+{0 ?,7 1,74 1,347 1,697 1,737 1,1096 1,1407 N}
+{0 ?,7 1,74 1,347 1,697 1,737 1,1096 1,1407 N}
+{0 ?,74 1,226 1,341 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,737 1,747 1,838 1,1004 1,1016 1,1025 1,1043 1,1065 1,1407 N}
+{0 ?,71 1,74 1,101 1,226 1,737 1,1064 1,1407 N}
+{0 ?,71 1,74 1,101 1,226 1,290 1,618 1,737 1,801 1,1043 1,1067 1,1407 N}
+{0 ?,74 1,226 1,327 1,737 1,747 1,838 1,1004 1,1016 1,1025 1,1043 1,1065 1,1407 N}
+{0 ?,136 1,252 1,366 1,402 1,667 1,723 1,911 1,998 1,1407 N}
+{0 ?,226 1,366 1,401 1,440 1,477 1,590 1,618 1,639 1,642 1,667 1,838 1,993 1,1078 1,1099 1,1407 N}
+{0 ?,33 1,590 1,619 1,624 1,664 1,696 1,698 1,721 1,747 1,850 1,878 1,883 1,906 1,1043 1,1407 N}
+{0 ?,7 1,254 1,483 1,590 1,618 1,624 1,644 1,667 1,727 1,838 1,895 1,1043 1,1047 1,1095 1,1100 1}
+{0 ?,31 1,38 1,43 1,62 1,74 1,116 1,132 1,200 1,206 1,226 1,255 1,366 1,391 1,542 1,737 1,1030 1,1119 1,1407 A}
+{0 ?,74 1,136 1,137 1,166 1,602 1,624 1,631 1,737 1,907 1,976 1,1003 1,1099 1,1184 1,1407 N}
+{0 ?,74 1,226 1,253 1,737 1,747 1,1026 1,1407 N}
+{0 ?,74 1,496 1,505 1,519 1,590 1,715 1,727 1,737 1,821 1,856 1,923 1,1003 1,1014 1,1099 1}
+{0 ?,74 1,226 1,253 1,366 1,737 1,747 1,1026 1,1407 N}
+{0 ?,71 1,74 1,226 1,332 1,371 1,415 1,590 1,737 1,993 1,1043 1,1407 N}
+{0 ?,74 1,115 1,136 1,368 1,737 1,1003 1,1119 1,1407 N}
+{0 ?,136 1,137 1,141 1,166 1,283 1,590 1,614 1,895 1,975 1,1014 1,1094 1,1407 N}
+{0 ?,136 1,141 1,166 1,276 1,590 1,631 1,907 1,1108 1,1407 N}
+{0 ?,77 1,136 1,141 1,166 1,343 1,447 1,590 1,627 1,638 1,727 1,751 1,792 1,885 1,906 1,976 1,1043 1,1113 1,1142 1,1407 N}
+{0 ?,496 1,590 1,758 1,907 1,915 1,1029 1,1078 1}
+{0 ?,74 1,107 1,137 1,254 1,331 1,344 1,375 1,387 1,391 1,599 1,618 1,692 1,737 1,751 1,906 1,1003 1,1110 1,1113 1,1142 1,1156 1,1407 F}
+{0 ?,74 1,107 1,137 1,254 1,331 1,344 1,366 1,375 1,387 1,391 1,599 1,618 1,692 1,737 1,751 1,906 1,1003 1,1110 1,1113 1,1142 1,1156 1,1407 F}
+{0 ?,71 1,136 1,590 1,715 1,727 1,758 1,883 1,915 1,1027 1,1043 1,1135 1,1272 1,1407 N}
+{0 ?,74 1,226 1,442 1,487 1,737 1,747 1,891 1,913 1,1003 1,1009 1,1096 1,1099 1,1122 1,1407 N}
+{0 ?,226 1,395 1,442 1,460 1,490 1,589 1,650 1,652 1,701 1,1009 1,1098 1,1407 N}
+{0 ?,11 1,74 1,115 1,226 1,369 1,737 1,1119 1,1407 N}
+{0 ?,11 1,74 1,115 1,226 1,341 1,366 1,369 1,737 1,1119 1,1407 N}
+{0 ?,11 1,73 1,74 1,115 1,226 1,369 1,737 1,1119 1,1407 N}
+{0 ?,74 1,226 1,324 1,590 1,634 1,737 1,1043 1,1407 N}
+{0 ?,7 1,68 1,252 1,492 1,519 1,667 1,885 1,1013 1,1407 N}
+{0 ?,136 1,288 1,460 1,862 1,945 1,1013 1,1122 1,1407 N}
+{0 ?,226 1,487 1,891 1,894 1,1407 N}
+{0 ?,442 1,476 1,652 1,1009 1,1407 N}
+{0 ?,7 1,74 1,598 1,737 1,768 1,1407 N}

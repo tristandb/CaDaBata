@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/png" href="/media/favicon.png" />
+        
+		<!-- CSS import -->
+		<link rel="stylesheet" href="/style/layout.css" />
+		
+		<!-- jQuery import -->
+		<script language="javascript" type="text/javascript" src="/lib/jquery.min.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery-ui.min.js"></script>
+		
+		<!-- Title -->
+		<title> CaDaBata handleiding </title>
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		
+		<!-- jQuery -->
+		<script type="text/javascript">		
+			$(document).ready(function () {			
+				<!-- Clear local storage.-->
+				$( "#clearlocalstorage" ).on( "click", function() {
+					localStorage.clear();
+					alert('Local storage has been cleared!');
+				});					
+			});
+		</script>
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse" role="navigation" >
+			<div id="wrapper">			
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/"><img src="media/CadaBata_white.png" class="logo" ></a>
+					<p class="navbar-text">Calamiteitendashboard voor de organisatie van de Batavierenrace</p>				   
+				</div>				
+				<!-- Menu buttons will disappear when browser width < 768px. This will save some space -->
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class=""><a href="/">Home</a></li>
+						<li class="active"><a href="manual.html">Help</a></li>
+							
+			
+					</ul>
+				</div>
+			</div>
+		
+		</nav>
+	<div id="wrapper" class="semi-transparent">
+		<!-- Jumbotron -->
+		<div class="jumbotron">
+			 <h1>Handleiding #CaDaBata</h1>
+			 <p>#CaDaBata werkt niet moeilijk. Het werkt eigenlijk gewoon eenvoudig. Snap je onze opzet niet helemaal? Lees dan de gebruiksaanwijzing even door. Veel zal je snel duidelijk worden!</p>
+		</div>
+	
+		<div class="row manual" id="wrapper">
+				<!-- Doel van #CaDaBata -->
+				<h1> Doel #CaDabata </h1>
+					<p>
+						Het doel van #CaDaBata is om snel op tweets te kunnen reageren (zonder daar zelf veel moeite voor te doen). Je hoeft niet meer te zoeken op #batavierenrace, dit doet #CaDaBata voor jou! Om het nog wat simpeler te maken selecteert het programma alle tweets die nuttig zijn om op te reageren of om te gebruiken voor een ander doeleinde.
+					</p>
+				<!-- Uitleg kolommen -->
+				<h1> Kolommen </h1>
+				<p>
+					CaDaBata is verdeeld in drie kolommen: negatief, alert en positief. In deze kolommen zie je gecategoriseerde tweets staan. Zo krijg je bijvoorbeeld alle tweets die een hoge prioriteit hebben (bijvoorbeeld meldingen van de brandweer) binnen in de kolom alerts. Tweets over mensen die niet tevreden zijn krijg je binnen via 'negatief'. Om het geheel nog wat positief te houden, is er nog een kolom met 'positief'. Je kunt deze tweets retweeten!
+				</p>
+				<!-- Display some example tweets -->
+				<div class="row">
+					<div class="col-md-4">					
+					<li class="row tweet list-group-item"><div class="col-xs-2"><img src="					https://pbs.twimg.com/profile_images/378800000601987374/898bea5682c583597c4f471bdbb87a4b_normal.jpeg" class="thumbnail avatar"></div><div class="col-xs-10"><div class="tweet"><div class="content"><div class="stream-item-header"><a href="http://twitter.com/JoeyvanMaanen" target="_blank" class="account-group"><span class="name">Neil Negatief</span><span class="username">@NeilNegatief</span></a><br><small class="time"><span>15:06 op 10 mei 2014 </span></small></div><p class="tweet-text">Vreselijke Batavierenrace <a href="https://twitter.com/hashtag/bata14?src=hash" target="_blank">#bata14</a>: ik kon de weg naar het parcour niet vinden</p></div></div></div><div class="col-xs-10 functiebalk"><span id="savebutton" class="glyphicon glyphicon-floppy-disk"></span><span id="retweetbutton" class="glyphicon glyphicon-retweet"></span><span id="savebutton" class="glyphicon glyphicon-arrow-left"></span></div></li>
+					</div>
+					<div class="col-md-4">					
+					<li class="row tweet list-group-item"><div class="col-xs-2"><img src="https://pbs.twimg.com/profile_images/485752297884897281/_frv-kb0_normal.png" class="thumbnail avatar"></div><div class="col-xs-10"><div class="tweet"><div class="content"><div class="stream-item-header"><a href="http://twitter.com/JoeyvanMaanen" target="_blank" class="account-group"><span class="name">112Twente</span><span class="username">@112Twente</span></a><br><small class="time"><span>13:12 op 10 mei 2014 </span></small></div><p class="tweet-text">Twee ambulances ter plaatse op de Grote Markt in Enschede</p></div></div></div><div class="col-xs-10 functiebalk"><span id="savebutton" class="glyphicon glyphicon-floppy-disk"></span><span id="retweetbutton" class="glyphicon glyphicon-retweet"></span><span id="savebutton" class="glyphicon glyphicon-arrow-left"></span></div></li>
+					</div>
+					<div class="col-md-4">					
+					<li class="row tweet list-group-item"><div class="col-xs-2"><img src="https://pbs.twimg.com/profile_images/378800000622241055/88264bb2a9f6646687fa610fc447dabe_normal.jpeg" class="thumbnail avatar"></div><div class="col-xs-10"><div class="tweet"><div class="content"><div class="stream-item-header"><a href="http://twitter.com/JoeyvanMaanen" target="_blank" class="account-group"><span class="name">PaulienPositief</span><span class="username">@PaulienPositief</span></a><br><small class="time"><span>15:06 op 10 mei 2014 </span></small></div><p class="tweet-text">Geweldige dag gehad, vooral de afsluiting op het plein was geweldig!<a href="https://twitter.com/hashtag/bata14?src=hash" target="_blank">#bata14</a></p></div></div></div><div class="col-xs-10 functiebalk"><span id="savebutton" class="glyphicon glyphicon-floppy-disk"></span><span id="retweetbutton" class="glyphicon glyphicon-retweet"></span><span id="savebutton" class="glyphicon glyphicon-arrow-left"></span></div></li>
+					</div>
+				</div>
+				
+					<!-- Opslaan -->
+					<h1> Opslaan </h1>
+					<p> Wil je de tweet later nog een keer kunnen bekijken? Klik dan op opslaan. De tweet wordt dan gemarkeerd. Je kunt hem dan bekijken onder 'opgeslagen'. Kijk voor meer over de opslag van je tweets bij <a href="#storage">local storage</a>.</p>
+					
+					<!-- Reageren -->
+					<h1> Retweeten of reageren </h1>
+					<p> Wil je retweeten of reageren? Klik dan op een van de knopjes. Er komt dan een popup die vraagt om in te loggen op je twitteraccount. Als je dan ingelogd bent kun je het bericht retweeten of reageren.</p>
+					<img src="media/twitterreply.jpg" class="twitterimage img-thumbnail">
+					<img src="media/twitterretweet.jpg" class="twitterimage img-thumbnail">
+					
+					<!-- Local storage -->
+					<h1 id="storage" name="storage"> Local storage </h1>
+					<p> CaDaBata maakt gebruik van <abbr title="Local storage plaatst bestanden op je computer, zonder dat jij daar iets van merkt :)">local storage</abbr>. Het kan zijn dat jouw browser dit niet ondersteunt. Local storage werkt vanaf IE8, Firefox 3.5, Chrome 4 en vanaf Chrome for Android 38.</p>
+					<button type="button" id="clearlocalstorage" class="btn btn-danger btn-lg center">Clear local storage</button>
+					
+					<!-- Classificatie -->
+					<h1>Classificatie tweets</h1>
+					<p>
+					De classificatie is gemaakt met behulp van 150 <abbr title="Van te voren in categorien ingedeelde tweets.">voorgeclassificeerde</abbr> tweets. Hiermee is een trainingmodel gemaakt. Het kan zijn dat er in sommige kolommen verkeerde tweets terecht komen. We hebben er bewust voor gekozen wat meer 'onzin'-berichten in bepaalde kolommen te plaatsen, zodat we er zeker van zijn dat ook het grootste gedeelte van de berichten die daadwerkelijk daar terecht moeten komen, er ook terecht komen.
+					</p>
+					
+					<!-- Bronvermelding -->
+					<h1>Ontwikkelaars</h1>
+					<p>
+						#CaDaBata is ontwikkeld door Tim Hintzbergen, Nico van Gerwen, Martijn de Vries <small>(classificatie tweets m.b.v. WEKA)</small>, Karim el Assal <small>(koppeling WEKA-EKA-CADA)</small> en Tristan de Boer <small>(layout en styling)</small>.
+						Er wordt gebruik gemaakt van de <a target="_blank" href="https://github.com/utwente-db/eca" title="Bert Wanders">ECA-toolkit</a> beschikbaar gesteld door Universiteit Twente. Ook wordt gebruik gemaakt van <a target="_blank" href="http://www.flotcharts.org/">Flot</a> en <a target="_blank" href="http://getbootstrap.com/">Bootstrap</a>.
+					</p>
+					<p size="40px">						
+						<a class="github-button" href="https://github.com/tristandb/cadabata" data-icon="octicon-git-branch" data-style="mega">Fork</a>
+					</p>
+		</div>
+	</div>
+	</body>
+	<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+</html>
