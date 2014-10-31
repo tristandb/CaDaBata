@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+	<title></title>
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- CSS import -->
+		<link rel="stylesheet" href="/style/layout.css"/>
+		
+		<!-- jQuery import -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		 <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<!-- Flot import -->
+		
+		<script src="/lib/core.js"></script>
+		<script src="/lib/charts.js"></script>
+		<script src="/lib/log.js"></script>
+		<script src="/lib/tweets.js"></script>
+		<script language="javascript" type="text/javascript" src="/lib/jquery.flot.js"></script>
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		<!-- jQuery -->
+		<script type="text/javascript">
+		
+			$(document).ready(function () {
+				<!-- Give target _blank to all links -->
+				$(function() {
+					$( "#tabs" ).tabs();
+				});
+				
+				
+				/* Deprecated
+				$("span.name").hover(function(){
+					$(this).css("text-decoration","underline");
+				},function(){
+					$(this).css("text-decoration","none");
+				}); */
+				
+				<!-- Isn't working -->
+				$("span.glyphicon").hover(function(){
+					$(this).css("color","#6CC417");
+				},function(){
+					$(this).css("color","#ccd6dd");
+				});
+				
+				<!-- Saving tweets isn't working yet.-->
+				$("span.glyphicon").click(function(){
+					$(this).toggleClass("saved");
+					$(this).parent().toggleClass("saved");
+					/* save tweet */					
+				});
+		
+				$("#savebutton").click(function(){
+					alert(1);
+				});
+		
+				<!-- Tabs -->
+				$("#tabs ul li").click(function(){
+					
+					
+					if(!$(this).hasClass("active")){
+						<!--Switches clicked tab-->
+						$($(this).parent().find('li')).toggleClass("active");
+						$(this).parent().parent().children('div').toggleClass("display-none");
+					}
+					$($(this).parent().parent().find('#negatief_saved')).html($('#tweets_negative').find('div').html());
+				});
+				
+				
+			});
+		</script>
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse" role="navigation">
+  
+			<div id="wrapper" class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <a class="navbar-brand" href="#"><img src="media/CadaBata_white.png" class="logo" ></a>
+				  <p class="navbar-text">Calamiteitendashboard voor de organisatie van de Batavierenrace</p>
+				</div>
+				
+			</div>
+		
+		</nav>
+	<div id="wrapper" class="jumbotron">
+		Flot content
+	</div>
+
+	<div id="wrapper">
+		<div class="row tweetsrow">
+			<div class="col-sm-6 col-md-4 list">
+				<div id="tabs">
+					<ul class="nav nav-tabs" role="tablist">
+					  <li class="active neg-tweets"><a href="#tweets">Tweets</a></li>
+					  <li class="neg-saved" ><a href="#negatief-saved">Opgeslagen</a></li>
+					</ul>
+					<div id="tweets_negative">
+					
+					</div>
+					<div id="negatief_saved" class="display-none">
+						
+					</div>
+				
+				
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-4 list">Tweetlijst 2</div>
+			<div class="col-sm-6 col-md-4 list">Tweetlijst 3</div>
+		</div>
+	</div>
+    <script type="text/javascript">
+    
+    block('#tweets_negative').tweets({ memory: 30 });
+    events.connect('tweet_negative', '#tweets_negative');
+    
+    </script>
+	</body>
+</html>

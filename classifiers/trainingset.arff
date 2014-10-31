@@ -1,0 +1,1368 @@
+@relation 'ARFF for bata_2014.txt'
+
+@attribute tweet string
+@attribute @@class@@ {T, N, F, A}
+% T = (True) Positive tweet
+% N = Neutral tweet
+% F = (False) Negative Tweet
+% A = Alert tweet
+
+@data
+'@Batavierenrace het gaat er om dat duidelijk zichtbaar is dat het een stopcontact is. Is bij dat soort dingen nog wel eens niet het geval.',F
+'@Batavierenrace en dan nog is het makkelijk om het te laten lijken alsof het een gewoon stopcontact is, en toch de telefoon leeg te trekken',F
+'@Batavierenrace WTF? De app gaf een code rood notificatie met "Test uit de trein kdfsdkdsk". Aan het proberen of het systeem nog werkt?',F
+'Die Batavierenrace gaat dus ook een groot drama worden. Als je niet eens in staat bent een degelijk team af te vaardigen wordt het niks..',F
+'Is de @Batavierenrace dit jaar nog makkelijk te volgen via de mobiel (geen Android-telefoon)? #dtv #batavierenrace',F
+'Ik zou een moord doen voor ff een Bata update @GSTV_Tritanium #Bata2013',F
+'Can\'t sleep in a gym in a sleeping bag, without pillow and with snoring people!!! @Batavierenrace http://t.co/CjtEw7C1jW',F
+'RT @BGrondelle: Can\'t sleep in a gym in a sleeping bag, without pillow and with snoring people!!! @Batavierenrace http://t.co/CjtEw7C1jW',F
+'tis knetterdruk op het industrieterrein #Batavierenrace http://t.co/vV2e1GmMQq',F
+'#batavierenrace, lui koop een kaart, of beter een Tom Tom !',F
+'Druk in de winkel, en die batavierenrace is nog niet eens gaande hier #hoptjop',F
+'Wat een herrie.. Zo kan ik niet slapen #batavierenrace',F
+'Wakker door batavierenrace',F
+'Herstart #batavierenrace Barchem over kwartier, 20 min. later dan gepland',F
+'Mag vanmiddag herstart #batavierenrace verzorgen. Gemengde gevoelens. Vandaag ook verjaardag @HalloHierManon. Moet dus ff feestje verlaten.',F
+'RT @PGWelman: Mag vanmiddag herstart #batavierenrace verzorgen. Gemengde gevoelens. Vandaag ook verjaardag @HalloHierManon. Moet dus ff fee…',F
+'RT @PGWelman: Mag vanmiddag herstart #batavierenrace verzorgen. Gemengde gevoelens. Vandaag ook verjaardag @HalloHierManon. Moet dus ff fee…',F
+'@Batavierenrace WTF? De app gaf een code rood notificatie met "Test uit de trein kdfsdkdsk". Aan het proberen of het systeem nog werkt?',F
+'@Batavierenrace In het deelnemersboekje staat dat @Aeolusrun vorig jaar 2e was, dit lijkt me niet te kloppen :)',F
+'Die Batavierenrace gaat dus ook een groot drama worden. Als je niet eens in staat bent een degelijk team af te vaardigen wordt het niks..',F
+'batavierenrace? no thank you',F
+'De herstarts zijn een half uur opgeschoven. Reden: de bewegwijzering was niet overal in orde. http://t.co/jT9KaIQU3i #Bata14”',F
+
+'Pijnlijke enkel tijdens lopen #Batavierenrace? Verstuikt? Koelen! Zoek #EHBO http://t.co/GblZ31gwhT',A
+'@Batavierenrace het wc papier is op bij wp9',A
+'Herstart Barchem uitgesteld omdat de medische ondersteuning nog niet gereed is. #batavierenrace',A
+'De herstart in Barchem wordt iets uitgesteld omdat niet alle EHBO-medewerkers op tijd op hun post kunnen zitten #batavierenrace',A
+'#HLM | #NieuwerkerkAdIjssel | Prio 1 EUROPALAAN NAY Wegvervoer ongeval letsel | http://t.co/8PXn0azJVA #p2000',A
+'Opschaling | #Amstelveen | BR 2 BRAND GEBOUW OVERIG (+Inc-net: 2+) (MIDDEL BRAND) , Amsterdamseweg  AMSTELVE | http://t.co/ovT0lKcUwJ #p2000',A
+'Opschaling | #Amstelveen | BR 2 BRAND GEBOUW OVERIG (+Inc-net: 2+) (MIDDEL BRAND) , Amsterdamseweg  AMSTELVE | http://t.co/KsgQLvnAXz #p2000',A
+'Opschaling | #Amstelveen | BR 2 Aflossing (+Inc-net: 2+) (MIDDEL BRAND) , Amsterdamseweg  AMSTELVEEN [ ] | http://t.co/7gNssgUidR #p2000',A
+'HV 2 DIENSTVERLENING (+Inc,net: 1+) (AFHIJSEN ZONDER SPOED) (ASSISTENTIE: CPA) , Willem de Zwijgerlaan 197 ... http://t.co/En8nOnLRGz #p2000',A
+'#BBN | #Haaren | Verkeersongeval letsel N65 R 11,0 HAAREN | http://t.co/Supq30qWzy #p2000',A
+'03:09 P 1 Brand gezondheidszorg 01-30-012 Luingaborg LUINGAWEG 23 BIERUM 013031 013033 #P2000 http://t.co/oNDwhiNnI3',A
+'PRIO 1 TS221 Rotterdam Airportbaan Rotterdam Brand Wegvervoer (Kleine Brand) Vak: 5995501 #p2000 #watiserloos',A
+'#BRW | #Julianadorp | Prio 1 Noorderhaven Cederhout /25 (Aak 4) Cederhout  JULIANADORP Rookmelder 4433 | http://t.co/so5zYhvab3 #p2000',A
+'#BRW | #Stompetoren | PRIO 1 NOORDERVAART -N243 23 STOMPETOREN brand industrie 5731 | http://t.co/t40eRp2bPO #p2000',A
+'#MON | #Zwolle | PRIO 2 Vervuild wegdek : : Westerlaan : Zwolle 1630 | http://t.co/OehOpQg7D8 #p2000',A
+'PRIO 2 Vervuild wegdek : : Westerlaan : Zwolle 1630 #p2000 #watiserloos',A
+'#RRM | #Brielle | aanrijding met letsel, auto-scooter, G J Van Den Boogerdweg brielle | http://t.co/CZ0P8dCJaq #p2000',A
+'#RRM | #Brielle | aanrijding met letsel, auto-scooter, G J Van Den Boogerdweg brielle | http://t.co/rSU1wjaX0l #p2000',A
+'#HGL | #Delft | Delft A13 R 7.7 aanrijding met letsel | http://t.co/0TMivFrEmZ #p2000',A
+'#RRM | #Brielle | Letsel 1 Ruggeweg ble auto / scooter | http://t.co/PcYbYPzvl7 #p2000',A
+'#RRM | #Brielle | Letsel 1 Ruggeweg ble auto / scooter | http://t.co/x555wDkf2V #p2000',A
+'#HGL | #DenHaag | Den Haag Louis Couperusplein aanrijding met letsel | http://t.co/mun9Q6DflQ #p2000',A
+'#HGL | #DenHaag | Den Haag Waldorpstraat thv Tango aanrijding met letsel | http://t.co/YJix1EONVW #p2000',A
+'#KEN | #Zwanenburg | Letsel A9 R ZWANENBURG | http://t.co/YF80VF4ggk #p2000',A
+
+'Oh dear, an error in our newsletter... Practice for the Batavierenrace is normally on Sunday afternoon, not Saturday!!',N
+'The @Batavierenrace practice will be tonight at 19:15 at the Vindhek in the Noorderplantsoen. Dress appropriately for the dark. Temp: 10°C.',N
+'Batavierenrace 2014 in Enschede: http://t.co/Cbos1t2tQN http://t.co/PhlHezigLB',N
+'Lieve Donitaters, \n\nOok dit jaar wil Donitas weer meedoen met de Batavierenrace. Maar vanwege de stormloop aan... http://t.co/o2VlBCg8sN',N
+'Verlenging samenwerking SUSA en Batavierenrace http://t.co/UgqQa7zQ6v #twente #twentejournaal',N
+'Verlenging samenwerking SUSA en Batavierenrace http://t.co/KywNemUwOt #enschede #twente',N
+'Verlenging samenwerking SUSA en Batavierenrace http://t.co/6bsIu3mSza #nieuws #provincie #nieuwsoverijssel',N
+'#rutbeek #twente Verlenging samenwerking SUSA en Batavierenrace http://t.co/TMWuXwYzD4',N
+'#usselo #twente Verlenging samenwerking SUSA en Batavierenrace http://t.co/DGCV3S6zsQ',N
+'#boekelo  #Twente Verlenging samenwerking SUSA en Batavierenrace http://t.co/ul31E29OzF',N
+'#lonneker #twente Verlenging samenwerking SUSA en Batavierenrace http://t.co/0LUtTgs7wN',N
+'#enschede #twente Verlenging samenwerking SUSA en Batavierenrace http://t.co/oN4Asnaze8',N
+'Batavierenrace 2014 in Enschede: http://t.co/Cbos1t2tQN http://t.co/PhlHezigLB',N
+'Lopend van Lochem naar Ruurlo via Barchem, 17km in de benen. #Graafschapspad op z\'n mooist. #Batavierenrace http://t.co/4PUiHot625',T
+'De nieuwe promofilm van de #Batavierenrace is nu online!! Te vinden op: http://t.co/o6c6lpvLah. Have fun!',N
+'#nieuws Verlenging samenwerking SUSA en Batavierenrace http://t.co/PLW5cpKBFa #enschede',N
+'Verlenging samenwerking SUSA en Batavierenrace #newslocker http://t.co/gLrV9OTD7K',N
+'Weer lekker getraind voor de batavierenrace vandaag :D',T
+'Eerste 5 kilometer hardlopen als voorbereiding voor de Batavierenrace zitten er weer op. Nog 2 maanden te gaan, gaat goed komen!',T
+'Doe jij al mee? https://t.co/4bz9d1DLZH http://t.co/WY0Q2LD92x',N
+'#SUSA heeft de samenwerking met de @Batavierenrace met 5 jaar verlengd! Artikel: http://t.co/Wuket8E2aM http://t.co/4PtgTwiQBs',N
+'#SUSA heeft de samenwerking met de @Batavierenrace met 5 jaar verlengd! Artikel: http://t.co/alePTCHpr3 http://t.co/PdqApGYWdG',N
+'Organiseer jij in collegejaar 2014-2015 de 43e Bata? #interesselunch #batavierenrace #bata… http://t.co/RdTJ0nh35K',N
+'RT @Batavierenrace: Organiseer jij in collegejaar 2014-2015 de 43e Bata? #interesselunch #batavierenrace #bata… http://t.co/RdTJ0nh35K',N
+'#SUSA #Studentenuitzendbureau verlengt samenwerking met #grootsteestafetteloopterwereld @Batavierenrace met 5 jaar!',N
+'RT @Batavierenrace: Organiseer jij in collegejaar 2014-2015 de 43e Bata? #interesselunch #batavierenrace #bata… http://t.co/RdTJ0nh35K',N
+'RT @SUSAbedrijven: #SUSA heeft de samenwerking met de @Batavierenrace met 5 jaar verlengd! Artikel: http://t.co/Wuket8E2aM http://t.co/4Ptg…',N
+'Yeah, ingeschreven voor de @Batavierenrace namens studievereniging Lucid. =) #zinin #Bata2014',N
+'RT @studentsportNL: #SUSA #Studentenuitzendbureau verlengt samenwerking met #grootsteestafetteloopterwereld @Batavierenrace met 5 jaar!',N
+'Het is officieel, USOCIA gaat naar de #batavierenrace dus volg ons op Twitter voor de blazing runtijden van dit prachtteam! #USOCIA',N
+'Pittig pittig pittige hardlooptraining achter de rug... #batavierenrace #tjas',N
+'Hoera, in mei meedoen aan de Batavierenrace met de HCSF. Nu nog in vorm komen...',N
+'Gister eerste looptraining gehad voor batavierenrace! Ging goed! #batarace2014 #Nijmegen #Enschede',N
+'Ons video-team volgt twee @Batavierenrace -teams. Binnenkort het eerste filmpje op de #SUSA Facebookpagina! http://t.co/3a01WleCAG',N
+'RT @SUSAstudenten: Ons video-team volgt twee @Batavierenrace -teams. Binnenkort het eerste filmpje op de #SUSA Facebookpagina! http://t.co/…',N
+'@SUSAstudenten @Batavierenrace opdrukken met je handen op de bank? dat is toch wel de makkelijke manier #zogajenietwinnen',N
+'Batavierenrace Promo 2014 - Busje Geregeld? http://t.co/tKXPO5QwTb',N
+'De organisatie van de 42e Batavierenrace heeft voor Brookhuis Busreizen gekozen als vervoerspartner. Wij zijn... http://t.co/IP1IvvYgaJ',N
+'@Batavierenrace  Heel veel succes en plezier gewenst met de organisatie van de Bata!',T
+'Nieuw HanzeMag journaal met strenge #pabo, #huisjesmelker v/h jaar van @ROODGroningen en @Batavierenrace http://t.co/gcT4aiofCu #hanze',N
+'De slechtste #huisbaas van Nederland, strenge pabo-opleidingen en de Batavierenrace: allemaal in het nieuwe journaal! http://t.co/O9qV3dX9GO',N
+'Als hoofdsponsor lopen wij natuurlijk ook mee met de @Batavierenrace Ons team zit al bijna vol! #SUSA http://t.co/dMJzKjmUT7',N
+'Over iets meer dan 1,5 maand is de Batavierenrace....... I\'m soooo not ready.',N
+'10 mei is het weer zover: De Batavierenrace! In het team van Dimensie zijn nog een aantal plaatsen vrij in zowel... http://t.co/lLzz5cqJPs',N
+'RT @Dimensie: 10 mei is het weer zover: De Batavierenrace! In het team van Dimensie zijn nog een aantal plaatsen vrij in zowel... http://t.…',N
+'Zaterdag 10 mei 2014, om klokslag 12 uur ‘s nachts, gaat de 42e editie van de Batavierenrace van start! Dit is... http://t.co/2ezF7Ict9Y',N
+'Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'RT @kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'RT @kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'Ik doe mee! Wie volgt? "@kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/LkgrJANfTY"',N
+'Op naar \'t podium! RT @erasmusnieuws: Na 4 jaar weer team #erasmusuni naar @Batavierenrace  http://t.co/0yVJwPuaSJ #studentensport',N
+'RT @kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'We\'re back! After four long years of absence @Erasmussport proudly presents its\' @Batavierenrace University team\' http://t.co/2hwS7iXHtm',N
+'RT @Erasmusalumni: We\'re back! After four long years of absence @Erasmussport proudly presents its\' @Batavierenrace University team\' http:/…',N
+'RT @kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'Reageer zo snel mogelijk op Facebook! #WendoWednesday #bata #batavierenrace http://t.co/QsNZrvN5co',N
+'RT @Batavierenrace: Reageer zo snel mogelijk op Facebook! #WendoWednesday #bata #batavierenrace http://t.co/QsNZrvN5co',N
+'De @Batavierenrace heeft dit jaar wederom @kwf_nl als goede doel &gt; http://t.co/Hm2HKyZkNj @Atletiekunie @gem_Nijmegen @Run2DayNL',N
+'De @Batavierenrace heeft dit jaar wederom @kwf_nl als goede doel: http://t.co/bNdwW6hVkN @Atletiekunie @gem_Nijmegen @SportKnowhowXL',N
+'RT @SportKnowhowXL: De @Batavierenrace heeft dit jaar wederom @kwf_nl als goede doel &gt; http://t.co/Hm2HKyZkNj @Atletiekunie @gem_Nijmegen @…',N
+'RT @kwf_nl: Hardloopfan? Doe mee aan de #Batavierenrace en zamel geld in voor #KWF #Bata4Live http://t.co/tQ8jYQwUNA',N
+'Het #SUSA-team voor de @Batavierenrace is gevormd, ze hebben er zin in! #nuhardtrainen 7 km voor 10 mei moet lukken! http://t.co/Nyr2eIW7aY',T
+'RT @SUSAstudenten: Het #SUSA-team voor de @Batavierenrace is gevormd, ze hebben er zin in! #nuhardtrainen 7 km voor 10 mei moet lukken! htt…',T
+'Today\'s Batavierenrace-run will be in the Stadspark, starting at 16:00. The route: http://t.co/WT1K1cUQYD',N
+'batavierenrace Heb jij je al opgegeven of geef je op? http://t.co/3Vo9fb8foj',N
+'#BATA #BATAVIERENRACE #paint http://t.co/VvZjqPjRUA',N
+'RT @Batavierenrace: #BATA #BATAVIERENRACE #paint http://t.co/VvZjqPjRUA',N
+'NL | Er zijn nog twee plekken vrij voor de Batavierenrace, voor de lengtes 7,3 en 3,4km. Lijkt het jou leuk om 1... http://t.co/8Q5svo7u6v',N
+'Genoeg redenen om deel te nemen aan de actie #bata4life! Schrijf je nu in op http://t.co/phaKWNaEk0 en doe… http://t.co/lZwcGlWvTI',N
+'In mei is het dan eindelijk zover, dan vindt de 42e editie van de Batavierenrace plaats! Dit te gekke evenement... http://t.co/h5nPasalXv',N
+'Yeah, dit jaar weer shinen met @Den_GWS tijdens de @Batavierenrace! En starten vanuit #Grolsch klinkt helemaal veelbelovend! #hardgaan',T
+'Practice for the Batavierenrace will start at 21:00 in the Noorderplantsoen at the @Vindhek.',N
+'Etappe bekend! Nummer 21: Middendorp, 8.8 kilometer #Bata #Batavierenrace #Dimensie',N
+'Op 10 mei is de 42e @Batavierenrace! De organisatie zoekt nog hosts voor het begeleiden van internationale teams: http://t.co/nhmlauvVco.',N
+'Aanbieding voor deelnemers en begeleiders van de @Batavierenrace! Vraag een offerte aan via http://t.co/30RWC4rKnN. http://t.co/0HqgQdeGYu',N
+'Het 1 minuutje met Vincent wordt gemonteerd! #bata #batavierenrace #1minuutjemet #finalcut http://t.co/Goiuqk9wEi',N
+'Ook het 1 Minuutje me Alexandra wordt gemonteerd! #bata #batavierenrace #oproepje http://t.co/b01gl2yUtW',N
+'Batavierenrace: \'evenement met goed doel\', niet andersom http://t.co/CGDmcOb2lP',N
+'Loop mee met de sportieve @jovdtwente en @JOVDnijmegen voor de Batavierenrace. Voor meer informatie: https://t.co/WuDLfPY1S9',N
+'Loop mee met de @jovdtwente en @JOVDnijmegen voor de Batavierenrace. Aanmelden en voor meer informatie: https://t.co/7jwPF0E6gt',N
+'Heeft jouw ploegleider alle benodigde bonnen al besteld? Dit is nog mogelijk tot 1 april! #geengrap #batavierenrace https://t.co/K3JjwY3sIt',N
+'Heeft jouw ploegleider alle benodigde bonnen al besteld? Dit is nog mogelijk tot 1 april! #geengrap #batavierenrace http://t.co/RKdaaN35vx',N
+'RT @Batavierenrace: Heeft jouw ploegleider alle benodigde bonnen al besteld? Dit is nog mogelijk tot 1 april! #geengrap #batavierenrace htt…',N
+'De organisatie verwacht 300 deelnemers aan de Campusloop op 2 april. De race is peilmoment voor de @Batavierenrace: http://t.co/S8Vf3gp5tk',N
+'RT @jovdtwente: Loop mee met de @jovdtwente en @JOVDnijmegen voor de Batavierenrace. Aanmelden en voor meer informatie: https://t.co/7jwPF0…',N
+'Sport in Twente is out! http://t.co/tFdqJYDg11 Stories via @FBKGames @Batavierenrace @waterpoloNL',N
+'Perfect weather for a run! Today\'s @Batavierenrace practice will start at 16:00 at the entrance to the Zernike. http://t.co/dkAa5waRdD',N
+'Onverwachts toch een plekje in de batavierenrace bemachtigd! #letsgo #9&amp;10mei #estafette',N
+'De Topicus organisatie van @batavierenrace druk in overleg! Just 5 weeks to go. @gvdstroom @irmaelise @liesbethpl http://t.co/XS4EBta9tP',N
+'Bekijk nu de eerste aflevering van de #BataHelden! http://t.co/GzqXIj9wS1 #batavierenrace http://t.co/nLCrO6JF31',N
+'Heuj, ingeschreven op de 22e etappe (8,9km) van de @Batavierenrace. Op naar Grolsch dus! =)',N
+'Supergeinig filmpje van de @Batavierenrace. Mooie opwarmer! BataHelden aflevering 1: http://t.co/VRGZoS6B27 via @YouTube',N
+'Ben je benieuwd hoe team Lekker Hard van de @Batavierenrace zich voorbereid? Bekijk de #BataHelden nu! #SUSA http://t.co/6CWUeGRIZ3',N
+'Via de @Batavierenrace haal ik geld op voor KWF Kankerbestrijding. 10 mei loop ik 8,8 km. Mij sponsoren? http://t.co/Xq00dQc2DV',N
+'Zo, weer n beetje bijgekomen na de hardloopclinic van Gert-Jan Liefers als voorbereiding op #ijsselloop en #batavierenrace #tof @topicusbv',N
+'@TEC_Nijzink Heel veel succes met je actie voor Bata4life. En veel plezier tijdens de Batavierenrace!',N
+'RT @dionsillen: Batavierenrace: \'evenement met goed doel\', niet andersom http://t.co/CGDmcOb2lP',N
+'RT @irmaelise: Zo, weer n beetje bijgekomen na de hardloopclinic van Gert-Jan Liefers als voorbereiding op #ijsselloop en #batavierenrace #…',N
+'Leuk om elkaar weer tegen te komen @marlyverhaeg @RUNijmegen 10 jaar na "onze" @Batavierenrace en @NSSR_Nijmegen periode. Succes!',N
+'Weet jij al hoe je het best kan trainen voor de @Batavierenrace ? De #BataHelden laten je het zien! http://t.co/oFACl2J3Cp #SUSA',N
+'Weet jij al hoe je het beste traint voor de @Batavierenrace ? De #BataHelden laten het je zien! http://t.co/SlinY7wNiR #SUSA',N
+'De @Batavierenrace heeft dit jaar een extra lange etappe van 12,5 km, een mooie uitdaging voor de ervaren lopers: http://t.co/0ZnRIwNtnV',N
+'De @Batavierenrace heeft dit jaar een extra lange etappe van 12,5 km - uitdaging voor ervaren lopers: http://t.co/fDavWeKmUC (via @UTNieuws)',N
+'Nieuwsbrief met o.a. de VIB-does-SMdag, opzoek naar een nieuw bestuur en de testmomenten voor de Batavierenrace! - http://t.co/gOiK5M5WcP',N
+'ESN participate the batavierenrace.\n\nBest international students,\n\nOn 10th of May starts the Batavierenrace.... http://t.co/XWkMjzcSj3',N
+'ESN participate the batavierenrace.\n\nBest international students,\n\nOn 10th of May starts the Batavierenrace.... http://t.co/GQMUDL1hwa',N
+'ESN participate the batavierenrace.\n\nBest international students,\n\nOn 10th of May starts the Batavierenrace. The Batavierenrace is a...',N
+'Over ruim een uurtje begint de #CampusRun ter voorbereiding op de #Batavierenrace! Wie loopt er mee?',N
+'Of ik ook de Batavierenrace ga lopen.\n\nHAHAHAHAHAHAHHAHAHAHAHAH nee.',N
+'#batavierenrace is close',?
+'Record aantal deelnemers campusloop http://t.co/KeS13nqfGA #tvefm #Enschede #campusloop #utwente #batavierenrace',?
+'RT @tvefm: Record aantal deelnemers campusloop http://t.co/KeS13nqfGA #tvefm #Enschede #campusloop #utwente #batavierenrace',?
+'De foto\'s van het #Bata4life benefietfeest staan op onze Facebook! #bata #batavierenrace http://t.co/47RHPUjznC',?
+'Today\'s @Batavierenrace practice will start at 16:00 at the @Vindhek in the Noorderplantsoen. See you there!',?
+'Er staan nog drie etappes open met de Batavierenrace! Help jij de Jonge Democraten mee met de titel "Sportiefste... http://t.co/KDCahGhxfE',?
+'De busbonnen, dinerbonnen, ontbijtbonnen en slaapbandjes gaan op de post! #bata #batavierenrace… http://t.co/mhsxwQB0BY',?
+'Reden #3. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Schrijf je nu in! #bata4life #batavierenrace http://t.co/RLBl0s4kcJ',?
+'RT @Batavierenrace: Reden #3. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Schrijf je nu in! #bata4life #batavierenrace http://…',?
+'Zo meteen op Twente FM: Batavierenrace...de voorbereiding is gaande',?
+'Iets Gemist? Batavierenrace in voorbereiding op 08-04-2014 in Twente wordt Wakker http://t.co/daD2QNQsM0',?
+'RT @Batavierenrace: De busbonnen, dinerbonnen, ontbijtbonnen en slaapbandjes gaan op de post! #bata #batavierenrace… http://t.co/mhsxwQB0BY',?
+'Aangeboden: Startplekken in de @Batavierenrace! PM me bij interesse of voor meer informatie. #Bata #Batevierenrace',?
+'Leuk idee! @studentmobiel #bata4life #batavierenrace ten bate van #kwf_nl http://t.co/FTvdKEVy0C',?
+'Vanmiddag komt de sfeerimpressie video van het #bata4life benefietfeest online. #bata #batavierenrace http://t.co/Fij66br1Rv',?
+'Het grote puzzelen voor het maken van de etappe indeling is begonnen! @Batavierenrace',?
+'RT @jeroenmouw: Leuk idee! @studentmobiel #bata4life #batavierenrace ten bate van #kwf_nl http://t.co/FTvdKEVy0C',?
+'@Batavierenrace @jeroenmouw @Studentmobiel Telefoon aan een USB-kabel hangen waarvan ik niet weet waar die op  is aangesloten? Slecht idee.',?
+'ondanks goede intenties gisteren vier kwekkeboom kroketten gegeten, die finish wordt \'m niet #batavierenrace',?
+'tijd om de love handles voor goed gedag te zeggen! #kasperobrien #batavierenrace',?
+'wat vinden jullie van ons rode kruis? is een verwijzing naar de hulp die nodig zal zijn nadat de zoveelste etappe niet gehaald wordt #bata14',?
+'lekker rennen #mauries #batavierenrace',?
+'hipster alert! loek van kraaij doet ook mee #hip #batavierenrace',?
+'@Batavierenrace het gaat er om dat duidelijk zichtbaar is dat het een stopcontact is. Is bij dat soort dingen nog wel eens niet het geval.',?
+'@Batavierenrace en dan nog is het makkelijk om het te laten lijken alsof het een gewoon stopcontact is, en toch de telefoon leeg te trekken',?
+'Norma sponsort dit jaar de @Batavierenrace. Wij wensen UT/Saxion Runningteam heel veel succes! http://t.co/QtvIrtdN5G http://t.co/OGDitgvcbg',?
+'RT @NormaGroep: Norma sponsort dit jaar de @Batavierenrace. Wij wensen UT/Saxion Runningteam heel veel succes! http://t.co/QtvIrtdN5G http:…',?
+'RT @NormaGroep: Norma sponsort dit jaar de @Batavierenrace. Wij wensen UT/Saxion Runningteam heel veel succes! http://t.co/QtvIrtdN5G http:…',?
+'In training voor @Batavierenrace eindelijk weer aan één stuk mijn standaardrondje kunnen lopen. Dankzij schoenen van @spikeshop? #progressie',?
+'RT @HansBraker: In training voor @Batavierenrace eindelijk weer aan één stuk mijn standaardrondje kunnen lopen. Dankzij schoenen van @spike…',?
+'Vorig jaar haalde @Batavierenrace met Bata4Life €10.000 op voor KWF Kankerbestrijding. Dit jaar mikken ze op een ton:\nhttp://t.co/YQIvRnddX4',?
+'42e Batavierenrace: De 42e editie van de Batavierenrace zal plaatsvinden op 10 mei 2014. Meer infor... http://t.co/wNEv5WRrNM #onderwijs',?
+'De #batavierenrace komt in zicht! Als voorproefje waren we vandaag bij de Uros #Teamrace! http://t.co/V3ewVEA96w',?
+'@HansHarmannij @Batavierenrace wel erg argwanend als ik zo vrij mag zijn.',?
+'Studentfiets Enschede http://t.co/JaUKjigKV7',?
+'De 25 Batahelden zijn bekend! 10 &amp; 11 Mei rennen we richting het bier @Batavierenrace https://t.co/unC96FIqqP http://t.co/wiYAVTZVDi',?
+'RT @ESWZVNayade: De 25 Batahelden zijn bekend! 10 &amp; 11 Mei rennen we richting het bier @Batavierenrace https://t.co/unC96FIqqP http://t.co/…',?
+'@NolRijken Dat is hartstikke leuk.heb getraind met m\'n dochter.zij loopt de batavierenrace.',T
+'@Batavierenrace WTF? De app gaf een code rood notificatie met "Test uit de trein kdfsdkdsk". Aan het proberen of het systeem nog werkt?',F
+'La época llego, te extrañaba #Bata2014 http://t.co/OkUzqIp6gS',?
+'Vr-Zo 9-11 Mei : Batavierenrace 2014: Beste leden,   \n\nWe gaan dit jaar weer samen met All Terrain meedoen aan... http://t.co/lcgKUWHgCk',?
+'#Batavierenrace is estafetteloop van Nijmegen naar Enschede. Zie voor buitengewoonnop team https://t.co/IkzsDtl4tD  (- moet zijn is teken)',?
+'Reden #4. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Schrijf je nu in #bata4life #batavierenrace http://t.co/KrKpTvvdzp',?
+'RT @Batavierenrace: Reden #4. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Schrijf je nu in #bata4life #batavierenrace http://t…',?
+'Er zijn nog enkele plekken vrij om mee te doen aan de Batavierenrace 2014. Wil jij nog graag meerennen en feesten... http://t.co/SMtMN6QQSf',?
+'Studenten Algemene Cultuurwetenschappen, Nederlands en Grieks &amp; Latijn nemen op 10 mei deel aan de @Batavierenrace. Teamnaam: #LetteRun.',?
+'RT @ACW_RU: Studenten Algemene Cultuurwetenschappen, Nederlands en Grieks &amp; Latijn nemen op 10 mei deel aan de @Batavierenrace. Teamnaam: #…',?
+'#Bata4life Nog op zoek naar: https://t.co/mvjY4IlTDR meld je aan! enschede@batavierenrace.nl',?
+'Opkomend zonnetje, nat gras, fluitend vogeltje, beetje fris... Het lijkt wel de #Batavierenrace! Oh wacht, testdag. Op naar #Enschede.',?
+'#Bata4life Organisatie van de Batavierenrace 10052014 Doe jij al mee? #KWF http://t.co/7kAsoBrzbX',?
+'Happy Easter! There won\'t be a Batavierenrace training today. See you on Tuesday!',?
+'Raalter student in organisatie Batavierenrace http://t.co/5D2KQs0HMv #overijssel #provincie #nieuwsoverijssel',?
+'Raalter student in organisatie Batavierenrace http://t.co/bwyuYu8aPn #gelderlandnieuws #provincie #gelderland',?
+'Raalter student in organisatie Batavierenrace http://t.co/UGtZ0m3mmN',?
+'Raalter student in organisatie Batavierenrace: Raalte - De organisatie van de grootste estafetteloop ter werel... http://t.co/Nt1YLmLLO1',?
+'Raalter student in organisatie Batavierenrace: De organisatie van de grootste estafetteloop ter were... http://t.co/pWvJ49sNia #Enschede',?
+'Reden #5. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog drie weken te gaan dus schrijf je… http://t.co/2fLrh2lOJ5',?
+'Raalter student in organisatie Batavierenrace #newslocker http://t.co/Hordw3xeQI',?
+'Count down till #batavierenrace : 20 days to go! Good luck everyone! #batahelden',?
+'RT @Batavierenrace: Reden #5. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog drie weken te gaan dus schrijf je… http://t.co/2…',?
+'Heb jij je als sportstudent nog niet aangemeld voor de @Batavierenrace? Meld je aan via activiteitencommissie@trimovere.nl! @HANSportBewegen',?
+'Zojuist weer aanmeldingen voor de @Batavierenrace ontvangen van drie fanatieke SBE\'ers!! Top! @HAN_SBE',?
+'RT @TriMovere: Heb jij je als sportstudent nog niet aangemeld voor de @Batavierenrace? Meld je aan via activiteitencommissie@trimovere.nl! …',?
+'RT @TriMovere: Zojuist weer aanmeldingen voor de @Batavierenrace ontvangen van drie fanatieke SBE\'ers!! Top! @HAN_SBE',?
+'RT @TriMovere: Heb jij je als sportstudent nog niet aangemeld voor de @Batavierenrace? Meld je aan via activiteitencommissie@trimovere.nl! …',?
+'Raalter student in organisatie Batavierenrace #newslocker http://t.co/3plPKE5Wn6',?
+'#nieuws Raalter student in organisatie Batavierenrace http://t.co/CELEfHzxwu #enschede',?
+'#Enschede Raalter student in organisatie Batavierenrace: Raalte - De organisatie van de grootste e... http://t.co/gJguQvPkYW ©Nieuws.nl',?
+'Raalter student in organisatie Batavierenrace: Raalte - De organisatie van de grootste estafetteloop ter werel... http://t.co/KRrf9Hjb58',?
+'Raalter student in organisatie Batavierenrace #newslocker http://t.co/JvZyfNcGsT',?
+'RT @TriMovere: Heb jij je als sportstudent nog niet aangemeld voor de @Batavierenrace? Meld je aan via activiteitencommissie@trimovere.nl! …',?
+'RT @TriMovere: Zojuist weer aanmeldingen voor de @Batavierenrace ontvangen van drie fanatieke SBE\'ers!! Top! @HAN_SBE',?
+'waarom de @batavierenrace zo mooi is! 1 Minuutje met Rob: http://t.co/pGjLEoiAjH',?
+'@Rob_Vaessen @Batavierenrace Kijk \'m er ontspannen bij zitten ;-). Nog vrijwilligers nodig btw?',?
+'Tja @petermoedt, op een gegeven leeftijd hoef je alleen maar te genieten;) Medewerker worden? https://t.co/TL7pbZFyaU @Batavierenrace',?
+'Nieuwsbrief met o.a. de VIB-does-SMdag, opzoek naar een nieuw bestuur en de testmomenten voor de Batavierenrace! http://t.co/kOmbVjAhBh',?
+'Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest http://t.co/WV4lygsEKM',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'RT @MauriceEssers: Hardfest, Bevrijdingsfestival, Batavierenrace: het komt er allemaal weer aan #Campus #UTwente #FestivalSeason #feest htt…',?
+'Gisteren waren er medewerkersinstructies Nijmegen. Alle deelnemers zijn in goede handen! #Batavierenrace #Bata #SUSA http://t.co/2OpfxTwzoZ',?
+'RT @Batavierenrace: Gisteren waren er medewerkersinstructies Nijmegen. Alle deelnemers zijn in goede handen! #Batavierenrace #Bata #SUSA ht…',?
+'In team voor @Batavierenrace op 10 mei van 7.3 naar 8.9 km overgezet. Training opgeschaald. Lekker gelopen (maar nog lang geen @RondjeGouda)',?
+'@HansBraker VAT - met bier aan het eind van je Batavierenrace.',?
+'@Batavierenrace In het deelnemersboekje staat dat @Aeolusrun vorig jaar 2e was, dit lijkt me niet te kloppen :)',F
+'10 mei a.s 2014 Batavierenrace #Bata4life Studentenestafette #EM14  #tvoost',?
+'Reden #6. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog minder dan twee weken te gaan dus… http://t.co/NRVyAD8ALQ',?
+'RT @Batavierenrace: Reden #6. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog minder dan twee weken te gaan dus… http://t.co/N…',?
+'Universiteitsteam naar Batavierenrace http://t.co/hT2StTXrzl',?
+'Universiteitsteam naar Batavierenrace: Een team van de Erasmus Universiteit Rotterdam neemt op zaterdag 10 mei... http://t.co/sxnRVMqSBB',?
+'Universiteitsteam naar Batavierenrace: Een team van de Erasmus Universiteit Rotterdam neemt op zaterdag 10 mei... http://t.co/ExOYdQWXOA',?
+'EUR nieuws: Universiteitsteam naar Batavierenrace http://t.co/2sT1yThwKI #erasmusuni',?
+'Universiteitsteam naar Batavierenrace: Een team van de Erasmus Universiteit Rotterdam neemt op zaterdag 10 mei... http://t.co/GJnmt2A8Pj',?
+'RT @erasmusnieuws: EUR nieuws: Universiteitsteam naar Batavierenrace http://t.co/2sT1yThwKI #erasmusuni',?
+'Universiteitsteam naar Batavierenrace: Een team van de Erasmus Universiteit #Rotterdam neemt op zate... http://t.co/cTgUEPT2sx #Enschede',?
+'RT @erasmusnieuws: EUR nieuws: Universiteitsteam naar Batavierenrace http://t.co/2sT1yThwKI #erasmusuni',?
+'RT @Batavierenrace: Reden #6. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog minder dan twee weken te gaan dus… http://t.co/N…',?
+'RT @Batavierenrace: Reden #6. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog minder dan twee weken te gaan dus… http://t.co/N…',?
+'Erasmus Universiteit Rotterdam: Universiteitsteam naar Batavierenrace http://t.co/YZC5Y2q4t7 #onderwijs',?
+'Trainingstip 428 @Batavierenrace: verdwaal tussen wijngaarden #Elzas, dan wordt een loopje van 30 min plots 50+ min. Natte voeten, hellingen',?
+'New Race! Batavierenrace 2014, http://t.co/iXxwpQrSrv - 10/05/2014 - #VonNijmegennachEnschede - Netherlands',?
+'Team Erasmus Universiteit loopt mee in estafette Batavierenrace - Nationale Onderwijsgids: http://t.co/62RNMqStgL #EUR #hardlopen',?
+'Team Erasmus Universiteit loopt mee in estafette Batavierenrace  http://t.co/8bsINyQAmY',?
+'Zo even 4,5 km in 30 minuten gelopen.  Laat de batavierenrace maar komen!',?
+'Team Erasmus Universiteit loopt mee in estafette Batavierenrace: Dit jaar zal de 42e editie van de B... http://t.co/93DKPOheNt #Enschede',?
+'Team Erasmus Universiteit loopt mee in estafette Batavierenrace http://t.co/GaV89OkMQZ',?
+'RT @Batavierenrace: Reden #6. Steun de strijd tegen kanker via http://t.co/phaKWNaEk0. Nog minder dan twee weken te gaan dus… http://t.co/N…',?
+'Wil jij een keer meedoen met de #batavierenrace? Laat het dan snel weten! @svcommunique &amp; @svMerCurious zoekt nog 9 hardlopers!',?
+'Wil jij een keer meedoen met de #batavierenrace? Laat het dan snel weten! @svcommunique &amp; @svMerCurious zoeken nog 9 hardlopers!',?
+'Wil jij een keer meedoen met de #batavierenrace? Laat het dan snel weten! @svcommunique &amp; @mercuriusuva zoeken nog 9 hardlopers!',?
+'Vanavond op de radio bij @openrotterdam over het EUR universiteitsteam dat meedoet aan de @Batavierenrace! #erasmusuni',?
+'RT @Erasmussport: Vanavond op de radio bij @openrotterdam over het EUR universiteitsteam dat meedoet aan de @Batavierenrace! #erasmusuni',?
+'Hoe vet: 10 vd 11 studentenzwenmersteams zitten in dezelfde (1e) startgroep op de @Batavierenrace! #batazwemmen',?
+'Practice for the Batavierenrace will start at 21:00 at the Vindhek!',?
+'RT @DSZWAVE: Hoe vet: 10 vd 11 studentenzwenmersteams zitten in dezelfde (1e) startgroep op de @Batavierenrace! #batazwemmen',?
+'Nog maar anderhalve week tot de grote dag! #batavierenrace #SUSA',?
+'RT @Batavierenrace: Nog maar anderhalve week tot de grote dag! #batavierenrace #SUSA',?
+'RT @Batavierenrace: Nog maar anderhalve week tot de grote dag! #batavierenrace #SUSA',?
+'RT @Batavierenrace: Nog maar anderhalve week tot de grote dag! #batavierenrace #SUSA',?
+'RT @NormaGroep: Norma sponsort dit jaar de @Batavierenrace. Wij wensen UT/Saxion Runningteam heel veel succes! http://t.co/QtvIrtdN5G http:…',?
+'De medewerkersinstructieavond voor de Batavierenrace van volgende week zit er weer op. De @batainfobalie gaat weer helemaal goed komen :-)',?
+'RT @NormaGroep: Norma sponsort dit jaar de @Batavierenrace. Wij wensen UT/Saxion Runningteam heel veel succes! http://t.co/QtvIrtdN5G http:…',?
+'Meld je nu aan bij de evenementen pagina van de Batavierenrace! #Bata #SUSA',?
+'RT @Batavierenrace: Meld je nu aan bij de evenementen pagina van de Batavierenrace! #Bata #SUSA',?
+'Fragment uit uitzending van @openrotterdam 29 april 18.00 uur( tussen min 41 en 46): http://t.co/aNjK18JLJg. @Batavierenrace @erasmusnieuws',?
+'RT @Erasmussport: Fragment uit uitzending van @openrotterdam 29 april 18.00 uur( tussen min 41 en 46): http://t.co/aNjK18JLJg. @Batavierenr…',?
+'RT @Erasmussport: Fragment uit uitzending van @openrotterdam 29 april 18.00 uur( tussen min 41 en 46): http://t.co/aNjK18JLJg. @Batavierenr…',?
+'And I\'ll be participating in the #Batavierenrace, the biggest relay run in the world. Running 10km in the middle of the night in Germany.',?
+'In verband met verwachte de lage opkomst en de drukte rondom de Batavierenrace, heeft het bestuur helaas besloten... http://t.co/vPODUA4fsD',?
+'De voorbereiding met een enthousiaste groep Periklessers voor de Batavierenrace is begonnen! http://t.co/v6rt2wO3vJ',?
+'Eerste training voor de Batavierenrace gedaan, werd wel tijd als die volgende week er al is',?
+'Batavierenrace(10 mei 2014) - Enschede http://t.co/u3xZOhX7CY via @Enschede',?
+'RT @anjastrootman: Batavierenrace(10 mei 2014) - Enschede http://t.co/u3xZOhX7CY via @Enschede',?
+'Ons meinummer staat online. Met o.a. Herbert Wormeester, Jan van Dijk, veel @Batavierenrace en Europese Verkiezingen: http://t.co/DSwCDfLJP4',?
+'RT @UTNieuws: Ons meinummer staat online. Met o.a. Herbert Wormeester, Jan van Dijk, veel @Batavierenrace en Europese Verkiezingen: http://…',?
+'Nog maar één weekje en dan staat de Batavierenrace 2014 op het programma! Een weekend vol gezelligheid, beetje... http://t.co/ncmJosvNe4',?
+'Nog maar één weekje en dan staat de Batavierenrace 2014 op het programma! Een weekend vol gezelligheid, beetje... http://t.co/WjVktm2P0N',?
+'ENGLISH - The Batavierenrace (@Batavierenrace) explained: thousands of students running from Nijmegen to Enschede: http://t.co/GtIvm6D4lw',?
+'RT @UTNieuws: ENGLISH - The Batavierenrace (@Batavierenrace) explained: thousands of students running from Nijmegen to Enschede: http://t.c…',?
+'Nog 9 dagen tot de @Batavierenrace!Het EUR Universiteitsteam gaat voor het podium! Volg ze hier:http://t.co/HlmlzW2FfU @erasmusnieuws',?
+'RT @UTNieuws: ENGLISH - The Batavierenrace (@Batavierenrace) explained: thousands of students running from Nijmegen to Enschede: http://t.c…',?
+'RT @UTNieuws: ENGLISH - The Batavierenrace (@Batavierenrace) explained: thousands of students running from Nijmegen to Enschede: http://t.c…',?
+'In #1minuutjemet vertelt directeur Remco Pouw over #SUSA en waarom SUSA hoofdsponsor is van de @Batavierenrace http://t.co/eiW9AvRgZB',?
+'In voorbereiding op #batavierenrace. Nog 8 dagen te gaan. Training vandaag 12 x 300m @ 52-53s.',?
+'RT @SUSAstudenten: In #1minuutjemet vertelt directeur Remco Pouw over #SUSA en waarom SUSA hoofdsponsor is van de @Batavierenrace http://t.…',?
+'RT @UTNieuws: ENGLISH - The Batavierenrace (@Batavierenrace) explained: thousands of students running from Nijmegen to Enschede: http://t.c…',?
+'Persbericht: BataRadio 21 uur live tijdens Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata @Batavierenrace @bataradio #utwente',?
+'RT @tvefm: Persbericht: BataRadio 21 uur live tijdens Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata @Batavierenrace @batarad…',?
+'RT @tvefm: Persbericht: BataRadio 21 uur live tijdens Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata @Batavierenrace @batarad…',?
+'RT @tvefm: Persbericht: BataRadio 21 uur live tijdens Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata @Batavierenrace @batarad…',?
+'De 42e Batavierenrace 2014 komt weer door Barchem - KijkLochem.nl #newslocker http://t.co/HUBKFqJC7k',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM: De Batavierenrace is ook dit ... http://t.co/KOutf7Qfs5 #NIEUWS',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM: De Batavierenrace is oo... http://t.co/fX9bhwFL0u #WereldNieuws',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/MwHYnU28vv #Nieuws',?
+'#niws #shownieuws Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/dVl5Y0RWva #nieuws #RadioNL',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/9dSiIaHFKG #Nieuws',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/2fXeC3XvUt #Nieuws',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/jstgWZEACf',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/mCTadne6Ic',?
+'Doneer nu voor #bata4life en misschien los jij wel een startschot tijdens de #Batavierenrace!',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/ehn88T5DNR',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/Ijk6rGJkHF',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM: De Batavierenrace is ook dit jaar van b... http://t.co/qMl7RmYTkB #radio',?
+'RT @Batavierenrace: Doneer nu voor #bata4life en misschien los jij wel een startschot tijdens de #Batavierenrace!',?
+'#RadioNL Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/uaGOm1MHft #Nieuws',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM http://t.co/c4cs6xDKto',?
+'Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http://t.co/bk22tgUG6D',?
+'Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http://t.co/bl2Ki9Kcz0',?
+'RT @topicusbv: Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http:/…',?
+'RT @tvefm: Persbericht: BataRadio 21 uur live tijdens Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata @Batavierenrace @batarad…',?
+'JAWS zoekt nog lopers voor tijdens de Batavierenrace, volgens weekend. Jongens en meisjes. Wij betalen een biertje voor je.',?
+'RT @topicusbv: Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http:/…',?
+'RT @topicusbv: Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http:/…',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede... http://t.co/JPXegzzhiV',?
+'On the 10th of May 2014, the 42nd edition of the Batavierenrace will take place in the Netherlands #Batavierenrace http://t.co/yPQSeMtT7H',?
+'Batavierenrace op Enschede FM en Bataradio http://t.co/LsAY9bQRyt',?
+'Voor het zesde jaar op rij heeft de Batavierenrace een eigen radio-uitzending: BataRadio, te horen via Enschede FM http://t.co/Bey9UZFDvZ',?
+'RT @topicusbv: Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http:/…',?
+'Batavierenrace met BataRadio op Enschede FM http://t.co/oOEU2ZNn4w',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede... http://t.co/NOG81XlVav',?
+'Batavierenrace met BataRadio op Enschede FM http://t.co/vZw1mwpNas',?
+'Op naar dat podium! RT @Erasmussport: Desiree van Reeuwijk, de ploegleider van het #erasmusuni @batavierenrace team!  http://t.co/bsDdU3HmPA',?
+'Batavierenrace met BataRadio op Enschede FM http://t.co/b4KZ2hvL1G #Nieuws #Nederland',?
+'Barchem is herstart locatie van Batavierenrace http://t.co/GKrqt3VDup #nieuws #provincienieuws #arnhem',?
+'Batavierenrace met BataRadio op Enschede FM: De Batavierenrace heeft ook dit jaar een eigen radio-uitzending: ... http://t.co/SB5d3HyvPk',?
+'#Barchem is herstart locatie van Batavierenrace: #Barchem Begin mei klinkt jaarlijks het startscho... http://t.co/Cn5z1iT3iF #Achterhoek',?
+'Batavierenrace met BataRadio op Enschede FM http://t.co/HEAp7ZH8WI',?
+'Batavierenrace met BataRadio op Enschede FM: De Batavierenrace heeft ook dit jaar een eigen radio-uitzending: ... http://t.co/6h7YssAzcx',?
+'Batavierenrace met BataRadio op Enschede FM: De Batavierenrace heeft ook dit jaar een eigen radio-... http://t.co/B4zrUkyaus #radiofreak',?
+'Batavierenrace op Enschede FM en Bataradio http://t.co/EaoG4AXyFy',?
+'Zaterdag 10 mei zijn we bij de @Batavierenrace, waar je kans maakt op een gratis EXO-L! Meer info? Ga naar http://t.co/RRZ9pHyLfG',?
+'Batavierenrace ook live te volgen via BataRadio en Enschede FM: De Batavierenrace is ook dit j... http://t.co/Pdd50GdHaE #muziek #dansen',?
+'Batavierenrace live volgen http://t.co/GFb3c1e559 #informatie #nieuws #hardlopen',?
+'Batavierenrace live volgen http://t.co/9vWd0xfaUt',?
+'RT @topicusbv: Doneer tijdens @batavierenrace €2,- en ontvang een glow-in-the-dark-bril, de opbrengst gaat naar #bata4life voor #KWF http:/…',?
+'“@stadenschede: Batavierenrace op Enschede FM en Bataradio http://t.co/O1W1pjZfjL” 9 en 10 mei. #twekkelerveld http://t.co/OCA0r9b9Ny',?
+'@tvefm Of het nou bata of batoradio is. Gewoon luisteren 9 mei 22:00 voor de complete batavierenrace ervaring.',?
+'Nog 6 dagen (en een beetje)!! #batavierenrace http://t.co/L2LcQjyZ5R',?
+'Nog 6 dagen (en een beetje)!! Are you ready? #batavierenrace #bata #bata4life #susa http://t.co/nZvffiTsto',?
+'Ook op zaterdag wordt er gewoon gewerkt! (@ Batavierenrace Nijmegen) http://t.co/ftci7hlSJ5',?
+'Ik schrijf een liedje voor de Batavierenrace dit jaar. Wat betekent de bata voor jou? Misschien verwerk ik het in mijn song :) #utwente',?
+'RT @Batavierenrace: Nog 6 dagen (en een beetje)!! Are you ready? #batavierenrace #bata #bata4life #susa http://t.co/nZvffiTsto',?
+'BataRadio 21 uur live tijdens Batavierenrace http://t.co/dnWd8vhJcc',?
+'Oranje boven! #trui #tasje #bata #batavierenrace #bata4life #susa http://t.co/tSoolx9W7Q',?
+'@Batavierenrace da\'s weer een mooi kleurtje :-D',?
+'Batavierenrace met BataRadio op Enschede FM - RadioFreak.nl #newslocker http://t.co/f0Zy3Xx9CQ',?
+'Practice for the Batavierenrace will start at 16 at the Vindhek in the Noorderplantsoen. Remember, you have only six days left to practice!',?
+'RT @HCSFGroningen: Practice for the Batavierenrace will start at 16 at the Vindhek in the Noorderplantsoen. Remember, you have only six day…',?
+'@HCSFGroningen Veel succes met de grootste estafetteloop ter wereld, beter bekend als de Batavierenrace! #050 42e editie tart 10 mei 2014',?
+'Official shirts are finally there! EUR Universiteitsteam is ready for the Batavierenrace! @ErasmusMag @erasmusnieuws http://t.co/SGPOlGNwm7',?
+'Next stop: zaterdag 10-5 @Batavierenrace #Enschede! #lijn7',?
+'Net 10 km hardgelopen in 57 min. 49 sec., dus bijna klaar voor de @Batavierenrace! #vrijheidomtesporten',?
+'Nog 4 lopers gezocht voor de Batavierenrace, iedereen die morgen traint, wordt gevraagd om mee te doen:-)',?
+'Vrijdag is onze Pre-Bata Party! Bier op het terras en broodjes biefstuk. Een feestje om niet te missen! #vestingbar #prebata #bata2014',?
+'RT @Vestingbar: Vrijdag is onze Pre-Bata Party! Bier op het terras en broodjes biefstuk. Een feestje om niet te missen! #vestingbar #prebat…',?
+'RT @Vestingbar: Vrijdag is onze Pre-Bata Party! Bier op het terras en broodjes biefstuk. Een feestje om niet te missen! #vestingbar #prebat…',?
+'RT @lijn7degekste: Next stop: zaterdag 10-5 @Batavierenrace #Enschede! #lijn7',?
+'Ga jij naar het @Batavierenrace eindfeest? Raad en win! Hoeveel flesjes water worden er uitgedeeld tijdens de race? http://t.co/XMzkYRMYuX',?
+'Batavierenrace we hebben er zin in! http://t.co/eSRHMbRAqX',T
+'RT @SUSAstudenten: Ga jij naar het @Batavierenrace eindfeest? Raad en win! Hoeveel flesjes water worden er uitgedeeld tijdens de race? http…',?
+'RT @SUSAstudenten: Ga jij naar het @Batavierenrace eindfeest? Raad en win! Hoeveel flesjes water worden er uitgedeeld tijdens de race? http…',?
+'Met wie ga jij naar de Batavierenrace 2014?! http://t.co/YgKcRKW7Ex',?
+'RT @SportcentrumUT: Met wie ga jij naar de Batavierenrace 2014?! http://t.co/YgKcRKW7Ex',?
+'@KimKlbeld jaaaaaaa!:)\nVolgende week party in Enschedeeee! Eindfeest van de #Batavierenrace!:)',?
+'RT @SR_Utrecht: University #Team #Utrecht is klaar voor de #Batavierenrace van dit weekend! #bata14 #sportverbindt #studentensport http://t…',?
+'Suc6! "@SR_Utrecht: University #Team #Utrecht is klaar voor #Batavierenrace van dit weekend! #bata14 #studentensport http://t.co/sPjBK0Caxx"',?
+'3,5km in 20 minuten, misschien volgende keer toch maar eerder beginnen met fanatiek trainen #batavierenrace #hardlopen',?
+'RT @Vestingbar: Vrijdag is onze Pre-Bata Party! Bier op het terras en broodjes biefstuk. Een feestje om niet te missen! #vestingbar #prebat…',?
+'Aanstaande zaterdag is de start van de 42e @Batavierenrace De grootste estafette ter wereld over 175 kilometer! https://t.co/kJf2auKvLD #RUN',?
+'Voor @Batavierenrace toegestemd om van etappe 7.3km te switchen naar 8.9km - blijkt die te zijn verlengd naar 9.6km! Goed getraind gelukkig.',?
+'Wederom maakt @Batavierenrace gebruik van ons #Mobitex netwerk voor #tijdsregistratie tijdens de wedstrijd op 10 mei: http://t.co/cFlT9eWNC4',?
+'Zaterdag openen wij al om 20:00, voor het grootste studentenfeest van de Benelux! Batavierenfeest! #bata2014 #vestingbar #party',?
+'RT @Vestingbar: Zaterdag openen wij al om 20:00, voor het grootste studentenfeest van de Benelux! Batavierenfeest! #bata2014 #vestingbar #p…',?
+'RT @Vestingbar: Zaterdag openen wij al om 20:00, voor het grootste studentenfeest van de Benelux! Batavierenfeest! #bata2014 #vestingbar #p…',?
+'Do you want to spend your weekend outside Wageningen? http://t.co/64T30Jx4Vm',?
+'RT @topicusbv: Koop voor € 2,- een glow-in-the-dark-zonnebril  en steun daarmee de actie #Bata4Life @KWF_nl tijdens de @Batavierenrace',?
+'RT @topicusbv: Koop voor € 2,- een glow-in-the-dark-zonnebril  en steun daarmee de actie #Bata4Life @KWF_nl tijdens de @Batavierenrace',?
+'Win 25 munten voor het #batavierenfeest! Check de facebook pagina van @SUSAstudenten of die van de Batavierenrace!',?
+'RT @Batavierenrace: Win 25 munten voor het #batavierenfeest! Check de facebook pagina van @SUSAstudenten of die van de Batavierenrace!',?
+'RT @topicusbv: Koop voor € 2,- een glow-in-the-dark-zonnebril  en steun daarmee de actie #Bata4Life @KWF_nl tijdens de @Batavierenrace',?
+'Zaterdag urenlang live verslag van @Batavierenrace via @bataradio op  Enschede FM: http://t.co/fsBRfc7cZ4 #tvefm #bata #enschede #nijmegen',?
+'Het jaarlijkse Batavierenrace gaat dit jaar weer van start. Kijk op onze website voor meer informatie. http://t.co/shYxk3FCw0',?
+'De tasjes zijn vandaag gevuld! Ook jouw team krijgt op vrijdagavond een tasje met belangrijke info voor de race. http://t.co/qbXu6xpjej',?
+'RT @Batavierenrace: De tasjes zijn vandaag gevuld! Ook jouw team krijgt op vrijdagavond een tasje met belangrijke info voor de race. http:/…',?
+'RT @Batavierenrace: De tasjes zijn vandaag gevuld! Ook jouw team krijgt op vrijdagavond een tasje met belangrijke info voor de race. http:/…',?
+'Sat.10 May: ITC Run4Fun team participates in the biggest student relay race of the world. Distance: 178K. http://t.co/TMuH0jmngX #ITC',?
+'10 mei start Batavierenrace. Onze medewerker Jos heeft zich al warm gelopen tijdens #Marathon R\'dam. Ben jij erbij? http://t.co/3iV6YqwJW0',?
+'In @sportsradionl LIVE bellen met de organisatie van de @Batavierenrace, de grootste estafetteloop van de wereld.',?
+'Dit weekend zijn er @PhoenixMannen actief bij de @Batavierenrace, @Trackmeetings, @TerSpeckeBokaal (met NK 4x100) en masterscompetitie!',?
+'Het #Batavierenrace teamshirt van @BestuurVvTP ziet er mooi uit! We zijn trots dat we sponsor van #VvTP zijn! Succes! http://t.co/3Z0drFrHEw',?
+'Je hoort over een paar minuten alles over de @Batavierenrace @sportsradionl! Tune in via http://t.co/nGgLR3g5gh!',?
+'NL | Lijkt het jou leuk om de tentamenweek af te sluiten met de batavierenrace? Er is nog één afstand... http://t.co/t29ENvhPRs',?
+'RT @PhoenixMannen: Dit weekend zijn er @PhoenixMannen actief bij de @Batavierenrace, @Trackmeetings, @TerSpeckeBokaal (met NK 4x100) en mas…',?
+'De @PhoenixMannen zijn overal! @Batavierenrace @Trackmeetings @TerSpeckeBokaal @phoenixutrecht',?
+'RT @NormaGroep: 10 mei start Batavierenrace. Onze medewerker Jos heeft zich al warm gelopen tijdens #Marathon R\'dam. Ben jij erbij? http://…',?
+'RT @bas400h: De @PhoenixMannen zijn overal! @Batavierenrace @Trackmeetings @TerSpeckeBokaal @phoenixutrecht',?
+'Just completed a 8.77 km run - Prima generale voor de Batavierenrace  http://t.co/SimUDTISGK #RunKeeper',?
+'Opstelpunten voor steunzenders gezocht langs de route van de Batavierenrace. \nhttps://t.co/EFx8iBKtP5\nPls RT',?
+'RT @LeavdBerg: Opstelpunten voor steunzenders gezocht langs de route van de Batavierenrace. \nhttps://t.co/EFx8iBKtP5\nPls RT',?
+'Laatste traininkje voor de Batavierenrace erop zitten!',?
+'We zijn nog op zoek naar een hardloper voor de 12,5 km om ons team te komen versterken zaterdag. Meld je! #Batavierenrace',?
+'RT @M_Buitenhuis: We zijn nog op zoek naar een hardloper voor de 12,5 km om ons team te komen versterken zaterdag. Meld je! #Batavierenrace',?
+'Net besloten om toch mee te doen met de batavierenrace en nog wel de slotronde! #7.1km #nijmegen #enschede',?
+'RT @M_Buitenhuis: We zijn nog op zoek naar een hardloper voor de 12,5 km om ons team te komen versterken zaterdag. Meld je! #Batavierenrace',?
+'Batavierenrace 2014 – estafetteloop voor studenten http://t.co/hIM5mcwWIQ via @weblognl',?
+'Batavierenrace 2014 – estafetteloop voor… http://t.co/f8XnHOSxXk',?
+'Stagezaken.nl Batavierenrace 2014 – estafetteloop voor…: Met 8.500 deelnemers is dit he... http://t.co/2uFxFgczN7 http://t.co/TbAimbGZof',?
+'De eerste medewerkersbussen arriveren in Nijmegen! #bata #batavierenrace #susa http://t.co/3kA4rYkh4I',?
+'De mannen die het wagenpark van de Batavierenrace coördineren zijn er al klaar voor! #bata #batavierenrace #susa http://t.co/GSckccVJ2Y',?
+'DRINGEND GEZOCHT! Wie wil dit weekend mee doen met de batavierenrace?!:) We zoeken nog een dame voor de... http://t.co/ngKmNTIoWz',?
+'Die Batavierenrace gaat dus ook een groot drama worden. Als je niet eens in staat bent een degelijk team af te vaardigen wordt het niks..',F
+'RT @Batavierenrace: De mannen die het wagenpark van de Batavierenrace coördineren zijn er al klaar voor! #bata #batavierenrace #susa http:/…',?
+'(Weekendtip) Feest mee met de Batavierenrace http://t.co/TRkIAJQlvB',?
+'De laatste training voor de #Batavierenrace samen met Euros. Vandaag om 18:00 verzamelen bij het vlot.',?
+'RT @Hastu_Nijmegen: DRINGEND GEZOCHT! Wie wil dit weekend mee doen met de batavierenrace?!:) We zoeken nog een dame voor de... http://t.co/…',?
+'Het eerste internationale team arriveert vandaag al in Nederland om zich alvast rustig voor te bereiden #bata #susa http://t.co/TObBHDfuVQ',?
+'RT @Batavierenrace: Het eerste internationale team arriveert vandaag al in Nederland om zich alvast rustig voor te bereiden #bata #susa htt…',?
+'RT @Batavierenrace: De eerste medewerkersbussen arriveren in Nijmegen! #bata #batavierenrace #susa http://t.co/3kA4rYkh4I',?
+'RT @ESWZVNayade: We zijn gearriveerd, en dat zullen ze weten.@Batavierenrace  #plons #plons http://t.co/wlbVras9NI',?
+'Johan de Egel vindt het vies weer vandaag.. Maar dit weekend maken we er hoe dan ook een feestje van! #bata #susa http://t.co/HTvbqOk3Bg',?
+'RT @Batavierenrace: Johan de Egel vindt het vies weer vandaag.. Maar dit weekend maken we er hoe dan ook een feestje van! #bata #susa http:…',?
+'Como mola/jode correr con lluvia. #batavierenrace http://t.co/fdugpS3aN3',?
+'Vrijdagavond baanwedstrijd Track Meeting Utrecht (1500m) en zaterdagochtend vantevoren nog de Batavierenrace... http://t.co/yZNrhun1rC',?
+'Iets Gemist? Batavierenrace dit weekend op 09-05-2014 in Twente wordt Wakker http://t.co/2BEGwdvn9C',?
+'Vannacht start de 42e editie van de @Batavierenrace! Doe je mee? Laat het weten via de Twapp! http://t.co/MmZIO6ja6T #getconnected',?
+'Serieuze aanpak: etappeverkenning Batavierenrace vannacht. Omstreeks 1:00 van start. #etappe2 #bergendal #googlemaps http://t.co/LqVtsS4Kt9',?
+'Gister in het AD het #erasmusuni Batavierenrace team. Vanavond gaan ze de strijd aan! @erasmusnieuws http://t.co/ZVntNRAgSf',?
+'RT @geepje: Gister in het AD het #erasmusuni Batavierenrace team. Vanavond gaan ze de strijd aan! @erasmusnieuws http://t.co/ZVntNRAgSf',?
+'#SUSA wenst alle lopers, organisatoren en vrijwilligers enorm veel succes tijdens de @Batavierenrace! Zet hem op!',?
+'#SUSA wenst alle lopers, organisatoren en vrijwilligers enorm veel succes tijdens de @Batavierenrace! Zet hem op!',?
+'Daar gaan we! (@ Batavierenrace Nijmegen) http://t.co/EfYm1XlwvJ',?
+'Don\'t miss out the fun of @Batavierenrace :the perfect mix between sport and fun happening this weekend. More info: https://t.co/XjDhJitYMW',?
+'RT @SUSAstudenten: #SUSA wenst alle lopers, organisatoren en vrijwilligers enorm veel succes tijdens de @Batavierenrace! Zet hem op!',T
+'Komende nacht is de #Batavierenrace. Wie weet ga ik even bij de start kijken als het droog is... Altijd wel leuk.',?
+'Is de @Batavierenrace dit jaar nog makkelijk te volgen via de mobiel (geen Android-telefoon)? #dtv #batavierenrace',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/ex83aixLwX #arnhem #gelderlandnieuws #gelderland',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/gLKZxhFBQS #nieuws #DG',?
+'Het waanzinnige bedrag van 23.749euro is opgehaald voor #MercyShips! Morgen na de #batavierenrace voegen wij er meer aan toe!',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/wMpFCXErLc',?
+'voorzitter Esther bijt vannacht om 0.15 uur de spits af bij de Batavierenrace.',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/vRbYYB6noL Morgen is het zover! Zin in!',?
+'Off to Netherlands to run an epic relay... Much excite! So race! #batavierenrace #hype',?
+'@michielwolbers @Batavierenrace Lekker meerennen? Of iemand zoeken met wel een Android voor app ;-) En natuurlijk uitslagen op de Bastille',?
+'Vandaag staat in het teken van het inrichten van mijn nieuwe kamer en de Batavierenrace. Zin! Hollen maar!',?
+'Op naar Enschede! Batavierenrace weekend = aan!',?
+'Vanaf 22u liefst 21 uur lang  @bataradio op Enschede FM! Live verslag 42ste @Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #enschede #bata',?
+'Morgen is het zover #Enschede Bata4life, de actie van de Batavierenrace: http://t.co/BJl5EEoEMZ',?
+'RT @tvefm: Vanaf 22u liefst 21 uur lang  @bataradio op Enschede FM! Live verslag 42ste @Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #ensch…',?
+'Stress, druk en Rock \'n Roll. Maarja #yolo, bijna weekend! #Batavierenrace',?
+'Sporten en feesten bij 42e Batavierenrace #newslocker http://t.co/lYl195MZSZ',?
+'@michielwolbers @Batavierenrace Je weet toch Wolbers, al jaren @bataradio',?
+'Vanaf 22:00 kun je weer luisteren naar de @Batavierenrace Radio die verzorgd zal worden door Evert Duipmans en vele andere Contramimers!',?
+'RT @tvefm: Vanaf 22u liefst 21 uur lang  @bataradio op Enschede FM! Live verslag 42ste @Batavierenrace http://t.co/Ns0uOHQzqL #tvefm #ensch…',?
+'@judithvdm @Batavierenrace @bataradio I know! Maar soms is het fijn even de tijden van je eigen team snel te kunnen vinden :-)',?
+'Batavierenrace start met 350 studententeams http://t.co/WpdhtzxgQk #tvefm #enschede #batavierenrace #nijmegen utwente #radboud',?
+'RT @tvefm: Batavierenrace start met 350 studententeams http://t.co/WpdhtzxgQk #tvefm #enschede #batavierenrace #nijmegen utwente #radboud',?
+'Sporten en feesten bij 42e Batavierenrace #newslocker http://t.co/q4F4alGGVg',?
+'Batavierenrace start met 350 studententeams | TV #Enschede FM: De Batavierenrace gaat vannacht om 00.00 uur in... http://t.co/UuFfakNCDa',?
+'Alle @AltisMasters lopers van ploeg Ctrl-Alt=One @Batavierenrace héél veel succes en plezier gewenst morgen!!',?
+'Sporten en feesten bij 42e Batavierenrace #newslocker http://t.co/r4lqGRN51z',?
+'Op naar Enschede voor de Batavierenrace, heb er in! :)',?
+'RT @tvefm: Batavierenrace start met 350 studententeams http://t.co/WpdhtzxgQk #tvefm #enschede #batavierenrace #nijmegen utwente #radboud',?
+'Voorbereidingen treffen voor de @Batavierenrace vanavond + morgen. Altijd weer een feestje om naar uit te kijken... #motorrijder',?
+'Alle deelnemers, organisatie en belangstellende heel veel succes met de batavierenrace, we duimen voor droog weer. #batavierenrace14',T
+'Nog even... En dan gaan we met @SV_Synergy de @Batavierenrace lopen. Succes allemaal, loop ze! #bata14',?
+'Is iedereen er klaar voor? Wij wel! En we hebben er zin in! #batavierenrace #UniTeamAdam',?
+'Vannacht gaat de Batavierenrace van start! Wij willen alle lopers veel succes wensen. Dat jullie allen na afloop... http://t.co/tUmj7D8AMU',?
+'Weer tijd voor de @Batavierenrace. Tijd om te strijden met Snot, \'team uit amsterdam\' en onbekende tegenstand voor t 4e overwinningspaardje',?
+'RT @Aeolusrun: Weer tijd voor de @Batavierenrace. Tijd om te strijden met Snot, \'team uit amsterdam\' en onbekende tegenstand voor t 4e over…',?
+'ah. morgen naar de Batavierenrace. naar @Rikie_ dus.',?
+'RT @Epestheper: ah. morgen naar de Batavierenrace. naar @Rikie_ dus.',?
+'Getting ready for @Batavierenrace #yolanthetweet http://t.co/GZHXLLsNuW',?
+'Gezellige drukte op de campus @UTwente voor de @Batavierenrace http://t.co/JOCm0QFWrw',?
+'#glanerbrug #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/SGkJpSWdHV',?
+'#lonneker #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/kA45W8BcqI',?
+'#boekelo #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/eZF272uaQK',?
+'#usselo #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/a9st7VJw66',?
+'#enschede #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/IwR126ppmZ',?
+'#rutbeek #fm Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/fI9NFtLe3Z',?
+'RT @Aeolusrun: Weer tijd voor de @Batavierenrace. Tijd om te strijden met Snot, \'team uit amsterdam\' en onbekende tegenstand voor t 4e over…',?
+'Heftige hagelbui opeens. Lekker weertje zo voor de Batavierenrace ... #damn',?
+'Batavierenrace start met 350 studententeams | TV Enschede FM http://t.co/y6vhxToN7R',?
+'RT @plsrinsema: Alle @AltisMasters lopers van ploeg Ctrl-Alt=One @Batavierenrace héél veel succes en plezier gewenst morgen!!',?
+'BATAVIERENRACE with @GSTV_Tritanium #batavierenrace',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/WhEAgHD4Jr #hardloopinfo #informatie #lopen',?
+'@uniteamadam succes heren en dames!! neem de 1e prijs mee naar Amsterdam! #batavierenrace',?
+'De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t.co/embjwXVcYs',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/9g0AXAJKpj',?
+'RT @nieuws_enschede: Batavierenrace start met 350 studententeams | TV #Enschede FM: De Batavierenrace gaat vannacht om 00.00 uur in... http…',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'Still can\'t believe I\'m going to be running in the #batavierenrace tomorrow! #175kmrace #imusuallythelazytype #bigaccomplishments',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'De sintelbaan is voor @Batavierenrace, wat het vélodrome is voor Parijs-Roubaix. Jammer dat finishlocatie te nat is: http://t.co/3yltifbUcP',?
+'Sporten en feesten bij 42e Batavierenrace #newslocker http://t.co/MTiW2wGcpR',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'laatste voorbereidingen ivm nachtinzet bij #batavierenrace van Nijmegen naar Enschede. Motor en-rijder zijn er klaar voor :-) #honda #veilig',?
+'Bata, bata, bata... ik houd nu al van je! Vollebak ambiance, vollebak gááááán met die TiU karavaan! #batavierenrace #tilburgU',T
+'De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'RT @Batavierenrace: Johan de Egel vindt het vies weer vandaag.. Maar dit weekend maken we er hoe dan ook een feestje van! #bata #susa http:…',?
+'Heel veel succes allemaal! "@RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace"',?
+'@M_de_Visser Ik ben in Nijmegen, morgen begint die andere estafette naar Enschede! #batavierenrace',?
+'Dat hebben ze nodig ook. RT @RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace',?
+'Mocht er iemand nog een loper nodig hebben voor de @Batavierenrace vanavond in Nijmegen: ik wil best een stukje hollen...',?
+'“@RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace”    Ik ook Joost en kornuiten!',?
+'De @kickin_ut is ook druk bezig met de voorbereidingen voor de #batavierenrace! Super gedaan lieve buurmannen!! :D',?
+'Finish Batavierenrace verplaatst om regen http://t.co/gwlKJWKGLj #tvefm #enschede #bata @batavierenrace @bataradio #utnieuws',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'Nog een paar uurtjes en het #SynBataTeam14 passeert de start @Batavierenrace. Het #weer lijkt op te klaren! Alle Synergy lopers succes!',?
+'We wish all the luck to our runners at the Batavierenrace this weekend! http://t.co/SvdgC8B5XO',?
+'Finish Batavierenrace verplaatst door zware regenval #newslocker http://t.co/VYmEjNbwZx',?
+'Zo, onderweg naar Utrecht om te meeten met zus en team, daarna door naar de #batavierenrace!',?
+'Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'De campus stroomt langzaam vol. Iedereen lijkt klaar voor de Bata, nu het weer nog. #batavierenrace',?
+'Morgenavond naar het feest van de Batavierenrace in Enschede #eensmoetdeeerstekeerzijn #zinan',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'Op een reguliere vrijdagmiddag wordt Enschede massaal verlaten, nu stroomt het langzaam vol met studenten #batavierenrace',?
+'RT @Aeolusrun: Weer tijd voor de @Batavierenrace. Tijd om te strijden met Snot, \'team uit amsterdam\' en onbekende tegenstand voor t 4e over…',?
+'Morgen zal de finish van de 42e batavierenrace plaatsvinden op de Drienerlolaan ipv de Sintelbaan ivm het slechte weer!',?
+'RT @batainfobalie: Morgen zal de finish van de 42e batavierenrace plaatsvinden op de Drienerlolaan ipv de Sintelbaan ivm het slechte weer!',?
+'Finish Batavierenrace verplaatst door zware regenval http://t.co/F5pUikkUeF',?
+'RT @tuecursor: Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'Finish Batavierenrace verplaatst om regen | TV #Enschede FM: De finish van de Batavierenrace is dit jaar niet ... http://t.co/j9oZPeoy07',?
+'Oja, de #batavierenrace #vatenbierenrace dit weekend. Zie veel mensen uitstappen "op" Enschede Drienerlo. En dan nu: #WEEKEND!!!!',?
+'Sporten en feesten bij 42e Batavierenrace #newslocker http://t.co/7B2XaCbJHn',?
+'@Batavierenrace Gaat dit weer de hele nacht zo door?',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/xZjbSviNY2 #atletiek',?
+'RT @tuecursor: Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'TV Enschede Nieuws vr. 9 mei: coalitieakkoord bereikt, @batavierenrace start bijna en finaliste @jeugdjournaal http://t.co/KBwSL83Vsg #tvefm',?
+'@MauriceEssers zijn dat Batavierenrace truien waar jij op 11 januari een foto van hebt gepost?',?
+'Zo dadelijk op weg naar @Nijmegen om deel te nemen aan de @Batavierenrace.',?
+'Onderweg om te verzamelen met team \'RAPP\' voor de #batavierenrace! Vannacht 12,5 km hardlopen 😱.',?
+'Soort #Varsity voor hardlopen “@RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace”',?
+'En het is weekend! Zo op naar Enschede om morgen te shinen bij de @batavierenrace! Jammer dat ik niet kan finishen op de Sintelbaan...',?
+'RT @tuecursor: Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'#glanerbrug #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/fRkw4LQ9eu',?
+'#lonneker #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/gvOjHK5855',?
+'#usselo #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/NzqQWuNgy5',?
+'#boekelo #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/5QNnurOgG4',?
+'#rutbeek #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/yeBeUiMo0J',?
+'#enschede #fm Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/jzAsUoojLU',?
+'RT @RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace',?
+'We knallen het weekend in met @AudiopornNL en zo richting @Batavierenrace #sportief #b44r',?
+'@sanderbrinkhof zet hem op kerel!! En ren ze er allemaal uit ;) #batavierenrace',?
+'RT @EstherBeekhof: Op een reguliere vrijdagmiddag wordt Enschede massaal verlaten, nu stroomt het langzaam vol met studenten #batavierenrace',?
+'RT @losseveter: Sporten en feesten bij 42e Batavierenrace http://t.co/xZjbSviNY2 #atletiek',?
+'RT @tuecursor: Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'RT @Batavierenrace: De mannen die het wagenpark van de Batavierenrace coördineren zijn er al klaar voor! #bata #batavierenrace #susa http:/…',?
+'Ongeneeslijk geïnfecteerd met het Batavirus! Nog 6 uur te gaan... #batavierenrace #wp26',?
+'Hier start vanavond de #batavierenrace met rond de 350 teams! http://t.co/q4P7sWS7HK',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'Finish Batavierenrace verplaatst om regen | TV Enschede FM http://t.co/U17XbqRH1H',?
+'Op naar Nijmegen #batavierenrace met @rughanzeteam',?
+'Station vol studentes. Met rugzak. En sportschoenen. Tijd voor #Batavierenrace #hardlopen',?
+'RT @RUNijmegen: De Radboud Universiteit wenst alle Bata-lopers heel veel succes vanavond @Batavierenrace',?
+'De @Batavierenrace is voor de Topicanen gestart met een heerlijke BBQ. De eerste groep vertrekt zo naar Nijmegen! http://t.co/CG8D9NC07x',?
+'RT @ronr1200rt: @topicusbv @Batavierenrace maak er een mooie race van.',?
+'Op naar Enschede voor de batavierenrace!',?
+'Sintelbaan Univ. Twente staat blank; finish Batavierenrace verplaatst naar Drienerlolaan. Afstand wordt 7,1 km. http://t.co/f2mJGOuISZ',?
+'Vanavond controleren we bij/voor @batavierenrace de fietsverlichting van de teamfietsen voor de bijrijders. Vanwege de nachtelijke etappes.',?
+'RT @tuecursor: Heel veel succes op de #Batavierenrace voor alle studenten van @TUEindhoven! ^JvG',?
+'Het dondert en bliksemt harder dan ooit. Check even op Wikipedia wat de Batavierenrace is en heb medelijden met ons :(',?
+'@Jarla_p kom op Jarla! Laat zien wat de collega\'s van @FSW_UU in hun mars hebben! #powerwoman #fsw50 #batavierenrace',?
+'Met stress en chaos en een hoop regen zit 2/3e in de trein of bus voor de lange reis naar Enschede voor de @Batavierenrace !',?
+'Het Sportcentrum is er klaar voor!#batavierenrace',?
+'RT @BordeKock: Het dondert en bliksemt harder dan ooit. Check even op Wikipedia wat de Batavierenrace is en heb medelijden met ons :(',?
+'Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Alle lopers veel succes! En hopelijk houden we het een beetje droog. #bata14',?
+'Natuurlijk is UT Nieuws bij de 42ste @Batavierenrace. Volg ons op Twitter, http://t.co/DSwCDfLJP4 en via http://t.co/lKNxhZo0fZ. #bata14',?
+'Net als vorig jaar doen er weer een aantal fanatieke hardlopende Kannibalz mee aan de Batavierenrace!\nWeer of... http://t.co/A7dLFyJik2',?
+'@Froosje yep.  Ergens in het oosten van het land.  Hij is aanwezig als begeleider bij de batavierenrace.',?
+'RT @BordeKock: Het dondert en bliksemt harder dan ooit. Check even op Wikipedia wat de Batavierenrace is en heb medelijden met ons :(',?
+'@Dopjeoos zie https://t.co/r1iGbbGE0z',?
+'RT @UTNieuws: Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Alle lopers veel succes! En hopelijk houden we het een beetje…',?
+'RT @UTNieuws: Natuurlijk is UT Nieuws bij de 42ste @Batavierenrace. Volg ons op Twitter, http://t.co/DSwCDfLJP4 en via http://t.co/lKNxhZo0…',?
+'RT @UTNieuws: Natuurlijk is UT Nieuws bij de 42ste @Batavierenrace. Volg ons op Twitter, http://t.co/DSwCDfLJP4 en via http://t.co/lKNxhZo0…',?
+'Op de Bata-campings op de campus bereiden de lopers zich voor op \'een grote, gezellige waterpret\': http://t.co/S8dtDd3CiI #bata14 #bata2014',?
+'RT @UTNieuws: Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Alle lopers veel succes! En hopelijk houden we het een beetje…',?
+'Heren 3 is klaar voor de @Batavierenrace. # afstervenindenacht #teamvanhetjaar',?
+'Batavierenrace 2014, de 10e keer, dat US deelneemt, belooft weer een heroische editie te worden dankzij de weergoden.',?
+'Wat zijn wij blij dat wij niet in een tentje moeten slapen #batavierenrace',?
+'RT @HandbalUS: Batavierenrace 2014, de 10e keer, dat US deelneemt, belooft weer een heroische editie te worden dankzij de weergoden.',?
+'In het busje naar enschede! #batavierenrace #opgoedgeluk',?
+'RT @Tubanter: Hier start vanavond de #batavierenrace met rond de 350 teams! http://t.co/q4P7sWS7HK',?
+'Na design en cultuur nu de focus op sport! #batavierenrace #slotetappe',?
+'Ondanks de slechte weersvoorspellingen ben ik een beetje jaloers op alle deelnemers van de #batavierenrace, succes allemaal! #weemoed',?
+'De #Batavierenrace begint goed! De oorspronkelijke finish staat al onder water #letsgo',?
+'Met de Mesacosa Mix Nachtploeg naar de Batavierenrace 2014! Eens kijken of ik 2013 kan evenaren.. #my100happydays #19 http://t.co/JjN1ZHiBOw',?
+'And the first group is on its way to the @Batavierenrace #bata14 http://t.co/hBXGxN5T4Q',?
+'Op naar Enschede! :) #batavierenrace #lekkerweertje ☔️☔️',?
+'RT @SiriusEnschede: And the first group is on its way to the @Batavierenrace #bata14 http://t.co/hBXGxN5T4Q',?
+'Op weg naar \'n weekend hardlopen, slaaptekort, feest &amp; #Tohuwabohu bij de #Batavierenrace. Nu mn favo bassiste ophalen @elinebrandsema',?
+'Preparing for my first (uhuh) active participation in the #batavierenrace',?
+'#bata14 Tradities in Overijssel Batavierenrace http://t.co/bEDAXSJfuu http://t.co/8XA0vUgXGc',?
+'“@M_Buitenhuis: De #Batavierenrace begint goed! De oorspronkelijke finish staat al onder water #letsgo”heel apeldoorn staat nu onder water',?
+'Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Jara veel succes! En hopelijk houden jullie het een beetje droog. #bata14”',?
+'RT @UTNieuws: Natuurlijk is UT Nieuws bij de 42ste @Batavierenrace. Volg ons op Twitter, http://t.co/DSwCDfLJP4 en via http://t.co/lKNxhZo0…',?
+'Oefenen met orthopedische hulpmiddelen in Eindhoven http://t.co/vhqZx95vNF Zou er iemand meedoen? #bata14',?
+'RT @UTNieuws: Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Alle lopers veel succes! En hopelijk houden we het een beetje…',?
+'RT @Harriegerrits14: Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Jara veel succes! En hopelijk houden jullie het een be…',?
+'RT @UTNieuws: De @Batavierenrace finisht zaterdag niet zoals gebruikelijk op de sintelbaan op de campus, maar op de Drienerlolaan: http://t…',?
+'Op weg naar de #bata2014! Nu kijken of we het zonnetje kunnen toveren.',?
+'Batavierenrace 2014! Saturnus nachtploeg is klaar ervoor! 😁 http://t.co/nT5m4xvFQB',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer - http://t.co/nuR8u1aUGs #rtvoost',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/6jvmoc9Mso #nieuwsoverijssel #nieuws #provincie',?
+'Onderweg naar de batavierenrace. Meest onschuldige vragen van kinderen. "Zijn die rooie stoelen voor de chinezen?" Heb er zin in!',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/Kb3PRIEC0C #NieuwsOverijssel #Twente',?
+'Op weg naar Nijmegen, voor verslag Batavierenrace @runnersworldnl Hoop dat het opklaart. http://t.co/jpe6hSnJ9w',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/Y6ccNzDVQ1 geplaatst vorige tweet',?
+'Sterkte! MT @BordeKock: dondert en bliksemt harder dan ooit. Check even op Wikipedia wat de Batavierenrace is en heb medelijden met ons :(',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer #Door de grote hoeveelheid rege http://t.co/qATjJYTGxL',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer: http://t.co/cNJi0oPUhx #rtvoost',?
+'Regio nieuws: Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/tJR8Rqi1kz #hengelo #twente',?
+'Zo het tentje staat voor de @batavierenrace. Met dit weer beschik je dan snel over een overdekt zwembad! http://t.co/XPiMtY8TYA',?
+'OVERIJSSEL:  Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/ew49mGimEC',?
+'RT @rtvoost: Finish Batavierenrace in Enschede verplaatst door noodweer - http://t.co/nuR8u1aUGs #rtvoost',?
+'Finish Batavierenrace in #Enschede verplaatst door noodweer http://t.co/1U3SjCtnwc',?
+'RT @tvefm: TV Enschede Nieuws vr. 9 mei: coalitieakkoord bereikt, @batavierenrace start bijna en finaliste @jeugdjournaal http://t.co/KBwSL…',?
+'RT @topicusbv: Koop voor € 2,- een glow-in-the-dark-zonnebril  en steun daarmee de actie #Bata4Life @KWF_nl tijdens de @Batavierenrace',?
+'Finish @Batavierenrace in Enschede verplaatst door noodweer - http://t.co/dlmIXGKvC3 #rtvoost”',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer #newslocker http://t.co/CbgYJ59s11 http://t.co/mmCs7uZ6Fa',?
+'Oh hellup, dat weer.....succes en sterkte voor alle lopers van de #batavierenrace.',?
+'Wordt de @Batavierenrace al afgelast?',?
+'RT @MaaikePlatvoet: Oh hellup, dat weer.....succes en sterkte voor alle lopers van de #batavierenrace.',?
+'Wat een weer. Veel succes en sterkte toegewenst aan alle Bata-lopers, o.a  @PuckSanders #batavierenrace',?
+'Zo zeg, je zal maar moeten hardlopen en/of kamperen nu... \nSterkte voor alle bikkels van de #Batavierenrace!',?
+'Finish Batavierenrace in #Enschede verplaatst door noodweer: Door de grote hoeveelheid regen die in het begin ... http://t.co/u7A8rsjBLv',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/yyMViPApNn #salland #nieuws',?
+'@bataradio met live verslag van de @Batavierenrace is nu ook live op de #campus te luisteren via: http://t.co/I3GV0yAR1X #IPTV #UTwente',?
+'RT @TinekeG: Zo zeg, je zal maar moeten hardlopen en/of kamperen nu... \nSterkte voor alle bikkels van de #Batavierenrace!',?
+'@RobJetten dank! Wij gaan door weer en wind! #batavierenrace',?
+'RT @Harriegerrits14: Zo het tentje staat voor de @batavierenrace. Met dit weer beschik je dan snel over een overdekt zwembad! http://t.co/X…',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer: Door de grote hoeveelheid regen die in het begin v... http://t.co/U6nDOScc8S',?
+'Gelukkig is m\'n shirtje nu nog wel droog #batavierenrace #duidelijketaal',?
+'#nieuws Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/QcrAIbW2XY #enschede',?
+'Vanavond pre-bata party in de VB! Met speciale supersnacks in de keuken voor studentproof prijsjes :) #vestingbar #bata2014 #batavierenrace',?
+'Zou het de natste race aller tijden worden? #batavierenrace',?
+'Batavierenrace yeey !! #feestje',T
+'Op locatie: @Batavierenrace in Nijmegen met regenboog #batavierenrace #bata14 http://t.co/VfQYlzYY2M',?
+'Het calamiteitenplan trad al vaker in werking met de #batavierenrace: http://t.co/59c7dlDN0Y',?
+'Ik wens alle studenten die meedoen aan de @Batavierenrace heel veel succes met de estafetterun van #Nijmegen naar #Enschede',?
+'@__Pablito @Batavierenrace succes daar! Die regenboog brengt vast veel, eh, droog weer.',?
+'@mvdm84 Truien waarmee wbw377laag de Batavierenrace en de Veluweloop liep. Op achterkant de logo-Batavier achtervolgt door Logo-Veluwe-zwijn',?
+'Ook de pannenkoekenbakkers maken zich klaar voor de #batavierenrace ! Wordt een culinaire estafette!',?
+'Dit weekend werken we samen met @UTNieuws #batavierenrace . Check http://t.co/n8NWP4XIeM en http://t.co/D23zFLsFmP Nog 3,5 uur tot de start!',?
+'@bastiaanforever zie al mijn RT en vorige tweets! We wensen de batvieren suc6 maar ook sterkte #bata14',?
+'RT @VoxNieuws: Dit weekend werken we samen met @UTNieuws #batavierenrace . Check http://t.co/n8NWP4XIeM en http://t.co/D23zFLsFmP Nog 3,5 u…',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer: Door de grote hoeveelheid regen die in het begin v... http://t.co/CeN8NwpfQh',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer: Door de grote hoeveelheid regen die in het begin v... http://t.co/a9q5FvvKHE',?
+'RT @VoxNieuws: Dit weekend werken we samen met @UTNieuws #batavierenrace . Check http://t.co/n8NWP4XIeM en http://t.co/D23zFLsFmP Nog 3,5 u…',?
+'RT @VoxNieuws: Dit weekend werken we samen met @UTNieuws #batavierenrace . Check http://t.co/n8NWP4XIeM en http://t.co/D23zFLsFmP Nog 3,5 u…',?
+'RT @VoxNieuws: Dit weekend werken we samen met @UTNieuws #batavierenrace . Check http://t.co/n8NWP4XIeM en http://t.co/D23zFLsFmP Nog 3,5 u…',?
+'#twente #nieuws Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/lYixXED8xx',?
+'#twente #rtvoost Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/EGXM9Lsvbi',?
+'Klaar voor de #batavierenrace ! #Nijmegen #enschede http://t.co/tM17mr3edC',?
+'Ik rende met @Biton 30jaar geleden mee: @Batavierenrace zo leerde in #Gelderland en #Twente kennen: nu Statenlid namens @d66gelderland',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer http://t.co/8a19Ic1GRF #nieuws #overijssel',?
+'N.S.Z.V. De Loefbijter wenst haar eigen lopers tijdens de @Batavierenrace veel succes toe!',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer - Door de grote hoeveelheid regen die in het begin van ... http://t.co/UJkY8tP0Jm',?
+'RT @Twentsnieuws: Finish Batavierenrace in Enschede verplaatst door noodweer - Door de grote hoeveelheid regen die in het begin van ... htt…',?
+'#bata14 voor alle batavieren Toi toi toi en laat deze voicekid je moed inzingen! #Talent2012 http://t.co/bBr8HkMu5s op naar morgen',?
+'RT @topicusbv: De @Batavierenrace is voor de Topicanen gestart met een heerlijke BBQ. De eerste groep vertrekt zo naar Nijmegen! http://t.c…',?
+'Na 5 keer @Batavierenrace voor het eerst sinds tijden niét meelopen. Normaal goed, nu #rotweer...Sterkte jongens! Tot bij het feest. ;)',?
+'Sporten en feesten bij 42e Batavierenrace http://t.co/u8OdEsWoj0 http://t.co/HTM3HaVgch',?
+'De nachtploeg is gearriveerd in Nijmegen! Download de Bata app en volg Syntaxis op de voet tijdens de #batavierenrace',?
+'RT @UTNieuws: Natuurlijk is UT Nieuws bij de 42ste @Batavierenrace. Volg ons op Twitter, http://t.co/DSwCDfLJP4 en via http://t.co/lKNxhZo0…',?
+'RT @UTNieuws: Over ruim vijf uur begint in Nijmegen de 42ste @Batavierenrace. Alle lopers veel succes! En hopelijk houden we het een beetje…',?
+'Onderweg naar de 42e Batavierenrace! http://t.co/e4Yqq8GQkQ',?
+'Wekker gezet. Hopelijk houden we het droog vannacht #batavierenrace http://t.co/jB7KP4gqaa',?
+'@Batavierenrace Hebben jullie de #batafie al geïntroduceerd? http://t.co/lYpyOeFK1j',?
+'RT @SVSyntaxis: De nachtploeg is gearriveerd in Nijmegen! Download de Bata app en volg Syntaxis op de voet tijdens de #batavierenrace',?
+'RT @Rameneiro: Op weg naar Nijmegen, voor verslag Batavierenrace @runnersworldnl Hoop dat het opklaart. http://t.co/jpe6hSnJ9w',?
+'RT @topicusbv: De @Batavierenrace is voor de Topicanen gestart met een heerlijke BBQ. De eerste groep vertrekt zo naar Nijmegen! http://t.c…',?
+'Morgen de batavierenrace!! 7,5 km lopen. komt dat zien!!',?
+'Morgen de batavierenrace!! vanaf 11 uur in Barchem. Komt dat zien!',?
+'Onze collega\'s van @VoxNieuws maakten vanmiddag deze reportage over de laatste voorbereidingen op de @Batavierenrace: http://t.co/r3aqS81snO',?
+'In Nijmegen gearriveerd met het topteam @interactief voor de #Batavierenrace! #zinin http://t.co/USLQCHO37R',?
+'RT @TinekeG: Zo zeg, je zal maar moeten hardlopen en/of kamperen nu... \nSterkte voor alle bikkels van de #Batavierenrace!',?
+'Jaja, #Batavierenrace #D66 #JongeDemocraten Vooruit met Europa! #EU14 http://t.co/20po3efrCg',?
+'Wij wensen alle @Batavierenrace lopers een goede en droge nacht toe! Tot morgen in #Enschede!!! #lijn7 #gaseropdakeraf',?
+'RT @MaaikePlatvoet: Zou het de natste race aller tijden worden? #batavierenrace',?
+'To all runners and organizers of the #batavierenrace good luck and good fun!\nAnd special cheers to all TNW-participants! #hup #utwente',?
+'@Batavierenrace best of luck to the team from @imperialcollege in the race!!',?
+'@Jvreeman @Batavierenrace have Fun',?
+'Just completed a 12.40 km run - 12,5K etappe in Batavierenrace gelopen in 56 minuten! WILLEN=KUNNEN http://t.co/IS283nizcn #RunKeeper',?
+'Good morning to our runners at the Batavierenrace! http://t.co/c8OzwlkjQl',?
+'RT @Pfreedman1984: 12.5k run and one hour sleep in total at the @Batavierenrace . Next runner about  to start! Mad but and experience!',?
+'Good luck to the runners and supporters @Batavierenrace #running #outdoor',?
+'12.5k run and one hour sleep in total at the @Batavierenrace . Next runner about  to start! Mad but and experience!',?
+'No sleep, 1/3rd relay complete, much travelling to go #batavierenrace #stress #teamIC http://t.co/aeplidCihy',?
+'Running two laps in the #batavierenrace today - very excited!',?
+'Aaaand we\'re off!! Asset IB&amp;M @Batavierenrace Good luck everybody! http://t.co/wIVlIfRLo4',?
+'batavierenrace? no thank you',F
+'I also got the mother\'s day presents which is good. my siblings didn\'t have time because they\'re running the batavierenrace this weekend',?
+'Brand in touringcar onderweg naar Batavierenrace | TV #Enschede FM: Een touringcar voor de Batavierenrace in #... http://t.co/n8qUdbvbLt',?
+'@OmroepGLD Waaronder mijn zoon Frank. #Batavierenrace',?
+'Opbouw wisselpunt Batavierenrace bij de Grolsch http://t.co/fhFsthml55',?
+'Mocht je je afvragen hoeveelste editie van de Bata dit is... #bata14 http://t.co/RLnLwAaNMg',?
+'Persoonlijk record gelopen met de #batavierenrace! 9,5 km in een kleine 47 minuten. Wat een organisatie, voor en door studenten! #gaaf',T
+'@HinkeMulder @Batavierenrace dankje!',?
+'Ondertussen heeft de boog het begeven in Barchem. Maar goed dat herstart 1/2 uur uitgesteld is. #bata14 http://t.co/1u9aVacCZQ',?
+'Rondje gelopen over de batacamping. Vanmiddag is mijn repo te lezen op @VoxNieuws en @UTNieuws. #bata14 http://t.co/fMxM4ml7WV',?
+'Onderweg naar Utrecht! Zo met het #SUSAsnel VIP loopteam van @susastudenten richting Enschede naar @batavierenrace #batavierenrace',?
+'Stilte voor de storm. RT @J_Meijerink het was nog erg stil op de campus. http://t.co/ecHpE3BE90 #bata14',?
+'RT @Peter_Colijn: Opbouw wisselpunt Batavierenrace bij de Grolsch http://t.co/fhFsthml55',?
+'#krijtcampagne voor @topicusbv @Batavierenrace http://t.co/fVmb0rJuBe',?
+'#krijtcampagne voor @topicusbv tijdens @Batavierenrace . Ook @maphevents ! http://t.co/g4Mjk3X2EA',?
+'RT @geepje: De @Batavierenrace is in volle gang! Het #erasmusuni team heeft de nodige km\'s in de benen. Op naar de finish! http://t.co/qp99…',?
+'RT @PuckSanders: Persoonlijk record gelopen met de #batavierenrace! 9,5 km in een kleine 47 minuten. Wat een organisatie, voor en door stud…',T
+'RT @michielwolbers: Het blijft een waanzinnig mooi fenomeen de @Batavierenrace !! Genieten weer!',T
+'Zelf ben ik in Friesland vanwege werk alleen wat hebben de @SAProto lopers voor de Batavierenrace een klote weer... #bata14',?
+'RT @Jvreeman: Stilte voor de storm. RT @J_Meijerink het was nog erg stil op de campus. http://t.co/ecHpE3BE90 #bata14',?
+'RT @TinekeG: Genoeg bier hier!\n#batavierenrace #bata14 #CampusUT http://t.co/OcJ8hl8wW6',?
+'RT @PuckSanders: Persoonlijk record gelopen met de #batavierenrace! 9,5 km in een kleine 47 minuten. Wat een organisatie, voor en door stud…',T
+'RT @achterhoek_foto: #Vorden: 42e editie van de #Batavierenrace via de #Achterhoek naar #Enschede. Foto\'s op: http://t.co/fBWOgPuyPe http:/…',?
+'RT @TinekeG: Genoeg bier hier!\n#batavierenrace #bata14 #CampusUT http://t.co/OcJ8hl8wW6',?
+'RT @michielwolbers: Het blijft een waanzinnig mooi fenomeen de @Batavierenrace !! Genieten weer!',T
+'#glanerbrug #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/IYmifsWnT9',A
+'#lonneker #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/t5s7wklzhK',A
+'#usselo #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/xIifz90pC3',A
+'#boekelo #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/vvljvoSaEc',A
+'#rutbeek #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/Efjz3KayJB',A
+'#enschede #fm Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/jajcKBE1Qz',A
+'De herstarts zijn een half uur opgeschoven. Reden: de bewegwijzering was niet overal in orde. http://t.co/jT9KaIQU3i #Bata14”',F
+'RT @enschede: Vanmiddag Oude Markt #Enschede @Batavierenrace! Let op: geen fietsen op de Oude Markt maar in bewaakte fietsenstalling Kruisp…',?
+'RT @ThijmenKetel: Kan die klere herrie uit op het camping terrein! Proberen mensen te slapen.. #bata14 #bataradio',F
+'RT @emileuitapeldoo: Mag de nachtploeg niet slapen?????? #bataradio #bata14',F
+'RT @TinekeG: Genoeg bier hier!\n#batavierenrace #bata14 #CampusUT http://t.co/OcJ8hl8wW6',?
+'#Hack42 secretaris @PPvG gespot tijdens de @Batavierenrace https://t.co/KJgtVO9qOH #Verzorgingsploeg #BATA #Batavierenrace #757 #BATA14 #42',?
+'RT @J_Meijerink: Rondje gelopen over de batacamping. Vanmiddag is mijn repo te lezen op @VoxNieuws en @UTNieuws. #bata14 http://t.co/fMxM4m…',?
+'#bata14 Quite happy with my performance, ran 2 stages with total distance 17,6 km. Great fun; now: shower!',?
+'RT @enschede: Vanmiddag Oude Markt #Enschede @Batavierenrace! Let op: geen fietsen op de Oude Markt maar in bewaakte fietsenstalling Kruisp…',?
+'Verzwik nooit meer je enkel! Kom vanmiddag naar EXO-L en @renepolman  op de #bata14 in #Enschede!',?
+'RT @Batavierenrace: De #Topicus herstart om 12 uur was een succes! #batavierenrace #bata http://t.co/b7ba8fCdeu',?
+'Vandaag staan we bij de finish van de batavierenrace te Enschede! Komt u ons ook opzoeken?\n#batavierenrace #HANFEM #SBRMHAN',?
+'Batavierenrace 2014: vannacht om 0:00 begonnen en nog steeds gaan we door! Slapen doen we later wel.',?
+'Door wind en regen én zelfs met boomstam niet te stoppen! #held #bata #batavierenrace #SUSA http://t.co/Xc8XWtvLGE',?
+'Tip! "@ExoLigament: Verzwik nooit meer je enkel! Kom vanmiddag naar EXO-L en @renepolman  op de #bata14 in #Enschede!” #blessureinfo',?
+'RT @Batavierenrace: Door wind en regen én zelfs met boomstam niet te stoppen! #held #bata #batavierenrace #SUSA http://t.co/Xc8XWtvLGE',?
+'Slapen??? Kan die herrie niet uit uit? Want de nachtploeg doet zo geen oog dicht #bata14 #bataradio',F
+'Maak bij EXO-L een 3D-scan van je enkel en maak kans op een gratis externe enkelband op de #bata14! Elke 100ste scan wint! @blessure_info',?
+'Daar zit je dan, in de regen te wachten op de Oude Markt. #bata14 http://t.co/D4cv84pcum',?
+'Lopers @Batavierenrace in St. #Isidorushoeve. @tvefm http://t.co/pBedhFtHkV',?
+'Wat een vreselijk weer voor de batalopers dit jaar! Respect voor die toppers die doorzetten en er voor gaan! #batavierenrace #Enschede',?
+'RT @Franklnn: Lopers @Batavierenrace in St. #Isidorushoeve. @tvefm http://t.co/pBedhFtHkV',?
+'RT @ExoLigament: Verzwik nooit meer je enkel! Kom vanmiddag naar EXO-L en @renepolman  op de #bata14 in #Enschede!',?
+'RT @blessure_info: Tip! "@ExoLigament: Verzwik nooit meer je enkel! Kom vanmiddag naar EXO-L en @renepolman  op de #bata14 in #Enschede!” #…',?
+'Het #SUSAsnel VIP hardloopteam is klaar voor de @Batavierenrace ! #batavierenrace http://t.co/RmeO3eykUB',?
+'RT @UTNieuws: Daar zit je dan, in de regen te wachten op de Oude Markt. #bata14 http://t.co/D4cv84pcum',?
+'RT @RabobankEH: Wij wensen alle lopers van de @Batavierenrace heel veel succes!! #bata14',?
+'RT @UTNieuws: Daar zit je dan, in de regen te wachten op de Oude Markt. #bata14 http://t.co/D4cv84pcum',?
+'De verslaggevers van @UTNieuws zijn De Kater ingevlucht. Wat een koude natte #bata14.',?
+'Reünieteam @alo_de_haan #183 gaat als de brandweer bij @Batavierenrace Pressurecooker=on voor slotetappe! Bammetjeeee',?
+'RT @SUSAstudenten: Het #SUSAsnel VIP hardloopteam is klaar voor de @Batavierenrace ! #batavierenrace http://t.co/RmeO3eykUB',?
+'De verslaggevers van @UTNieuws zijn De Kater ingevlucht. Wat een koude natte #bata14.”',?
+'Zo mijn 7,2 km #batavierenrace zitten er op. Ging lekker in lichte regen en wind.',?
+'RT @UTNieuws: De verslaggevers van @UTNieuws zijn De Kater ingevlucht. Wat een koude natte #bata14.',?
+'Ontzettend veel pech voor @utsaxionteam #bata14. Podiumplek passé. Straks details online op http://t.co/DSwCDfLJP4',?
+'RT @UTNieuws: Ontzettend veel pech voor @utsaxionteam #bata14. Podiumplek passé. Straks details online op http://t.co/DSwCDfLJP4',?
+'De medewerkers van de #batavierenrace hebben het heel koud, maar werken stug door. #hulde.',?
+'Zo richting #oudemarkt om vanaf een droog terras de compleet verregende lopers van de #batavierenrace te aanschouwen #bata14 #bataradio',?
+'Helaas kan onze collegevoorzitter Victor van der Chijs zijn vuurdoop op de #bata14 niet meemaken.  Hij is verhinderd.',?
+'RT @UTNieuws: Daar zit je dan, in de regen te wachten op de Oude Markt. #bata14 http://t.co/D4cv84pcum',?
+'RT @VoxNieuws: Mocht je je afvragen hoeveelste editie van de Bata dit is... #bata14 http://t.co/RLnLwAaNMg',?
+'RT @MaaikePlatvoet: De medewerkers van de #batavierenrace hebben het heel koud, maar werken stug door. #hulde.',?
+'"@rtvoost: Lopers Batavierenrace onderweg naar Enschede - http://t.co/qSI0Hr0TVk #rtvoost" Allemaal heel veel succes ondanks slechte weer!!!',?
+'#bata14 op reserve x2 http://t.co/z27uJO9WEZ',?
+'Waar zijn de Batavieren nu? #batavierenrace',?
+'Brand in touringcar onderweg naar Batavierenrace | TV Enschede FM http://t.co/ZafTQUNWve',A
+'Hoe het vanmiddag op de Batacamping was? Dat lees je hier. http://t.co/jRtmua1ujf #bata14',?
+'Zo, vannacht 10km in 47,58 bij #batavierenrace en zojuist met @kvrigtersbleek 2 16-9 gewonnen van Mid Fryslan. #fransoff #powernap',?
+'#bata14 Nat en koud #parcourbeschermers http://t.co/jU6JYUW3qv',?
+'RT @Batavierenrace: De #Topicus herstart om 12 uur was een succes! #batavierenrace #bata http://t.co/b7ba8fCdeu',?
+'Ik heb nu heel veel medelijden met de Bata-LiNK\'ers. Verzopen katjes... #Batavierenrace',?
+'Eerste damesloper is binnen op de Oude Markt! Team Peter! Van de VU. #bata14',?
+'Ons krijgen ze niet meer gek! #batavierenrace #bataradio http://t.co/Euq32pYoXN',?
+'#oudemarkt #bata14 http://t.co/cUybfQreJ3',?
+'Wow! De Horsthollers doen het supergoed tot nu toe! De spanning stijgt #batavierenrace #slotetappe',?
+'RT @RabobankEH: Wij wensen alle lopers van de @Batavierenrace heel veel succes!! #bata14',?
+'@utnieuws heeft persvoorlichter Frans van der Veeken gestrikt. We laten hem even opwarmen met een cappuccino. #bata14 http://t.co/mIA8TKgWpn',?
+'RT @UTNieuws: Eerste damesloper is binnen op de Oude Markt! Team Peter! Van de VU. #bata14',?
+'RT @Batavierenrace: START! #batavierenrace #2014 http://t.co/B8sb4OUHfw',?
+'@UTNieuws op de hoogte van dat er veel oud Kronos leden meedoen aan de #batavierenrace? Studenten uit de jaren zeventig. Artikel waard?',?
+'Eerste damesloper is binnen #bata14 http://t.co/6ocEy5q53Z',?
+'RT @VoxNieuws: Hoe het vanmiddag op de Batacamping was? Dat lees je hier. http://t.co/jRtmua1ujf #bata14',?
+'RT @VoxNieuws: Mocht je je afvragen hoeveelste editie van de Bata dit is... #bata14 http://t.co/RLnLwAaNMg',?
+'Dienst tijdens de #batavierenrace in #053. Goede organisatie, helaas slecht weer. Wel gezellig op de Oude Markt',T
+'#bata14 http://t.co/omLmfUs5jw',?
+'RT @Jurrie2465: Dienst tijdens de #batavierenrace in #053. Goede organisatie, helaas slecht weer. Wel gezellig op de Oude Markt',T
+'#batavierenrace #snelfie #viploop http://t.co/uP54fn9w37',?
+'#snelfie \n#batavierenrace  #SUSA #VIPloop @SUSAbedrijven @SUSAstudenten http://t.co/9N1r5hCHj7',?
+'Wat een tijden!! @DEMCON zit vol in de (op dit moment natte) @Batavierenrace, laatste etappes komen in zicht! #superteam',?
+'Gisteravond met @FB_Nijmegen ervoor gezorgd dat alle fietsers in de @Batavierenrace goed verlicht zijn. Geen overbodige luxe met dit weer!',?
+'RT @JoeyvanMaanen: #bata14 http://t.co/omLmfUs5jw',?
+'RT @ManfredGeisink: #krijtcampagne voor @topicusbv tijdens @Batavierenrace . Ook @maphevents ! http://t.co/g4Mjk3X2EA',?
+'RT @topicusbv: Collega\'s lopen nu op de campus. Doneer 2€ en ontvang een coole bril tegen de felle zon! Opbrengst gaat naar #bata4life @bat…',?
+'In de #batavierenrace twee etappes hardgelopen met #kronos. Vroeger kronaut nu kronoud http://t.co/C6VO8sdCDK',?
+'7,2 km in 38 minuten met 11,4 km/u! #bata14',?
+'RT @topicusbv: Collega\'s lopen nu op de campus. Doneer 2€ en ontvang een coole bril tegen de felle zon! Opbrengst gaat naar #bata4life @bat…',?
+'RT @VoxNieuws: Mocht je je afvragen hoeveelste editie van de Bata dit is... #bata14 http://t.co/RLnLwAaNMg',?
+'#bata14 voor @MarcoBorger1 http://t.co/wBlissRmtY',?
+'#bata14 laatste loodjes http://t.co/fnbAFIT77r',?
+'#bata14 zakelijk instinct spreekt me aan. #foto #susa http://t.co/09aCp8X7Zd',?
+'RT @Jurrie2465: Dienst tijdens de #batavierenrace in #053. Goede organisatie, helaas slecht weer. Wel gezellig op de Oude Markt',T
+'RT @ExoLigament: Maak bij EXO-L een 3D-scan van je enkel en maak kans op een gratis externe enkelband op de #bata14! Elke 100ste scan wint!…',?
+'RT @VoxNieuws: Hoe het vanmiddag op de Batacamping was? Dat lees je hier. http://t.co/jRtmua1ujf #bata14',?
+'@HansNijenhuis Joh, ga de @Batavierenrace volgen. Veel leuker dan zo\'n marathon.',T
+'De redactie van @UTNieuws is terug op de campus. Er wordt hard gewerkt aan een update van #bata14 , inclusief interview met Aeolus.',?
+'Dochter Line loopt met #asac Amsterdam mee met @Batavierenrace #trotsoptwente http://t.co/nTsP3PnD0u',?
+'Wie durft de buienradar nog ff te checken? Zijn de weergoden ons straks gunstig gezind bij de finish op de campus? #bata14',?
+'@mwibbels Dank je. Vier uur slapen later zijn we er weer voor de finish... #magderegenuit? #batavierenrace',?
+'RT @UTNieuws: Wie durft de buienradar nog ff te checken? Zijn de weergoden ons straks gunstig gezind bij de finish op de campus? #bata14',?
+'RT @UTNieuws: Wie durft de buienradar nog ff te checken? Zijn de weergoden ons straks gunstig gezind bij de finish op de campus? #bata14',?
+'#batavierenrace #Enschede Het centrum loopt vol. Natte boel hier. http://t.co/BSuXgKGhS8',?
+'We zijn gewoon met z\'n zessen hier aan het werk op de redactie! Bikkels! Gezellig! #bata14',?
+'Wat een bikkels, alle lopers en vrijwilligers van de #bata2014, HULDE!',T
+'Ondanks regen \'gezellig\' druk op oude markt. Hulde aan alle renners, fietsers,  motorrijders &amp; bata-crew! #bata14 #batavierenrace #utwente',?
+'RT @VoxNieuws: Mocht je je afvragen hoeveelste editie van de Bata dit is... #bata14 http://t.co/RLnLwAaNMg',?
+'RT @MaaikePlatvoet: Waarom is #bata14 of #batavierenrace eigenlijk niet trending topic? Of zijn ze druk met hardlopen?',?
+'RT @topicusbv: Collega\'s lopen nu op de campus. Doneer 2€ en ontvang een coole bril tegen de felle zon! Opbrengst gaat naar #bata4life @bat…',?
+'Bijna starten als 15 minutenfietser voor de #batavierenrace! Zijn de dames ook al klaar?',?
+'RT @MiriamLuizink: Wat een bikkels, alle lopers en vrijwilligers van de #bata2014, HULDE!',T
+'RT @MaaikePlatvoet: We zijn gewoon met z\'n zessen hier aan het werk op de redactie! Bikkels! Gezellig! #bata14',?
+'RT @Tubanter: @UTNieuws op de hoogte van dat er veel oud Kronos leden meedoen aan de #batavierenrace? Studenten uit de jaren zeventig. Arti…',?
+'Ondanks het weer straks bij de finish ijsjes uitdelen aan alle motorrijders! #bata14 #batavierenrace',?
+'Trots op onze sportieve dochter: meegedaan aan de #Batavierenrace! Doorweekt maar voldaan. Nu nog een nacht in het tentje?',?
+'RT @EstherBeekhof: Ondanks het weer straks bij de finish ijsjes uitdelen aan alle motorrijders! #bata14 #batavierenrace',?
+'RT @MiriamLuizink: Wat een bikkels, alle lopers en vrijwilligers van de #bata2014, HULDE!',?
+'@tuecursor @wtbtue verzamelen op de Markt Enschede voor de laatste etappe #Batavierenrace! http://t.co/AnXOTk2xen',?
+'RT @MiriamLuizink: Wat een bikkels, alle lopers en vrijwilligers van de #bata2014, HULDE!',?
+'#Batavierenrace Laatste etappe!!! http://t.co/iLqJ1Y15oQ',?
+'#bata14 tussendoortweet  Heertje: De meeste economen denken dat hun vak waardeloos is http://t.co/7efEQAPjEs http://t.co/iCNPBidnpb',?
+'RT @UTNieuws: De redactie van @UTNieuws is terug op de campus. Er wordt hard gewerkt aan een update van #bata14 , inclusief interview met A…',?
+'Fietser Harm is na 180 km over de finish! #bata14 #bikkel! http://t.co/ou35CuhEZn',?
+'In afwachting.....finish #bata14 http://t.co/LjmuXSOX7o',?
+'Ondanks de regen groot feest bij de finish van de batavierenrace. http://t.co/XwZdTAmThy',?
+'RT @UTNieuws: In afwachting.....finish #bata14 http://t.co/LjmuXSOX7o',?
+'@tuecursor @wtbtue De laatste etappe van de #Batavierenrace http://t.co/HhAJB9764m',?
+'RT @UTNieuws: Fietser Harm is na 180 km over de finish! #bata14 #bikkel! http://t.co/ou35CuhEZn',?
+'RT @UTNieuws: In afwachting.....finish #bata14 http://t.co/LjmuXSOX7o',?
+'RT @UTNieuws: In afwachting.....finish #bata14 http://t.co/LjmuXSOX7o',?
+'Ook aan de Drienerlolaan is de finish #batavierenrace mooi! #bata14 http://t.co/6YAGquhcXz',T
+'@idzega1 Batavierenrace ;) Grootste studentenestafettewedstrijd ter wereld, van Nijmegen naar Enschede! Ik liep een etappe van 7.3 km :)',?
+'Vanavond een heerlijk feestje bouwen voor alle HELDEN van de batavierenrace! We hebben knuffels mee als beloning! http://t.co/TUcAsO7VMm',?
+'Enschede - Arnhem: van de Batavierenrace naar Vitesse - FC Groningen. Ga helaas wel 25 minuten te laat komen. 🚆#fcgroningen',?
+'RT @__Pablito: Ook aan de Drienerlolaan is de finish #batavierenrace mooi! #bata14 http://t.co/6YAGquhcXz',T
+'In afwachting.....finish #bata14 http://t.co/A14YCfWG2F”',?
+'Zet m op allemaal!"@UTNieuws: In afwachting.....finish #bata14 http://t.co/sFZxPemqKz"',?
+'Op de campus in Enschede vindt nu de finish van de Batavierenrace plaats. Zelf ook etappe van 9.5 km gedaan. http://t.co/1CWihqrhqS',?
+'RT @pimfij: Ondanks de regen groot feest bij de finish van de batavierenrace. http://t.co/XwZdTAmThy',T
+'RT @HOUSEDIEREN: Vanavond een heerlijk feestje bouwen voor alle HELDEN van de batavierenrace! We hebben knuffels mee als beloning! http://t…',?
+'Lopers Batavierenrace onderweg naar #Enschede: De eerste vijftig lopers zijn begonnen aan de 42ste Batavierenr... http://t.co/Q0JoLh2ZGD',?
+'RT @pimfij: Ondanks de regen groot feest bij de finish van de batavierenrace. http://t.co/XwZdTAmThy',T
+'RT @__Pablito: Ook aan de Drienerlolaan is de finish #batavierenrace mooi! #bata14 http://t.co/6YAGquhcXz',T
+'Wauw wat was de #Batavierenrace mooi! Helaas erg last van m\'n blessure, maar alsnog 10 km/u gerend. Volgend jaar sneller en blessureloos!',T
+'Hoe zou het vandaag met onze atleten zijn gegaan tijdens de #batavierenrace?\nAmy, Ingrid en Edwin lopend en Christopheopop de fiets.',?
+'Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/vQ6sGnl27O',?
+'RT @pimfij: Ondanks de regen groot feest bij de finish van de batavierenrace. http://t.co/XwZdTAmThy',T
+'Proficiat Grunn!\n\n“@UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/sFWSevVZlQ”',?
+'Zo, na 22 met de motor, 400 km en 32 uur zonder slaap gaat het kaarsje doven. Geslaagde @Batavierenrace #nijmegen #enschede #motard #truste',?
+'Dochterlief #Line voorop bij rondje om kerk bij laatste etappe #bata2014 En rond in 27 minuten, sterk!!! http://t.co/DMt6kYWPOo',?
+'Finish #Batavierenrace! Erg nat! #bata4life #kwf http://t.co/Zc3PHuFtGj',?
+'RT @pimfij: Ondanks de regen groot feest bij de finish van de batavierenrace. http://t.co/XwZdTAmThy',T
+'Groningen heeft de universiteitscompetitie van de @Batavierenrace gewonnen, Nijmegen is 2e geworden - http://t.co/8cqWoUzH6P #Bata14',?
+'Binnen! Laat het feest beginnen #batavierenrace http://t.co/5dxkTw7qeA',?
+'RT @UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/vQ6sGnl27O',?
+'RT @UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/vQ6sGnl27O',?
+'Nijmegen tweede 42e editie Batavierenrace: De hardlopers van de Rijksuniversiteit Groningen en de... http://t.co/jl5lCAQIQl #nultweevier',?
+'RT @UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/vQ6sGnl27O',?
+'Geen woord kwam op papier, de inkt liep uit. Zo hard regende het tijdens de finish van de #bata14. Maar gezellig was het wel!',T
+'Het Groningse Universiteitsteam wint de 42e Batavierenrace. Nijmegen en Eindhoven zijn 2 en 3. Aeolus wint het Algemeen Klassement.',?
+'RT @VrijhofUTwente: Proficiat Grunn!\n\n“@UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/sFWSevVZlQ”',?
+'RT @Batavierenrace: Het Groningse Universiteitsteam wint de 42e Batavierenrace. Nijmegen en Eindhoven zijn 2 en 3. Aeolus wint het Algemeen…',?
+'Anoek dicht bij de finish van de batavierenrace! http://t.co/FM1YO1U0x2',?
+'RT @Batavierenrace: Het Groningse Universiteitsteam wint de 42e Batavierenrace. Nijmegen en Eindhoven zijn 2 en 3. Aeolus wint het Algemeen…',?
+'Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'RT @VrijhofUTwente: Proficiat Grunn!\n\n“@UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/sFWSevVZlQ”',?
+'\'Team Eindhoven\' was the fastest student team from Eindhoven in the General Classification @Batavierenrace finishing 7th.',?
+'Zonder diep te gaan maar te genieten. Nog niet topfit, maar op de weg terug! Fijn gevoel en echt genoten. #comeback #batavierenrace (2/2)',T
+'Ook aan de Drienerlolaan is de finish #batavierenrace mooi! #bata14 http://t.co/edRzyZ1Jtv”',T
+'RT @UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/vQ6sGnl27O',?
+'Lopers Batavierenrace onderweg naar #Enschede: De eerste vijftig lopers zijn begonnen aan de 42ste Batavierenr... http://t.co/56InTalqjU',?
+'RT @VrijhofUTwente: Proficiat Grunn!\n\n“@UTNieuws: Dit zijn ze! De winnaars van de #bata14! Groningen! http://t.co/sFWSevVZlQ”',?
+'Ook de organisatie van het topteam van @vgst gaat tot het uiterste. Een voorlopig 27e plek voor ons! #batavierenrace http://t.co/SOiPXmAQpK',?
+'ENGLISH. Overview Batavierenrace. Bad weather and unfortunate accidents. http://t.co/ZaqqrTDhje',?
+'RT @SSCEindhoven: \'Team Eindhoven\' was the fastest student team from Eindhoven in the General Classification @Batavierenrace finishing 7th.',?
+'RT @raymond_bouwman: In de #batavierenrace twee etappes hardgelopen met #kronos. Vroeger kronaut nu kronoud http://t.co/C6VO8sdCDK',?
+'Proficiat met derde plek!  @SSCEindhoven: Team Tu/e-Fontys  @Batavierenrace.  Zijn jullie al weer droog? ^NS',?
+'Korten ze de etappe in, heel m\'n schema in de war ;) Maar m\'n team niet teleurgesteld. 11,6 gem in eigen meting. #batavierenrace',?
+'RT @Harriegerrits14: Ook aan de Drienerlolaan is de finish #batavierenrace mooi! #bata14 http://t.co/edRzyZ1Jtv”',?
+'Niek heeft de laatste etappe van de #bata14 gewonnen. Het RUG/Hanze @RunnersworldGr team, met inbreng van T4M atleten won de race! #winnen',?
+'RT @tuecursor: Proficiat met derde plek!  @SSCEindhoven: Team Tu/e-Fontys  @Batavierenrace.  Zijn jullie al weer droog? ^NS',?
+'#bata14 Het bekende beeld van 10-05-2014 http://t.co/Q3gN0GkzbR',?
+'Het universiteitsteam van Groningen wint de 42ste #batavierenrace: Groningen is back! - UT Nieuws http://t.co/FNnZSB0Oln',?
+'Gronings team wint Batavierenrace http://t.co/24sLmhBEaU #tvefm #enschede #batavierenrace #utwente @aeolusrunningteam',?
+'RT @UTNieuws: ENGLISH. Overview Batavierenrace. Bad weather and unfortunate accidents. http://t.co/ZaqqrTDhje',?
+'RT @UTNieuws: ENGLISH. Overview Batavierenrace. Bad weather and unfortunate accidents. http://t.co/ZaqqrTDhje',?
+'RT @UTNieuws: Het universiteitsteam van Groningen wint de 42ste #batavierenrace: Groningen is back! - UT Nieuws http://t.co/FNnZSB0Oln',?
+'RT @SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'RT @SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'Universiteitsteam #Groningen wint 42ste #Batavierenrace \nhttps://t.co/ZdigQWJaeS\n http://t.co/hMCgykWlvy',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede - http://t.co/SHaJGCdlxN #rtvoost',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/H9ymvSOtvp #salland #nieuws',?
+'RT @rtvoost: Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede - http://t.co/SHaJGCdlxN #rtvoost',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/SnzayWMD7M #hardlopen #informatie #loopinfo',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/XJDSst8A3M #overijssel #nieuws #nieuwsoverijssel',?
+'Hardlopers uit #Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/HYKqBHGG5U #info #nieuws',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede: http://t.co/pwTzH2Ec2p #rtvoost',?
+'Na 21 uur live @batavierenrace op de radio zit @bataradio erop. Onze felicitaties aan alle radiomakers voor deze topprestatie! #tvefm #bata',?
+'Hele ochtend in de regen bij de bata gekeken dus ik verdien vanavond wel een feestje denk ik zo. #batavierenrace #enschede',?
+'RT @UTNieuws: Het universiteitsteam van Groningen wint de 42ste #batavierenrace: Groningen is back! - UT Nieuws http://t.co/FNnZSB0Oln',?
+'RT @UTNieuws: Het universiteitsteam van Groningen wint de 42ste #batavierenrace: Groningen is back! - UT Nieuws http://t.co/FNnZSB0Oln',?
+'RT @tvefm: Na 21 uur live @batavierenrace op de radio zit @bataradio erop. Onze felicitaties aan alle radiomakers voor deze topprestatie! #…',?
+'Ik liep verschillende keren de #Batavierenrace, meestal de etappe Barchem-Lochem. Het feest kon me gestolen worden, eigenlijk.',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede #De hardlopers van de Rijksuniv http://t.co/tnZKggCVbz',?
+'De #Bata14 nu met een andere bril bekijken. Op m\'n fietsje naar de Campus, en niet om te werken... #proost',?
+'Regio nieuws: Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/Bb2FiAdF95 #hengelo #twente',?
+'OVERIJSSEL:  Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/wPdM3c9MHk',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in #Enschede http://t.co/lO1v6MtpoS',?
+'Gronings team wint Batavierenrace | TV #Enschede FM: Het universiteitsteam van Groningen heeft zaterdag de 42e... http://t.co/jM2bOqfs7S',?
+'Hardlopers uit #Groningen winnen Batavierenrace 2014, finish in #Enschede: De hardlopers van de Rijksuniversit... http://t.co/tnWCBgUKBN',?
+'Dus, vanavond #Batavierenfeest n.a.v. de #batavierenrace! Wordt mooi!',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/otRYujRGGa #NieuwsOverijssel #Twente',?
+'De lopers vd #batavierenrace hadden geen geluk gisteren, vannacht en vandaag! Maar er is gefinisht en dat is op zich alweer heel erg knap!',?
+'En na de Batavierenrace gaan we lekker uit eten! http://t.co/IvuIYBN2Ux ##bata #uiteten #Enschede http://t.co/jNQZIDJuRF',?
+'RT @rtvoost: Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede - http://t.co/SHaJGCdlxN #rtvoost',?
+'Lekker gelopen in de regen tijdens de #slotetappe van de #batavierenrace met de #chemierunners.',?
+'ML liep vandaag als niet student toch mee met de Batavierenrace, die is voorlopig niet thuis :) kan ik mooi werken. Rust in huis!',?
+'Nijmegen tweede bij Batavierenrace #bata14 http://t.co/1nTxfqzbaw',?
+'"Rennen is voor dieren." #batavierenrace',?
+'#Bata14 #42eBata http://t.co/x38doIqANn',?
+'RT @ProminentePik: "Rennen is voor dieren." #batavierenrace',?
+'Man, man, man, ik zit kapot, maar wat een prestatie heb ik weer neergezet! #Yolanthetweet #Batavierenrace http://t.co/YxABxstfPw',?
+'RT @joepstaps: Zonder diep te gaan maar te genieten. Nog niet topfit, maar op de weg terug! Fijn gevoel en echt genoten. #comeback #batavie…',?
+'RT @VoxNieuws: Nijmegen tweede bij Batavierenrace #bata14 http://t.co/1nTxfqzbaw',?
+'RT @VoxNieuws: Nijmegen tweede bij Batavierenrace #bata14 http://t.co/1nTxfqzbaw',?
+'RT @ProminentePik: "Rennen is voor dieren." #batavierenrace',?
+'#nieuws Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/sXzVHo9dVf #enschede',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede: De hardlopers van de Rijksuniversitei... http://t.co/0Kerj2R8pI',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/MXV9pOmQuc',?
+'RT @ErikEuving: Dus, vanavond #Batavierenfeest n.a.v. de #batavierenrace! Wordt mooi!',?
+'En volgens de orga 12.07 km/u!! 136e van de 351. Toch niet gek :) #batavierenrace  #utwente',?
+'RT @riannewanders: Lekker gelopen in de regen tijdens de #slotetappe van de #batavierenrace met de #chemierunners.',?
+'#lonneker #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/pQrPs2roUm',?
+'#glanerbrug #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/7Oo0fgdlwn',?
+'#twente #nieuws Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/zQv3V0gE4x',?
+'#twente #rtvoost Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/jE8MT1f6ZH',?
+'#usselo #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/0as49a2Wwc',?
+'#boekelo #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/ScptWGti8p',?
+'#rutbeek #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/si2gJ4RK70',?
+'#enschede #fm Gronings team wint Batavierenrace | TV Enschede FM http://t.co/VE3zqfgf28',?
+'Team #aeolus heeft voor vierde keer de #batavierenrace #bata14 gewonnen!!!!!',?
+'RT @rtvoost: Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede - http://t.co/SHaJGCdlxN #rtvoost',?
+'RT @michielpunter: Op naar Ulft voor 10km rennen! Het is 4u \'s ochtends maar we hebben er nu al zin in! @Batavierenrace http://t.co/fQQNetL…',?
+'RT @RUNijmegen: #bata14 is een uur onderweg, maar Enschede is \'n eind lopen. Volg de lopers via @VoxNieuws en @UTwente. Succes en veel plez…',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede: De hardlopers van de... http://t.co/SSnyvGVNwm #Nieuws',?
+'43ste geëindigd in algemeen klassement van de #batavierenrace met team @FysioPolman en @SportcentrumUT. Mooie prestatie!',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/We2siGh5uh',?
+'#Enschede Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede De hardl #Twente http://t.co/NFpt9zgwTA',?
+'RT @rtvoost: Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede - http://t.co/SHaJGCdlxN #rtvoost',?
+'RT @ProminentePik: "Rennen is voor dieren." #batavierenrace',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede #newslocker http://t.co/CoMEMT7wjh',?
+'Trots op mijn dochter running de @Batavierenrace #bikkel http://t.co/EqOdhB0l6F',?
+'RT @Team4Mijl: Niek heeft de laatste etappe van de #bata14 gewonnen. Het RUG/Hanze @RunnersworldGr team, met inbreng van T4M atleten won de…',?
+'"@ProminentePik: "Rennen is voor dieren." #batavierenrace" weer een excuus @Larsjeee1993',?
+'RT @RUNijmegen: #bata14 is een uur onderweg, maar Enschede is \'n eind lopen. Volg de lopers via @VoxNieuws en @UTwente. Succes en veel plez…',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede: De hardlopers van de Rijksuniversitei... http://t.co/WcSvtYqwhv',?
+'#Nijmegen tweede bij Batavierenrace: Helaas pindakaas. Dezelfde overwinning als vorig jaar zat er niet in, maa... http://t.co/RwqUIBLpks',?
+'RT @SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede: De hardlopers van de Rijksuniversitei... http://t.co/RH2mPWbyR2',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede #newslocker http://t.co/WTdfbhwyLs http://t.co/U7kxa0vQx3',?
+'@__Pablito @FysioPolman @SportcentrumUT goed man! #bata14',?
+'Terug naar huis naar de #Batavierenrace. #Demcon won het bij de bedrijven. Go team Demcon!',?
+'Duurt lang bij de finish.. @batavierenrace http://t.co/pH0vAysWle',?
+'@pepijnoomen @FB_Nijmegen @Batavierenrace goed gedaan, nuttig en een heel werk.',?
+'RT @SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'te late foto #bata14 mijn batterij lief me in de steek, alsnog: http://t.co/45mT3SJGa4',?
+'De Batavierenrace zit erop! Als team kunnen we terugkijken op een geslaagd weekend. Ondanks de tegenvallen in de... http://t.co/BtoRvgEa1M',?
+'Gefeliciteerd! "@SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor"',?
+'RT @UTNieuws: Het universiteitsteam van Groningen wint de 42ste #batavierenrace: Groningen is back! - UT Nieuws http://t.co/FNnZSB0Oln',?
+'RT @nieuws_enschede: Hardlopers uit #Groningen winnen Batavierenrace 2014, finish in #Enschede: De hardlopers van de Rijksuniversit... http…',?
+'Groningen wint de Batavierenrace http://t.co/oQggOz8zfw #sportintwente',?
+'RT @DJ_Maus1: Op weg naar de hoeken van het land om goed te knallen @Batavierenrace op @UTwente Enschede. Hoop dat niet iedereen zeiknat is…',?
+'RT @DJ_Maus1: Op weg naar de hoeken van het land om goed te knallen @Batavierenrace op @UTwente Enschede. Hoop dat niet iedereen zeiknat is…',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/VkwjDblBan',?
+'Laatste studenten maanden dan kan het batavierenfeest niet ontbreken! #bata2014',?
+'Gyas heeft zich weer bewezen als allround sportvereniging! 10e plek op de batavierenrace. Snelste Groninger, roei... http://t.co/RDGWYzqIIv',?
+'@MarcoBorger1 ha ha ha #cabaret wat een \'plasje maken\' teweeg kan brengen . . .#batavierenrace #bata14 #UT',?
+'#bata14 geweldige foto! via batavierenrace.nl feest in de tent! http://t.co/XPnSHJDlmP',?
+'RT @JoeyvanMaanen: #bata14 geweldige foto! via batavierenrace.nl feest in de tent! http://t.co/XPnSHJDlmP',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede #newslocker http://t.co/NATlWG9Bz0',?
+'jij je muntje al gedoneerd? #bata14 zou het maar snel doen! \'Gewoon doen\'  #KWF #UT http://t.co/24sBXH9b6J',?
+'En dat werd een toptijd! 14.6 km/h voor dochterlief! @Batavierenrace #004Asac http://t.co/tYZcPWYEJL',?
+'RT @CasmiraW: Laatste studenten maanden dan kan het batavierenfeest niet ontbreken! #bata2014',?
+'#Grolsch #Twente #Batavierenrace http://t.co/2x5D9V2IZj',?
+'Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (8509 mensen) verbroken.',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'Live vanaf de Batavierenrace; Lets go Corey, Go Packs go! De Buckeye speler die ik tijdens m\'n OH jaar heb leren kennen. Awesome! #SportAm',?
+'@kwf_nl Met elkaar, voor elkaar #bata14 #KWF',?
+'Wereldrecord Batavierenrace http://t.co/YO2EsVWSeC',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'Loup. #bata14 #42bata http://t.co/9EMo1UJ7Gb',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'eeven dansen op campus feest!! #campus #UT #batavierenrace ze hebben het verdient',?
+'RT @citrus_pers: Oude hond leerde nieuw kunstje vandaag. Gaaf om terug @Batavierenrace te zijn en langs m\'n 1e studentenhuis Cal13-1 te spr…',?
+'Mijn eerste @Batavierenrace: een vijfde plaats met @phoenixutrecht!',?
+'Wachten op de uitslag van de Batavierenrace... Drukken, vouwen en bezorgen. #batavierenrace #nachtwerk http://t.co/g5cm4BRqxV',?
+'Wachten op de uitslag van de Batavierenrace... Drukken, vouwen en bezorgen. #batavierenrace #nachtwerk http://t.co/TKfwoWGKec',?
+'Feestje op calslaan 8 iedereen welkom (?) #batavierenrace',?
+'RT @Gildeprint: Wachten op de uitslag van de Batavierenrace... Drukken, vouwen en bezorgen. #batavierenrace #nachtwerk http://t.co/TKfwoWGK…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'43e plaats voor fysiotherapeuten en sportdocenten!#batavierenrace http://t.co/LVLrPNxFwP',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @SportcentrumUT: 43e plaats voor fysiotherapeuten en sportdocenten!#batavierenrace http://t.co/LVLrPNxFwP',?
+'De #batavierenrace is trots op de tweede plek. #esf14 http://t.co/XQPhvqAqWQ',?
+'Een topprestatie door ons @DEMCON Batavierenteam! #1eplaats #bedrijvenklassement #batavierenrace',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'@Batavierenrace @batainfobalie @bataradio B E D A N K T !!! #lijn7 #gaseropdakeraf http://t.co/ozvBw52Sa0',T
+'@Batavierenrace @batainfobalie @bataradio B E D A N K T !!! #lijn7 #gaseropdakeraf http://t.co/XJuB8PE6CW',T
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'What so called the biggest student party in europe.… (w/ Jeje, Maulidinov, &amp; Anggasta at Batavierenrace) — https://t.co/CnRQZGHSLA',?
+'Een hele fijne avond, hou \'m keihard de sociaalste! #bata14 http://t.co/YS8y22lbuJ',?
+'RT @JSTwente: Een hele fijne avond, hou \'m keihard de sociaalste! #bata14 http://t.co/YS8y22lbuJ',?
+'RT @JSTwente: Een hele fijne avond, hou \'m keihard de sociaalste! #bata14 http://t.co/YS8y22lbuJ',?
+'En nog meer foto\'s https://t.co/bb8pzH3gGM @batainfobalie @bataradio @Batavierenrace #lijn7 #gaseropdakeraf',?
+'Poging tot slapen na 38uur, waarin ik 7uur trein heb gereisigd, 8uur heb gefeest en 6.7km in 37minuten heb hardgelopen. #weekend #bata14',?
+'#doezepwa. Mooie ijsbreker op de #batavierenrace',?
+'Gronings team wint kletsnatte Batavierenrace | TV #Enschede FM: Het universiteitsteam van Groningen heeft zate... http://t.co/1sdsp3qwI8',?
+'50\% der Menschen hier kennen den Text der Lieder nicht! Hindert sie aber nicht am mitsingen. #Bata14 #utwente #studentlife',?
+'Een geweldige batavierenrace afgesloten met een nog mega geweldiger feest! Bata 2014 was episch! Volgend jaar sowieso weer! #bata #ELSangELS',?
+'RT @DEMCON: Een topprestatie door ons @DEMCON Batavierenteam! #1eplaats #bedrijvenklassement #batavierenrace',?
+'Wereldrecord Batavierenrace: Hardloopnieuws plaatste het volgende bericht op hun website:... http://t.co/b2S9EoCyLr $sport #sport #nieuws',?
+'RT @DEMCON: Een topprestatie door ons @DEMCON Batavierenteam! #1eplaats #bedrijvenklassement #batavierenrace',?
+'Wat een dagen en nachten zijn dit! #bata14',?
+'RT @GDF96: Poging tot slapen na 38uur, waarin ik 7uur trein heb gereisigd, 8uur heb gefeest en 6.7km in 37minuten heb hardgelopen. #weekend…',?
+'Op 1min derde geëindigd na 10,5uur @batavierenrace #2014 met #team #PETER! Mooie mensen,  prestatie en herinnering http://t.co/e5VlRqAskR',?
+'Hardlopers uit Groningen winnen Batavierenrace 2014, finish in Enschede http://t.co/Dkzg2AKAiH',?
+'RT @SSCEindhoven: Team Tu/e-Fontys takes 3rd place in the @Batavierenrace! Fantastic result! @Fontys @TUeindhoven @tuecursor',?
+'Groningen wint Batavierenrace http://t.co/C4N2tv2zsT #nbrabant #brabant #nieuws',?
+'Rijden in een schône waggie! Nu terras in regenachtig #enschede klaar voor de slotetappe! #batavierenrace http://t.co/ifyRjvqJ59',?
+'#groningen Groningen wint Batavierenrace http://t.co/PwapTuV6Ru #borrelnieuws',?
+'Groningen wint Batavierenrace: GRONINGEN - Een team van Rijksuniversiteit Groningen en Hanzehogeschool Groning... http://t.co/VoqGiSii8x',?
+'Groningen wint Batavierenrace #newslocker http://t.co/RuGMKfWxHV',?
+'#Groningen wint Batavierenrace http://t.co/9D6yCMHJB0',?
+'Groningen wint Batavierenrace http://t.co/xJIgQWkZqf',?
+'#Grunn Groningen wint Batavierenrace http://t.co/D6hkplFMGK #Groningen',?
+'Nog moe van de dag @batavierenrace maar alweer op weg naar @DeRuiterPT Daarna doe ik echt ff niks meer :-D',?
+'RT @GR0NINGEN: #Grunn Groningen wint Batavierenrace http://t.co/D6hkplFMGK #Groningen',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @dvhn_nl: Groningen wint Batavierenrace http://t.co/xJIgQWkZqf',?
+'RT @JosBosboom_: Groningen wint Batavierenrace: GRONINGEN - Een team van Rijksuniversiteit Groningen en Hanzehogeschool Groning... http://t…',?
+'Groningen wint Batavierenrace: GRONINGEN - Een team van Rijksuniversiteit Groningen en Hanzehogeschool Groning... http://t.co/pEzlEIDaAN',?
+'Groningen wint Batavierenrace: GRONINGEN - Een team van Rijksuniversiteit Groningen en Hanzehogeschool... http://t.co/N38RRuV2EZ dvhn.nl',?
+'Ha, nu al zin in de #Batavierenrace van 2015! Nagenieten met m\'n afspeellijst, die hopelijk ook wat oppept tijdens … http://t.co/4qZCnfaLW1',?
+'Team @univgroningen wint @Batavierenrace http://t.co/8i9ne5ALp2 @dvhn_nl #hardlopen #estafette #running',?
+'#Hack42 voorzitter #Moem gespot tijdens de @batavierenrace https://t.co/gbtw8mqttn #Verzorgingsploeg #BATA #Batavierenrace #757 #BATA14 #42',?
+'Prachtige 9e plek @AltisMasters debuut @Batavierenrace volgend jaar podiumplek ? @AvAltis',?
+'RT @_Eindhoven: #Groningen wint Batavierenrace: Een team van Rijksuniversiteit #Groningen en Hanzehogeschool #Groningen heeft ... http://t.…',?
+'Dappere renners van US staan 145e vd 355 in de voorlopige einduitslag vd Batavierenrace 2014.',?
+'In dit hondenweer niet de Batavierenrace gelopen gisteren, straks ook een binnenprogramma, en hopelijk volgend weekend weer op de racefiets.',?
+'Groningen wint estafetterun Batavierenrace http://t.co/vhOEOn5qYa #nieuws #DG',?
+'RT @supersjokker: Gisteren een semi wedstrijd. Etappe 7km bij de batavierenrace. Beter dan het was, minder dan ik hoopte. On my way to @Mar…',?
+'En zo zet je de Batavierenrace naar je hand! Team Aeolus ook in 2014 boven aan! http://t.co/uh57qwLGuT',?
+'Groningen wint estafetterun Batavierenrace http://t.co/6OvppnOazq #DG #nieuws',?
+'Als @NS_online een extra trein in zet, mag die ook best stoppen op drienerlo. Denk je dat ze rekening hebben gehouden met de. Batavierenrace',?
+'Groningen wint estafetterun Batavierenrace: NIJMEGEN - Het estafetteteam van de Rijksuniversiteit Groningen he... http://t.co/xrezR0LeoK',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/Dz8dsPYGUl #atletiek',?
+'RT @losseveter: Gronings collectief wint 42e Batavierenrace http://t.co/Dz8dsPYGUl #atletiek',?
+'Feest van de #batavierenrace! #Enschede studentenstad op zijn best!',?
+'Groningen wint estafetterun Batavierenrace http://t.co/x4NZbJ4Vzn #nieuws #DG',?
+'@dbenshachar @Batavierenrace hoe is het gegaan?',?
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/VNj1wnoHnY',?
+'Groningen wint estafetterun Batavierenrace: NIJMEGEN - Het estafetteteam van de Rijksuniversiteit... http://t.co/LKskte9Yg7 #Nieuws',?
+'RT @DeGelderlander: Groningen wint estafetterun Batavierenrace http://t.co/vhOEOn5qYa #nieuws #DG',?
+'RT @dvhn_nl: Groningen wint Batavierenrace http://t.co/xJIgQWkZqf',?
+'RT @AltisMasters: Prachtige 9e plek @AltisMasters debuut @Batavierenrace volgend jaar podiumplek ? @AvAltis',?
+'RT @Batavierenrace: Door wind en regen én zelfs met boomstam niet te stoppen! #held #bata #batavierenrace #SUSA http://t.co/Xc8XWtvLGE',?
+'Weer geen titel helaas.. het knaagt toch wel. Misschien dan toch nog een extra jaar ploegleider worden? Wie weet... @UniTeamAdam #bata14',?
+'Groningen wint Batavierenrace #newslocker http://t.co/DKRCrPkufe',?
+'RT @lijn7degekste: @Batavierenrace @batainfobalie @bataradio B E D A N K T !!! #lijn7 #gaseropdakeraf http://t.co/XJuB8PE6CW',T
+'#barchem #achterhoek Groningen wint estafetterun Batavierenrace http://t.co/ieMgwzQRFg',?
+'#lochem #achterhoek Groningen wint estafetterun Batavierenrace http://t.co/yPCjZxoSeq',?
+'RT @__Pablito: De sintelbaan is voor @Batavierenrace, wat het vélodrome is voor Parijs-Roubaix. Jammer dat finishlocatie te nat is: http://…',?
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/qt25xNUe50',?
+'@HansBraker Hoe was de Batavierenrace?',?
+'Leuk nachtje gehad bij Batavierenrace in Enschede. Nu weer in Goor voor een hockeywedstrijd. #rondjetwente',?
+'Hoeveelste batavierenrace was het eigenlijk dit weekend? http://t.co/m6JyZ7zaV1',?
+'Gelderlander (11-05 11:30 ) - Groningen wint estafetterun Batavierenrace http://t.co/i0gS9AM3DO #nieuwbericht',?
+'@rooosvicee Iedereen op de Batavierenrace, dit weekend.',?
+'Wauw wat een weekend, heerlijk gelopen en eindfeest was moooi. Nu opweg naar opaaa his party #batavierenrace #altijdfeest',?
+'Goed geslaagd weekend gehad in Enschede bij de Batavierenrace! Lekker gelopen en mooi feestje gevierd gisteren. Nu de hele dag bijslapen :)',T
+'Gronings collectief wint 42e Batavierenrace #newslocker http://t.co/29CL2oR1Dl',?
+'Wat een geweldige Batavierenrace was het voor Daedalus: een 73ste plek in het algemeen klassement en een 1ste... http://t.co/2b6MfonzoJ',?
+'Ran a #bata14 stage with @wahoofitness BT HRM, @iSmoothRun and @Pebble as display. One wired up geek running :) Now for some more training..',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @Batavierenrace: Het Groningse Universiteitsteam wint de 42e Batavierenrace. Nijmegen en Eindhoven zijn 2 en 3. Aeolus wint het Algemeen…',?
+'RT @Hertog99: Ran a #bata14 stage with @wahoofitness BT HRM, @iSmoothRun and @Pebble as display. One wired up geek running :) Now for some …',?
+'Nog aan het bijkomen van een geweldig goed geslaagde batavierenrace (dank jullie wel, sportieve SVN\'ers, KNUSsers... http://t.co/vqYoCq1zMa',?
+'RT @SGDaedalus: Wat een geweldige Batavierenrace was het voor Daedalus: een 73ste plek in het algemeen klassement en een 1ste... http://t.c…',?
+'RT @Hertog99: Ran a #bata14 stage with @wahoofitness BT HRM, @iSmoothRun and @Pebble as display. One wired up geek running :) Now for some …',?
+'Batavieren was zo awesome! Mooie tijd gelopen voor S.A. Proto en een geweldig feest, volgend jaar sowieso weer!! #batavierenrace #enschede',T
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/odThklQJbH',?
+'Ondanks het slechte weer was de Batavierenrace weer een ongekend succes dit jaar. Na een moeilijk begin een... http://t.co/Uw3evNmKer',T
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'[In Beeld] De 42ste Batavierenrace: Het is helaas weer voorbij: de Batavierenrace. In totaal liepen 8614 loper... http://t.co/Hu0KRAKUtq',T
+'RT @AltisMasters: Prachtige 9e plek @AltisMasters debuut @Batavierenrace volgend jaar podiumplek ? @AvAltis',?
+'Mooi evenement die #batavierenrace goed gelopen #tartlétos en @UniWageningen',?
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/XuWVwwKogA',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'Wat een weekend! Derde plaats met universiteitsteam Eindhoven #batavierenrace',?
+'Top weekend gehad met WaHo :) #bata14 #batavierenrace',?
+'RT @losseveter: Gronings collectief wint 42e Batavierenrace http://t.co/Dz8dsPYGUl #atletiek',?
+'Batavierenrace #etappe21 #utsaxionteam http://t.co/5eYFRGQq5x',?
+'@Didymis @MonicaBrr #esf14 eindfeest van de batavierenrace. Dat is dan ook meteen de reden!',?
+'Spierpijn. Overal. #bata14',?
+'#enschede #bata #bata2014 #afterparty #energy #doorgaan #uttwente http://t.co/XcmxsU8F2R',?
+'RT @enschede: Vanmiddag Oude Markt #Enschede @Batavierenrace! Let op: geen fietsen op de Oude Markt maar in bewaakte fietsenstalling Kruisp…',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/bm5XBgS1AB',?
+'Groningen wint estafetterun Batavierenrace #newslocker http://t.co/3uT0fY6Vxm',?
+'RT @rudengrim: Wat een weekend! Derde plaats met universiteitsteam Eindhoven #batavierenrace',?
+'Foto\'s van team JOVD Twente en Rijk van Nijmegen c.a.\nhttps://t.co/NIrCN5TwOZ http://t.co/ncsTa1YlJP',?
+'Vorig jaar 265e, dit jaar als 181e gefinisht. Komend jaar top-100 dus? ;-)  Lopers, bedankt! #batavierenrace',?
+'RT @topicusbv: Grote complimenten aan de organisatie van @Batavierenrace, jullie hadden alles echt top geregeld, wij hebben een fantastisch…',T
+'Een fijne combinatie van hardlopen en feest gehad dit weekend. Ondanks de regen was het een mooie #batavierenrace',T
+'Aeolus wint grootste Batavierenrace ooit http://t.co/W1VCpfjYhu',?
+'Het feestje van de batavierenrace was ook zéér geslaagd #bata14',T
+'Een hete douche en geen wachtende mensen achter je. Heerlijk na weekend Batavierenrace! #my100happydays #22 http://t.co/DIpZCXX4Ic',?
+'Een hete douche en geen wachtende mensen achter je. Heerlijk na een Batavierenrace weekend! #my100happydays #21 http://t.co/tS7qlnM54F',?
+'Lachende gezichten na de #batavierenrace van het #erasmusuni team. Goed gedaan team! @erasmusnieuws @ErasmusMag http://t.co/ceXw965lsu',?
+'#batavierenrace http://t.co/LQCjp9qACb',?
+'De 42e Batavierenrace was een groot succes voor de Kannibalz! Helaas niet een 2e plaats zoals bij het Eurovisie... http://t.co/Fb46U40gFB',?
+'Terug van de #batavierenrace en de camera is al aardig opgedroogd. Mijn foto\'s: https://t.co/UrYuPjhO2U WP4, WP8, WP12, WP15, WP18 en WP23.',?
+'Gisteren namens @SV_Synergy de laatste etappe van de @Batavierenrace gelopen. Met gemiddelde van 14,2 km per uur zeer blij! #nice #bata14',?
+'RT @tw1994: Eindelijk terug in Ehv van de #Batavierenrace, na een lange brakke treinrit. Ondanks het takkeweer was \'t weer een mooi weekend…',?
+'@Batavierenrace Wat een waanzinnig weekend!! #batakampioen #rughanzeteam',?
+'#batavierenrace was top!!! :) volgend jaar doen we zeker weer mee!',?
+'Topweekend gehad bij Batavierenrace in Enschede!',?
+'@EerkeB Batavierenrace uitstekend gelopen! Ruim binnen doelstelling. Meewind compenseerde de modder. Prima prestaties van hele team',?
+'De WUR lopers hebben het goed gedaan met de 42e #Batavierenrace! Gefeliciteerd met jullie 7e plek! http://t.co/wYyoOrB9J5',?
+'Batavierenrace was gaaf om mee te doen! goed gelopen en gefeest!',T
+'Geweldig weekend gehad bij de #Batavierenrace, 3e met het TUe/Fontys team en daarna Enschede onveilig gemaakt =) #team169',?
+'42e @batavierenrace GOUD voor Groningen!!!! http://t.co/bgQbgfVloc',?
+'Bata4en wat was je gezellig! Ondanks de regen een geslaagd weekendje! #bata14',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'RT @UniWageningen: De WUR lopers hebben het goed gedaan met de 42e #Batavierenrace! Gefeliciteerd met jullie 7e plek! http://t.co/wYyoOrB9J5',?
+'RT @Linellay: Ha, nu al zin in de #Batavierenrace van 2015! Nagenieten met m\'n afspeellijst, die hopelijk ook wat oppept tijdens … http://t…',?
+'RT @Harriegerrits14: 42e @batavierenrace GOUD voor Groningen!!!! http://t.co/bgQbgfVloc',?
+'Overview #batavierenrace. Bad weather and unfortunate accidents. #utwente http://t.co/l5BNCTQvQD',?
+'Wat een bek, zeg. https://t.co/fsYuVVaFxc',?
+'Geweldig weekend in Enschede gehad bij de batavierenrace! 😊 #bata14',T
+'Gesloopt maar voldaan! Topweekend gehad bij de Batavierenrace #vrijwilligers #hartvanbrabantloop http://t.co/QPUAUqDPnW',?
+'De party-bus-cd bleef dit jaar bij de Batavierenrace helaas thuis. Maar toch nog even het ultieme Keizerstad... http://t.co/hhs2RPsTKH',?
+'Finish Batavierenrace in Enschede verplaatst door noodweer - RTV Oost #newslocker http://t.co/dbwOsYmNn8',?
+'Lopers Batavierenrace onderweg naar Enschede - RTV Oost #newslocker http://t.co/IsedsAWSwH',?
+'RT @R_Lugtenburg: Gesloopt maar voldaan! Topweekend gehad bij de Batavierenrace #vrijwilligers #hartvanbrabantloop http://t.co/QPUAUqDPnW',?
+'Proud of our results for the Formal Methods and Tools group at U. Twente: https://t.co/1AF3U9kreQ',?
+'Weekendje #Batavierenrace was top, kneiter hard die nacht door gelopen maar nu compleet uitgeteld! Volgend jaar weer! #bata #skits',?
+'RT @Batavierenrace: Wereldrecord! Met een totaal aantal van 8614 lopers heeft de 42e Batavierenrace het wereldrecord van de 40e editie (850…',?
+'Eerste \'wedstrijd\' na lange blessure, ontzettend fijn!Topsport speciaal voor studenten op m\'n website http://t.co/fHTollzUym #Batavierenrace',?
+'De complete groep KAGgers die dit jaar meedeed aan de Batavierenrace. We zijn op de 253ste plek geëindigd, dat is... http://t.co/9v20p6wBJX',?
+'RT @geepje: De @Batavierenrace is in volle gang! Het #erasmusuni team heeft de nodige km\'s in de benen. Op naar de finish! http://t.co/qp99…',?
+'Wij maakten een terugblik in foto\'s van de Batavierenrace voor je. http://t.co/MM8O8vsEyH',?
+'RT @UniWageningen: De WUR lopers hebben het goed gedaan met de 42e #Batavierenrace! Gefeliciteerd met jullie 7e plek! http://t.co/wYyoOrB9J5',?
+'RT @TwenteAtletiek: Aeolus wint grootste Batavierenrace ooit http://t.co/W1VCpfjYhu',?
+'Wereldrecord 42e Batavierenrace http://t.co/m0ozNu1yCh',?
+'RT @VoxNieuws: Wij maakten een terugblik in foto\'s van de Batavierenrace voor je. http://t.co/MM8O8vsEyH',?
+'Sign build out of beer crates #batavierenrace http://t.co/Fsb7AdeLsH',?
+'De lopers van #Mercurius hebben een mooie race gelopen bij de #batavierenrace!',?
+'\'De natste Batavierenrace ooit\' was het. De ideale omstandigheden dus voor de mooiste onder- en boven... http://t.co/BsOYi4jB3l',?
+'Heren 6 was met 4 spelers hofleverancier bij de Batavierenrace 2014.. Een staande ovatie voor Chrissie in Ulft. http://t.co/jBhfVE4cJ9',?
+'Gisteren stonden wij met onze stand op de #batavierenrace te Enschede. Nogmaals bedankt! @Batavierenrace http://t.co/uYfBfPbecp',?
+'Had a great time during the #Batavierenrace. Finished 49th (10km) and 41st (4.6km) in my two stages. And my @TomTom GPS watch is great!',?
+'Felicitaties aan de winnaars #bata2014 en meer dan complimenten en felicitaties voor de organisatie van #batavierenrace. Op naar september!',?
+'Kuitjes kapot, heerlijk zo na de 12,5km gelopen te hebben in ruim 57 minuten #Bata14 http://t.co/mbwDRHifiZ',?
+'Zoooo lekker lekker uitbrakken van de #batavierenrace',?
+'Studente @Linellay liep voor het eerst mee met de @Batavierenrace. De plannen voor volgend jaar liggen al klaar. http://t.co/ezRUjVCKb0',?
+'RT @VoxNieuws: Studente @Linellay liep voor het eerst mee met de @Batavierenrace. De plannen voor volgend jaar liggen al klaar. http://t.co…',?
+'´Zere benen en ik moet naar de wc´: Nog niet genoeg van de Batavierenrace\' Oké, nog één verhaal dan. Vox-medew... http://t.co/IV1kxHYHK0',?
+'Na @batavierenrace vandaag weer aan de slag voor @RHDHV_NL en - met mijn thesis. #maandag',?
+'#nieuws Gronings collectief wint 42e Batavierenrace http://t.co/4cvfBe1oxk #enschede',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/aXa0KRpany #nieuws #overijssel #nieuwsoverijssel',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/jrcOhU0zYV #gelderland #nieuws #provincienieuws',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/RRovzMRY9l #nbrabant #provincie #brabant',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/PNvFkIZtmG #provincie #groningen #info',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/rrbFv1JvPW',?
+'Nog even lekker nagenieten van de 42e Batavierenrace? Lees dan WP26, de uitslagenkrant van de 42e Batavierenrace. https://t.co/206VfcBaXT',?
+'Did it! #batavierenrace #running #lastfriday #stiekemwashetbestleuk http://t.co/ASEpubXh6k',?
+'Did it! #batavierenrace #running #lastfriday #stiekemwashetbestleuk http://t.co/aluhgrGIk3',?
+'RT @Batavierenrace: Nog even lekker nagenieten van de 42e Batavierenrace? Lees dan WP26, de uitslagenkrant van de 42e Batavierenrace. https…',?
+'Geen podiumplek voor UvA bij verregende Batavierenrace: ´Regen, noch koude, noch hitte, noch duisternis, kan v... http://t.co/4cifigJbFz',?
+'#Enschede Gronings collectief wint 42e Batavierenrace: Enschede - De noorderlingen zijn ter... http://t.co/29l4DSP1ol © de weekkrant.nl',?
+'Gronings collectief wint 42e Batavierenrace: Enschede - De noorderlingen zijn terug. Afgelopen twee jaar moest... http://t.co/nsGshQoz2l',?
+'#nb #bata14 ‘Zere benen en ik moet naar de wc’  http://t.co/GMeivABbLD',?
+'Geen podiumplek Amsterdam bij verregende Batavierenrace http://t.co/xrvaH7aiMJ',?
+'Hardloopteam @univgroningen eerste geworden op @Batavierenrace Congrats!',?
+'Het was een fantastisch weekend! Nu hard aan de bak voor onze hvb!  #bata14 #batavierenrace #running #TilburgU #UvT http://t.co/SXNLjsNDNs',?
+'UT/Saxion Runningteam finisht als zesde in een hectische Batavierenrace http://t.co/ZakPPnsJiM',?
+'Filmpje: Een natte 42e Batavierenrace http://t.co/yb5pa5gJYr',?
+'RT @Sax_nu: Filmpje: Een natte 42e Batavierenrace http://t.co/yb5pa5gJYr',?
+'We met one of our #eugames2014 volunteers at the #bata14! Join her this summer: http://t.co/ceSDj9ykef http://t.co/UuPVvhqV8a',?
+'Gronings collectief wint 42e Batavierenrace: De noorderlingen zijn terug. Afgelopen twee jaar moesten zij de w... http://t.co/1FqQghXFYD',?
+'#bata14 #UT Wereldrecord, mooie race en veel regen http://t.co/OH2IpU3GoF',?
+'Afgelopen weekend is ons team 93\'e geworden bij de @Batavierenrace! Een prima prestatie voor ons recreanten. Alle toplopers bedankt! #EOSVU',?
+'RT @HVBLoop: Het was een fantastisch weekend! Nu hard aan de bak voor onze hvb!  #bata14 #batavierenrace #running #TilburgU #UvT http://t.c…',?
+'Wat een topweekend was het! In 2015 gaan we voor de 1e prijs :-) @demcon. Bekijk ons fotoalbum op FB http://t.co/473QieRAGG @Batavierenrace',?
+'RT @Batavierenrace: De #Topicus herstart om 12 uur was een succes! #batavierenrace #bata http://t.co/b7ba8fCdeu',?
+'#glanerbrug #twente Gronings collectief wint 42e Batavierenrace http://t.co/6ps7gmMxZy',?
+'#lonneker #twente Gronings collectief wint 42e Batavierenrace http://t.co/drexA8Fr2o',?
+'We met one of our #eugames2014 volunteers at the #bata14! Join her this summer: http://t.co/sSf8sTDtQb #erasmusuni http://t.co/2Rf14sYUWX',?
+'Bata loopt vertraging op: De 42ste editie van de Batavierenrace heeft in de nachtetappes een half uur vertragi... http://t.co/13PgKkXe9Y',?
+'Geen podiumplek Amsterdam bij verregende Batavierenrace #newslocker http://t.co/n3V8PtmoCk',?
+'Gronings collectief wint 42e Batavierenrace #newslocker http://t.co/jWkvdmXIbo',?
+'Afgelopen weekend een prachtige Batavierenrace beleefd en veel SAV leden weer gesproken? Kom tijdens Hemelvaart... http://t.co/0r23gic6fe',?
+'RT @EUGames2014: We met one of our #eugames2014 volunteers at the #bata14! Join her this summer: http://t.co/sSf8sTDtQb #erasmusuni http://…',?
+'Team UvO boert goed bij Batavierenrace - http://t.co/Lr6P3IH019 - ... http://t.co/9kX4jZDnTl',?
+'RT @HVBLoop: Het was een fantastisch weekend! Nu hard aan de bak voor onze hvb!  #bata14 #batavierenrace #running #TilburgU #UvT http://t.c…',?
+'RT @topicusbv: Wat een topweekend was het! In 2015 gaan we voor de 1e prijs :-) @demcon. Bekijk ons fotoalbum op FB http://t.co/473QieRAGG …',?
+'RT @HVBLoop: Het was een fantastisch weekend! Nu hard aan de bak voor onze hvb!  #bata14 #batavierenrace #running #TilburgU #UvT http://t.c…',?
+'@utsaxionteam Bedankt voor jullie prestatie! We zijn blij dat we jullie konden sponsoren #batavierenrace http://t.co/ueO6eD40kY',?
+'Gronings collectief wint 42e Batavierenrace http://t.co/v0ajhN0Q8c #wageningen',?
+'#Groningen wint 42e Batavierenrace: Het Groningse universiteitsteam heeft zaterdag de 42e Batavierenrace gewon... http://t.co/1Isy66adpo',?
+'#Groningen wint 42e Batavierenrace: Het Groningse universiteitsteam heeft zaterdag de 42e Batavierenrace gewon... http://t.co/3B8EU8n97w',?
+'RT @NormaGroep: @utsaxionteam Bedankt voor jullie prestatie! We zijn blij dat we jullie konden sponsoren #batavierenrace http://t.co/ueO6eD…',?
+'Ik heb 25 foto\'s op Facebook geplaatst in het album "Batavierenrace | SportCie" http://t.co/ThlBb5htJw',?
+'Het RUG/Hanze Runnersworld won dit weekend de Batavierenrace! Van harte gefeliciteerd met deze enorm knappe prestatie!',?
+'RT @UniWageningen: De WUR lopers hebben het goed gedaan met de 42e #Batavierenrace! Gefeliciteerd met jullie 7e plek! http://t.co/wYyoOrB9J5',?
+'Het RUG/Hanze Runnersworldteam won dit weekend de Batavierenrace! Van harte gefeliciteerd met deze enorm knappe prestatie!',?
+'RT @ManfredGeisink: #krijtcampagne voor @topicusbv tijdens @Batavierenrace . Ook @maphevents ! http://t.co/g4Mjk3X2EA',?
+'120 alumni liepen afgelopen zaterdag de Batavierenrace wegens het 50-jarig bestaan van Kronos. - UT Nieuws http://t.co/EXI6rfRvdG',?
+'RT @UTNieuws: 120 alumni liepen afgelopen zaterdag de Batavierenrace wegens het 50-jarig bestaan van Kronos. - UT Nieuws http://t.co/EXI6rf…',?
+'Excentriek over de streep tijdens de Batavierenrace #bata #Topicus http://t.co/fbM1rfKXrK',?
+'AEOLUS RUNNINGTEAM wint BATAVIERENRACE voor de vierde keer http://t.co/hcJofjhVnz #atletiek #hardlopen',?
+'AEOLUS RUNNINGTEAM wint BATAVIERENRACE voor de vierde keer http://t.co/VSK0wIzHiZ #atletiek #hardlopen',?
+'RT @UTNieuws: 120 alumni liepen afgelopen zaterdag de Batavierenrace wegens het 50-jarig bestaan van Kronos. - UT Nieuws http://t.co/EXI6rf…',?
+'Gronings collectief wint 42e Batavierenrace #newslocker http://t.co/kM36qdJLzv',?
+'Groningen wint 42e Batavierenrace #newslocker http://t.co/XGbUjciGId',?
+'Groningen wint 42e Batavierenrace http://t.co/5ZwvlROHJF',?
+'#RUG &amp; #Hanzestudenten winnen 42ste #Batavierenrace, de grootste estafetteloop ter wereld. Gefeliciteerd met deze... http://t.co/NqQhOOzwRn',?
+'@pepijnoomen Leuk, dat stukje in de uitslagenkrant van de #Batavierenrace. http://t.co/FOsXu4y8JA',?
+'SSN feliciteert @ACLOSPORT  en @Batavierenrace met de prachtige prestaties. Prachtige editie van de #BATA en titel voor #RUG #Hanze',?
+'RT @HanzeMag: #RUG &amp; #Hanzestudenten winnen 42ste #Batavierenrace, de grootste estafetteloop ter wereld. Gefeliciteerd met deze... http://t…',?
+'Brons voor Eindhovense studenten in Batavierenrace http://t.co/IiSWS10RCc',?
+'Geen podiumplek EUR bij natte Batavierenrace: Voor het eerst in vier jaar verscheen een universiteitsteam uit ... http://t.co/n2q5y7m6Js',?
+'RT @tuecursor: Brons voor Eindhovense studenten in Batavierenrace http://t.co/IiSWS10RCc',?
+'Jullie waren weer top, @lijn7degekste!  http://t.co/fGoMR0VInB #batavierenrace #batavierenfeest',?
+'Nike ambassadors went for a road trip this weekend! #weownthenight #batavierenrace #nikeplus http://t.co/0H0DQUcuad',?
+'We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XESPxToufL',?
+'Geen podiumplek voor het EUR-team tijdens een natte Batavierenrace. http://t.co/10AJPn6hSr',?
+'RT @topicusbv: We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XE…',?
+'Meedoen belangrijker dan winnen... Tot volgend jaar! RT @ErasmusMag: Geen podiumplek voor het EUR-team tijdens #bata http://t.co/75luVkWb8r',?
+'Trots op de ode die voor mij is geschreven n.a.v. mijn rol als ploegleider van @UniTeamAdam #Batavierenrace https://t.co/yJH6Aiy7Pf',?
+'RT @HanzeMag: #RUG &amp; #Hanzestudenten winnen 42ste #Batavierenrace, de grootste estafetteloop ter wereld. Gefeliciteerd met deze... http://t…',?
+'RT @geepje: Meedoen belangrijker dan winnen... Tot volgend jaar! RT @ErasmusMag: Geen podiumplek voor het EUR-team tijdens #bata http://t.c…',?
+'Bekijk nu onze Batavierenfeest 2014 Video!\n\nWe hebben een awesome avond gehad tijden de Batavierenrace 2014 in... http://t.co/uQAL1G781s',?
+'Gezien? Groningen wint Batavierenrace! http://t.co/7dtfKKShki',?
+'We nemen aan dat iedereen weer in het rijk der levenden is na een slopend, maar fantastische Batavierenrace?\n\nBij... http://t.co/uxiRanPfGQ',T
+'I\'m at Batavierenrace Nijmegen http://t.co/4dK812h35w',?
+'RT @tuecursor: Brons voor Eindhovense studenten in Batavierenrace http://t.co/IiSWS10RCc',?
+'RT @tuecursor: Brons voor Eindhovense studenten in Batavierenrace http://t.co/IiSWS10RCc',?
+'Leuk stukje in de uitslagenkrant van de #batavierenrace met o.a. @pepijnoomen over onze fietsverlichtingsactie: http://t.co/FOsXu4y8JA',?
+'Zeilweekend, Batavierenrace, slot- en sluitfeest, hockeytoernooi en Mr. Plato; wat hebben deze activiteiten met... http://t.co/LCHces6zzE',?
+'TV Enschede Nieuws ma 12 mei: uitstel luchthaven, eindexamens, @Batavierenrace en @CommonLinnets http://t.co/e8VNyEW7T3 #tvefm #enschede',?
+'#nieuws Gronings collectief wint 42e Batavierenrace http://t.co/0OVGawcws1 #enschede',?
+'RT @tvefm: TV Enschede Nieuws ma 12 mei: uitstel luchthaven, eindexamens, @Batavierenrace en @CommonLinnets http://t.co/e8VNyEW7T3 #tvefm #…',?
+'RT @topicusbv: We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XE…',?
+'Gronings collectief wint 42e Batavierenrace #newslocker http://t.co/MxLX8KvHCU',?
+'@SVNnijmegen, KNUS en Soda liepen samen als team LetteRun de Batavierenrace. Lees een verslag van @Linellay op http://t.co/Vn9Mv82FKq',?
+'158ste plaats behaald op de @Batavierenrace, een fantastische prestatie!',?
+'Groningen wint de 42e Batavierenrace #newslocker http://t.co/49FLiNwQtS',?
+'RT @Batavierenrace: Nog even lekker nagenieten van de 42e Batavierenrace? Lees dan WP26, de uitslagenkrant van de 42e Batavierenrace. https…',?
+'¤ http://t.co/riTHjGH3uJ 766 #Batavierenrace #Groningen #wint #Batavierenrace #daniellemcxs # # #android #game #apk #download',?
+'RT @daniellemcxs: ¤ http://t.co/riTHjGH3uJ 766 #Batavierenrace #Groningen #wint #Batavierenrace #daniellemcxs # # #android #game #apk #down…',?
+'RT @daniellemcxs: ¤ http://t.co/riTHjGH3uJ 766 #Batavierenrace #Groningen #wint #Batavierenrace #daniellemcxs # # #android #game #apk #down…',?
+'RT @daniellemcxs: ¤ http://t.co/riTHjGH3uJ 766 #Batavierenrace #Groningen #wint #Batavierenrace #daniellemcxs # # #android #game #apk #down…',?
+'"@ProminentePik: "Rennen is voor dieren." #batavierenrace" in dat geval was ik een beest denk ik ;)',?
+'RT @FB_Nijmegen: Leuk stukje in de uitslagenkrant van de #batavierenrace met o.a. @pepijnoomen over onze fietsverlichtingsactie: http://t.c…',?
+'RT @zwemtoerist: Jullie waren weer top, @lijn7degekste!  http://t.co/fGoMR0VInB #batavierenrace #batavierenfeest',?
+'RT @ACLOSPORT: Het RUG/Hanze Runnersworldteam won dit weekend de Batavierenrace! Van harte gefeliciteerd met deze enorm knappe prestatie!',?
+'Weer een eerste plaats voor het RUG/Hanze Runnersworld team #universiteitscompetitie @Batavierenrace dit weekend - Top!',?
+'RT @topicusbv: We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XE…',?
+'RT @topicusbv: Wat een topweekend was het! In 2015 gaan we voor de 1e prijs :-) @demcon. Bekijk ons fotoalbum op FB http://t.co/473QieRAGG …',?
+'RT @TopicusFinance: Excentriek over de streep tijdens de Batavierenrace #bata #Topicus http://t.co/fbM1rfKXrK',?
+'RT @tvefm: TV Enschede Nieuws ma 12 mei: uitstel luchthaven, eindexamens, @Batavierenrace en @CommonLinnets http://t.co/e8VNyEW7T3 #tvefm #…',?
+'RT @topicusbv: We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XE…',?
+'Had an AMAZING weekend ! #had #an #amazing #weekend #fun #batavierenrace #42ebata #bata #running… http://t.co/SN2atMVvxi',?
+'"De Achterhoek overspoeld met hardlopende studenten van de Batavierenrace" http://t.co/Tm5RW68OdZ',?
+'Pff, voel me nog steeds kut na de #Batavierenrace. Keelpijn, verkouden, gigantische spierpijn en nog een beetje brak. #maarhetwasweermooi',?
+'RT @TwitWinter: "De Achterhoek overspoeld met hardlopende studenten van de Batavierenrace" http://t.co/Tm5RW68OdZ',?
+'Een super gaaf weekend gehad! Meegedaan aan de Batavierenrace, geeïndigd op een mooie 54ste plek! :-)… http://t.co/PabLSVv3Hv',?
+'RT @TwitWinter: "De Achterhoek overspoeld met hardlopende studenten van de Batavierenrace" http://t.co/Tm5RW68OdZ',?
+'"Succes voor het UT/Saxion-Runningteam bij de Batavierenrace."\n\nLees het artikel op: http://t.co/7kfI6Yqrg0 http://t.co/HWPmWOzBL0',?
+'RT @VVHarambee: 158ste plaats behaald op de @Batavierenrace, een fantastische prestatie!',?
+'Eindelijk, de foto\'s van de @Batavierenrace! https://t.co/6GrAyW3Iqa\nZoek hier je eigen actiefoto: https://t.co/xsKwIUl5EY',?
+'Floor loopt persoonlijk record op Batavierenrace: \nAppelscha - Invictusatleet Gerko Floor heeft tijdens de Ba ... http://t.co/wsCkQEUZzG',?
+'#bata14 herstel loopje in de prachtige zon!',?
+'RT @HiddeHendriksen: Een fijne combinatie van hardlopen en feest gehad dit weekend. Ondanks de regen was het een mooie #batavierenrace',T
+'@Batavierenrace Waarom is de eerste etappe van de Bata uit de uitslag gehaald?',F
+'Eerste etappe #batavierenrace geschrapt vanwege verkeerd lopen van 3e startgroep?',F
+'@topicusbv @Batavierenrace maar tot die tijd zijn jullie altijd welkom \'m bij ons te komen bewonderen! :-) http://t.co/csNP7cGeaC',?
+'Tjas wint Gouden Schaats op Batavierenrace!\n\nG.S.S.V. Tjas deed dit jaar massaal mee aan de Batavierenrace. In de... http://t.co/UPAVQyv9V3',?
+'Het Groningse universiteitsteam heeft zaterdag de 42e Batavierenrace gewonnen http://t.co/VgV8d3sNcS Gefeliciteerd!',?
+'batavierenrace was succes afgelopen weekend. Erg gezellig om samen met de @loefbijter @deloefbijter te lopen:).',T
+'Afgelopen weekend heeft Mundus weer gestreden tijdens de Batavierenrace. Met een mooie 123ste plek als resultaat. http://t.co/p0shrdCwS1',?
+'I posted 13 photos on Facebook in the album "2014 05 10 Batavierenrace" http://t.co/w4wXFMcOrG',?
+'Batavierenrace 2014! #running #focused #bata #asics #lovetorun http://t.co/LIobfanPhZ',?
+'Vanavond een heerlijke training om je spierpijn van de Batavierenrace er uit te lopen, nu hopelijk zonder regen!... http://t.co/SlKR5fOvLQ',?
+'Heb je afgelopen weekend de #Batavierenrace gelopen en is dat goed bevallen? Meld je aan voor #RadboudSports! http://t.co/GTZO3aRhdz @RUFdM',?
+'RT @KarlKouki: Heb je afgelopen weekend de #Batavierenrace gelopen en is dat goed bevallen? Meld je aan voor #RadboudSports! http://t.co/GT…',?
+'Prima prestatie team NOP in Batavierenrace http://t.co/vhiA4juXuW #nieuwsoverijssel #nieuws #overijssel',?
+'Prima prestatie team NOP in Batavierenrace http://t.co/hyOJdkiLA8 #flevoland #provincie #nieuwsflevoland',?
+'Prima prestatie team NOP in Batavierenrace http://t.co/KdmNr6VmPO #provincie #gelderland #arnhem',?
+'DeNoordOostPolder.nl Prima prestatie team NOP in Batavierenrace: ENSCHEDE/EMMELOORD – Het team ‘Buitengewoon N... http://t.co/lV5tLrM05K',?
+'De NOP Prima prestatie team NOP in Batavierenrace: ENSCHEDE/EMMELOORD – Het team ‘Buitengewoon Noordoostpolder... http://t.co/gAx8o089df',?
+'#DeNoordoostpolder: Prima prestatie team NOP in Batavierenrace: ENSCHEDE/EMMELOORD – Het team ‘Buitengewoon No... http://t.co/77XzgfZI15',?
+'#nieuws Prima prestatie team NOP in Batavierenrace http://t.co/gxtEl327yY #enschede',?
+'Prima prestatie team NOP in Batavierenrace http://t.co/cvQgQMXxoK #noordoostpolder',?
+'#DeNOP Sport: Prima prestatie team NOP in Batavierenrace: ENSCHEDE/EMMELOORD – Het team ‘Buitengewoon Noordoos... http://t.co/Qntd292SuU',?
+'Prima prestatie team NOP in Batavierenrace: ENSCHEDE/EMMELOORD – Het team ‘Buitengewoon Noordoostpolder’, best... http://t.co/dGSlPeJUfN',?
+'Wat saai dat er geen foto\'s zijn van WP22 van de @Batavierenrace. =(',F
+'Prima prestatie team NOP in Batavierenrace #newslocker http://t.co/AJja1hQWBQ',?
+'New post: Batavierenrace http://t.co/JF0wnKyzz4',?
+'\'Bouw nieuwe noordtak Betuwelijn\' http://t.co/0WNLzNMIyf volgen ze nou exact de route van de @batavierenrace #dtv #snelstedoordeachterhoek',?
+'RT @peter_kuin: \'Bouw nieuwe noordtak Betuwelijn\' http://t.co/0WNLzNMIyf volgen ze nou exact de route van de @batavierenrace #dtv #snelsted…',?
+'Zaterdag 10 mei was het weer zover: de Batavierenrace ging van start en Morado CF was natuurlijk weer aanwezig.... http://t.co/poWOSi6rpA',?
+'RT @topicusbv: We hebben de @Telegraaf gehaald met @Batavierenrace. "Excentriek over de finish"... in een Topicus Morphsuit! http://t.co/XE…',?
+'Na de gemiste batavierenrace ook geen #marikenloop dit jaar door blessures...zucht',?
+'Ik heb 90 foto\'s op Facebook geplaatst in het album "De Batavierenrace 2014" http://t.co/DrIsXDJmXa',?
